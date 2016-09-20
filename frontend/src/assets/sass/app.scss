@@ -1,0 +1,799 @@
+$haccAccent: #2E7214;
+$haccText: #444;
+$haccLight: #f9f9f9;
+$haccMute: #777;
+$haccGrey: #e9e9e9;
+$haccSuccess: #80C062;
+$foundation-palette: (
+        primary: $haccAccent,
+        secondary: $haccGrey,
+        success: $haccSuccess,
+        warning: #ffae00,
+        alert: #ec5840,
+);
+[v-cloak] {
+    display: none;
+}
+@import "~vue-animate/dist/vue-animate.min.css";
+/* ==========================================================================
+   ~ FONT AWESOME ./node_modules/font-awesome/scss/_variables.scss
+   ========================================================================== */
+
+$fa-font-path: "~font-awesome/fonts";
+@import "~font-awesome/scss/font-awesome";
+/* ==========================================================================
+   ~ FOUNDATION
+   ========================================================================== */
+
+@import "./settings";
+//@import "~foundation-sites/scss/foundation.scss";
+@import "./material/material-foundation";
+// ==== Include kitchen sink (larger)
+//@include foundation-everything;
+// ==== TODO: performance CSS: include only components we need
+@include label;
+//@include foundation-global-styles;
+//@include foundation-grid;
+//@include foundation-typography;
+//@include foundation-button;
+//@include foundation-forms;
+// And so on...
+
+/* ==========================================================================
+   Loading & Transitions
+   ========================================================================== */
+div.loading{
+  display: block;
+	position:absolute;
+	left:50%;
+  min-height: 3em;
+  font-size: 25px;
+  text-align: center;
+}
+/* ==========================================================================
+   PRODUCT LISTING
+   ========================================================================== */
+.product.label{
+    margin: 0.6em;
+}
+.product.card > article{
+    display: block;
+    padding:0 2rem 1rem;
+}
+.product.card{
+    margin-bottom: 1.2em;
+	box-shadow: 0 0 0 0;
+    border-left: 1px solid #ddd;
+}
+.product.card .entry-content{
+	font-size:.85em;
+}
+.product.card .entry-footer{
+	font-size:.7em;
+	margin-top:1.5em;
+}
+.label.secondary {
+    background: transparent;
+    color: black;
+}
+p.product-category {
+    font-weight: bold;
+    margin-bottom: -1em;
+    margin-top: 2em;
+}
+hr.transparent{
+	color:transparent;
+	border-bottom:0px solid #fff;
+	height:.1em;
+}
+article.type-entry .entry-title{
+	margin:1em 0 0;
+}
+/* ==========================================================================
+   ~ BASE STYLES
+   ========================================================================== */
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600');
+/* ==========================================================================
+   Defaults
+   ========================================================================== */
+
+/*html {
+    box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+::-moz-selection {
+    background: $haccAccent;
+    color: $haccLight;
+    text-shadow: none;
+}
+::selection {
+    background: $haccAccent;
+    color: $haccLight;
+    text-shadow: none;
+}
+html,
+body {
+    background: $haccLight;
+    color: $haccText;
+}
+body {
+    font-size: 1em;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.4;
+}
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1rem 0;
+    padding: 0;
+}
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+    vertical-align: middle;
+}
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+textarea {
+    resize: vertical;
+}
+strong {
+    font-weight: 600;
+}*/
+
+/* ==========================================================================
+  FILTER ACCORDION MENU / OFF CANVAS / FILTERS
+   ========================================================================== */
+
+    @import "filters";
+
+
+/* ==========================================================================
+  Material Cards
+   ========================================================================== */
+.card .text-caption, .callout .text-caption{
+    color: rgba(0,0,0,0.66);
+    margin-bottom: 1em;
+}
+.card{
+    border-left: 3px solid $haccGrey;
+}
+nav h4{
+	font-size:.9em;
+}
+nav ul{
+	list-style: none;
+}
+.float-left{
+	float:left;
+}
+.float-right{
+	float:right;
+}
+
+/* ==========================================================================
+  Buttons * Icon * Links
+   ========================================================================== */
+
+a,
+.accordion-title {
+    color: $haccAccent;
+    text-decoration: none;
+}
+a:hover,
+a:focus {
+    text-decoration: underline;
+    color: inherit;
+}
+a.inverse {
+    color: $haccText;
+}
+a.inverse:hover,
+a.inverse:focus {
+    text-decoration: none;
+    color: $haccAccent;
+}
+.button.success {
+    background: $haccAccent;
+}
+.button.success:hover,
+.button.success:focus {
+    background: $haccSuccess;
+    text-decoration: none;
+}
+.raised-button {
+    text-decoration: none !important;
+	margin-top:2em;
+}
+.accordion-title {
+    font-size: 1rem;
+}
+.accordion-title:hover,
+.accordion-title:focus {
+    text-decoration: none;
+}
+/* ==========================================================================
+  Misc
+   ========================================================================== */
+body{
+	background:#fefefe;
+}
+.row{
+	max-width:70em;
+}
+.mute {
+    color: $haccMute;
+}
+.help-text {
+    color: inherit;
+    font-weight: normal;
+    font-style: normal;
+}
+.sep {
+    display: inline-block;
+    padding: 0 0.5em;
+    color: $haccMute;
+}
+.callout {
+    color: $haccText;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+.callout > label:last-child input {
+    margin-bottom: 0;
+}
+.callout h4 {
+    font-size: 1rem;
+    font-weight: normal;
+    color: $haccMute;
+}
+strong.count {
+    color: $haccAccent;
+}
+form hr {
+    margin-bottom: 2rem;
+}
+form legend {
+    font-weight: 600;
+    display: block;
+    padding-top: 1rem;
+    font-size: 1.5rem;
+}
+form .row {
+    margin: 1rem 0 1rem;
+}
+.products-vendors .medium-12 .row{
+	display:flex;
+	flex-direction:row;
+	flex-wrap: wrap;
+}
+img.fluid {
+    width: 100%;
+    height: auto;
+}
+.vblock {
+    padding: 3rem 1rem;
+    z-index: 2;
+    width: 100%;
+    height: auto;
+	text-align:center;
+    color: $haccMute;
+}
+.vblock ~ img {
+    position: relative;
+    z-index: -1;
+    visibility: hidden;
+}
+.vblock .button {
+    margin-top: 1rem;
+}
+.vblock ul {
+    display: block;
+    margin-top: 1rem;
+}
+.vblock li {
+    line-height: 1.8;
+}
+.vblock h2 {
+    font-size: 1.1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+	margin-bottom:1.5em;
+}
+img.home-icons {
+    display: block;
+    margin: 1em auto 2em;
+    height: 6em;
+}
+/* Webkit */
+
+::-webkit-input-placeholder {
+    color: $haccText;
+}
+/* Firefox 4-18 */
+
+:-moz-placeholder {
+    color: $haccText;
+}
+/* Firefox 19+ */
+
+::-moz-placeholder {
+    color: $haccText;
+}
+/* IE10+ */
+
+:-ms-input-placeholder {
+    color: $haccText;
+}
+/* ==========================================================================
+   ~ SITE
+   ========================================================================== */
+
+#site {
+    background: $haccLight;
+    margin: 0 auto;
+    padding: 0;
+}
+/* ==========================================================================
+  Site Header
+   ========================================================================== */
+
+#masthead {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    z-index: 3 !important;
+}
+/**.site.home #masthead {
+    background: transparent;
+}**/
+/* ==========================================================================
+  #hero
+   ========================================================================== */
+
+#hero {
+    background: $haccText url("/static/img/_headers/hero-events.jpg") 50% 50% no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    position: relative;
+}
+#hero > * {
+    position: relative;
+    z-index: 2;
+}
+#hero:before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+    opacity: 0.2;
+    content: " ";
+}
+.site.home #hero {
+    background-image: url("/static/img/_headers/hero-home.jpg");
+}
+.site.products-vendors #hero {
+    background-image: url("/static/img/_headers/hero-products-vendors.jpg");
+}
+/**
+.site.products-vendors #hero {
+}
+.site.farmers-markets #hero {
+}
+.site.events #hero {
+}
+.site.faqs #hero,
+.site.hacc #hero,
+.site.account #hero,
+.site.admin #hero {
+}
+**/
+
+#hero img.fluid {
+    width: 80%;
+    height: auto;
+}
+#hero form {
+    margin-top: 2em;
+}
+/* ==========================================================================
+  Site Brand / Logo
+   ========================================================================== */
+
+.site-branding {
+    margin: 0;
+    padding: 0;
+    font-size: 1rem;
+    display: block;
+    position: absolute;
+    top: 1rem;
+    left: 0;
+    height: calc(100% - 2rem);
+}
+.site-branding a {
+    color: $haccText;
+    height: 100%;
+    display: block;
+    white-space: nowrap;
+}
+/**.site.home .site-branding a {
+    color: $haccLight;
+}**/
+
+.site-branding a:hover,
+.site-branding a:focus {
+    text-decoration: none;
+    color: inherit;
+}
+.site-branding img {
+    height: 100%;
+    margin-right: 0.5rem;
+    width: auto;
+}
+.site-branding img,
+.site-branding span {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 1.2;
+}
+.site-branding strong {
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    font-weight: normal;
+    display: block;
+}
+/* ==========================================================================
+  Site / Account Navigation
+   ========================================================================== */
+
+.site-navigation i {
+    display: inline-block;
+    /*vertical-align: top !important;*/
+
+    line-height: 1;
+}
+.site-navigation ul.dropdown,
+.site-navigation ul.dropdown > li {
+    margin: 0;
+}
+.site-navigation ul.dropdown {
+    list-style: none;
+    padding: 0 1em;
+    display: block;
+}
+.site-navigation ul.dropdown > li {
+    display: inline-block;
+    padding: 0;
+}
+.site-navigation ul.dropdown > li > a {
+    padding: 2rem 1rem;
+    display: block;
+    font-size: .8rem;
+    color: $haccText;
+}
+/**.site.home .site-navigation ul.dropdown > li > a {
+    color: $haccLight;
+}**/
+
+.site-navigation ul.dropdown > li > a:hover,
+.site-navigation ul.dropdown > li > a:focus {
+    text-decoration: none;
+    color: $haccAccent;
+    background: transparent;
+}
+.site-navigation ul.dropdown > li.active > a {
+    text-decoration: none;
+    color: $haccLight;
+    background: $haccSuccess;
+}
+/**
+.site-navigation ul.dropdown > li:last-child > a {
+    text-decoration: none;
+    color: $haccLight;
+    background: $haccAccent;
+}
+**/
+
+.site-navigation .dropdown.menu > li.is-dropdown-submenu-parent > a {
+    padding-right: 1rem !important;
+}
+.site-navigation .dropdown.menu > li.is-dropdown-submenu-parent > a:after {
+    border-color: $haccLight transparent transparent !important;
+    display: none !important;
+}
+.is-dropdown-submenu .is-dropdown-submenu-parent.opens-right > a:after {
+    border-color: transparent transparent transparent $haccLight !important;
+    display: block !important;
+}
+.is-dropdown-submenu .is-dropdown-submenu-parent.opens-left > a:after {
+    border-color: transparent $haccLight transparent transparent !important;
+    display: block !important;
+}
+.site-navigation .dropdown.menu > li.is-dropdown-submenu-parent.active > a:after {
+    border-color: $haccLight transparent transparent !important;
+}
+.is-dropdown-submenu .is-dropdown-submenu-parent.opens-right.active > a:after {
+    border-color: transparent transparent transparent $haccLight !important;
+}
+.is-dropdown-submenu .is-dropdown-submenu-parent.opens-left.active > a:after {
+    border-color: transparent $haccLight transparent transparent !important;
+}
+.site-navigation .dropdown.menu > li.is-dropdown-submenu-parent > ul > li > a:hover,
+.site-navigation .dropdown.menu > li.is-dropdown-submenu-parent > ul > li > a:focus {
+    border-color: $haccLight transparent transparent !important;
+    color: $haccLight;
+    background: $haccSuccess;
+}
+.site-navigation ul.dropdown .menu a {
+    text-decoration: none !important;
+}
+.site-navigation ul.dropdown .menu .active > a {
+    color: $haccAccent;
+    background: transparent;
+}
+.site-navigation.mobile-navigation {
+    display: none;
+}
+@media only screen and (max-width: 1080px) {
+    .site-navigation.desktop-navigation {
+        display: none;
+    }
+    .site-navigation.mobile-navigation {
+        display: block;
+    }
+}
+.filter-menu [data-accordion-menu] a{
+	box-shadow:inset 0 0 #fff;
+}
+/* ==========================================================================
+  Site Content
+   ========================================================================== */
+
+.site-content {
+    padding-bottom: 2rem;
+}
+.site.home .site-content {
+    padding: 0;
+}
+/* ==========================================================================
+  Site Footer
+   ========================================================================== */
+
+#colophon {
+    text-align: center;
+    background: $haccGrey;
+    padding-top: 1rem;
+}
+/* ==========================================================================
+   ~ PAGE
+   ========================================================================== */
+/* ==========================================================================
+  Page Content
+   ========================================================================== */
+
+.page-header {
+    padding: 6rem 0;
+    color: $haccLight;
+    /**text-shadow: 0px 4px 30px rgba(0, 0, 0, 1);**/
+}
+.site.home .page-header {
+    padding: 12rem 0;
+}
+/**
+.site.about .page-header,
+.site.account .page-header,
+.site.admin .page-header {
+    display: none;
+}
+**/
+
+.page-header .input-group-field {
+    border-top: 1px solid rgba(255, 255, 255, 0);
+    border-bottom: 1px solid rgba(255, 255, 255, 0);
+    border-left: 0;
+    border-right: 0;
+    background: rgba(255, 255, 255, 0.8);
+    top: 0 !important;
+    margin: 0 !important;
+    color: #fff;
+    padding: 0.5rem 0 !important;
+}
+.page-header .input-group-field:focus {
+    border-top: 0;
+    margin: 0 !important;
+}
+.page-header .button {
+    margin-top: 2rem;
+}
+.page-title {
+    font-size: 2.5rem;
+    margin: 0;
+}
+.page-title-secondary {
+    font-size: 2rem;
+    margin: 0 0 0.25em 0;
+}
+.page-content {
+    padding: 4em 2em;
+}
+.page-content h5 {
+    margin: 2em 0 0 0;
+    font-weight: normal;
+}
+.page-content h5 strong {
+    font-weight: 700;
+}
+.page-content .expanded.row .columns {
+    padding: 0 !important;
+}
+/* ==========================================================================
+   ~ CONTENT
+   ========================================================================== */
+/* ==========================================================================
+  Article Type Taxonomy
+   ========================================================================== */
+
+article.type-taxonomy {
+    padding: 2em 2em 0 2em;
+}
+article.type-taxonomy > a {
+    color: $haccMute;
+}
+article.type-taxonomy > a:hover,
+article.type-taxonomy > a:focus {
+    text-decoration: none;
+    color: $haccAccent;
+}
+article.type-taxonomy .entry-title {
+    font-size: 1rem;
+    margin-bottom: 0;
+}
+article.type-taxonomy .entry-title .fa {
+    font-size: 4rem;
+}
+article.type-taxonomy .entry-content strong {
+    font-size: 1rem;
+}
+/* ==========================================================================
+  Article Type Listing
+   ========================================================================== */
+
+article.type-entry {
+    padding: 0 0 1em 0;
+}
+article.type-entry > a {
+    color: inherit;
+}
+article.type-entry > a:hover,
+article.type-entry > a:focus {
+    text-decoration: none;
+}
+article.type-entry .entry-title {
+    font-size: 1.1rem;
+    position: relative;
+    margin-top: 1em;
+    font-weight: bold;
+    letter-spacing: .05em;
+}
+article.type-entry.details .entry-title {
+    font-size: 2rem;
+    margin-top: 0;
+}
+article.type-entry .entry-title .fa {
+    float: right;
+    font-size: inherit;
+    display: inline-block;
+    line-height: inherit;
+}
+article.type-entry > a:hover .entry-title,
+article.type-entry > a:focus .entry-title {
+    text-decoration: none;
+    color: $haccAccent;
+}
+article.type-entry em {
+    font-style: normal;
+    color: $haccAccent;
+}
+.address i.fa {
+    float: left;
+    margin: .2em .5em;
+    color: #aaa;
+}
+/* ==========================================================================
+   ~ Product 
+   ========================================================================== */
+
+.fade-transition{
+	webkit-animation-duration: .1s;
+    animation-duration: .1s;
+}
+.card.product-icons{
+	border:1px solid #f9f9f9;
+	box-shadow:0 0 0 0;
+	padding:0;
+}
+.product-icons img{
+	max-height:3em;
+}
+.product-icons h4.text-headline {
+    font-weight: bold;
+    font-size: .8em;
+    letter-spacing: .1em;
+    margin: -1em 0 -.5em;
+    line-height: 1.2em;
+}
+.product-icons a {
+    height: 100%;
+    width: 100%;
+    padding: 3.5em 1em;
+    display: block;
+}
+.product-icons a:hover, .product-icons a:focus {
+    background:#eee;
+	text-decoration:none;
+}
+/* ==========================================================================
+   ~ RESPOND
+   ========================================================================== */
+
+@media only screen and (min-width: 35em) {}
+/* ==========================================================================
+   ~ HELPER CLASSES
+   ========================================================================== */
+
+.hidden {
+    display: none !important;
+}
+.relative {
+    position: relative !important;
+}
+.block {
+    display: block !important;
+    position: relative;
+}
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+.invisible {
+    visibility: hidden;
+}
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+.clearfix:after {
+    clear: both;
+}

@@ -1,0 +1,1380 @@
+external_id,company_external_id,title,full_name,salutation,first_name,last_name,middle_name,email,phone_1,phone_2,phone_type_1,phone_type_2,primary_contact,last_updated
+49006,70,President,Clarence Ono,,Clarence,Ono,,,(808) 329-8455,,,,1,0000-00-00 00:00:00
+49004,68,,Jon Johnston,Mr.,Jon,Johnston,,,,,,,0,0000-00-00 00:00:00
+49005,69,,Pamela Endow,Ms.,Pamela,Endow,,,8084865757,,,,1,0000-00-00 00:00:00
+49003,68,,Jan Genz,Ms.,Jan,Genz,,,8089688631,8089686892,,,1,0000-00-00 00:00:00
+49002,67,,H. Eunice Shigenaga,Ms.,H. Eunice,Shigenaga,,,,,,,0,0000-00-00 00:00:00
+49001,67,,Roy Shigenaga,Mr.,Roy,Shigenaga,,heunice@interpac.net,8089595888,,,,1,0000-00-00 00:00:00
+49000,66,,Esti Grinpas,Ms.,Esti,Grinpas,,,,,,,0,0000-00-00 00:00:00
+48999,66,,Bob Grinpas,Mr.,Bob,Grinpas,,support@bobs-tropicals.com,8088220017,8088220019,,,1,0000-00-00 00:00:00
+48998,65,,Pamela Beagle,Ms.,Pamela,Beagle,,,8087761544,,,,1,0000-00-00 00:00:00
+48997,64,,"John K. Noa, Jr.",Mr.,John,"Noa, Jr.",K.,,8082599026,,,,1,0000-00-00 00:00:00
+48996,63,,Eric S. Tanouye,Mr.,Eric,Tanouye,S.,gpn@worldnet.att.net,8089593535,,,,1,0000-00-00 00:00:00
+48995,62,,Ms. Mary Booth,Ms.,Mary,Booth,,,(808) 965-8327,,,,1,0000-00-00 00:00:00
+48994,61,,Mel Goya,Mr.,Mel,Goya,,,8089356515,8089613403,,,1,0000-00-00 00:00:00
+48993,60,,Howard James,Mr.,Howard,James,,,8089657622,,,,1,0000-00-00 00:00:00
+48992,59,,Debbie Noland,Ms.,Debbie,Noland,,,,,,,0,0000-00-00 00:00:00
+48991,59,,Matthew Chamlin,Mr.,Matthew,Chamlin,,,8008003919,8089686595,,,1,0000-00-00 00:00:00
+48989,57,,David Marabella,Mr.,David,Marabella,,,,,,,0,0000-00-00 00:00:00
+48988,57,,Robert Fram,Mr.,Robert,Fram,,,8085244847,,,,1,0000-00-00 00:00:00
+48987,56,,Clyde Okamoto,Mr.,Clyde,Okamoto,,,8089659155,,,,1,0000-00-00 00:00:00
+48986,55,,Gladys Ching,Ms.,Gladys,Ching,,,8086966669,8086966669,,,1,0000-00-00 00:00:00
+48985,54,,Ken Honjo,,Ken,Honjo,,honjo@aloha.net,8085911660,8088330669,,,1,0000-00-00 00:00:00
+48984,53,,Winona Barker,Ms.,Winona,Barker,,,8089299113,8089299020,,Fax,1,0000-00-00 00:00:00
+48983,52,,Deanne Ho,,Deanne,Ho,,sales@jadefood.com,8086788886,8086789547,,Fax,1,0000-00-00 00:00:00
+48982,51,,Les Higa,Mr.,Les,Higa,,les@itoen-usa.com,8088474477,8088414384,,Fax,1,0000-00-00 00:00:00
+48981,50,,Mike Goldstein,Mr.,Mike,Goldstein,,,8089610606,,,,1,0000-00-00 00:00:00
+48980,49,,Adrienne Sweeney,Ms.,Adrienne,Sweeney,,asweeney@islandprincesshawaii.com,839-5222x207,,,,0,0000-00-00 00:00:00
+48979,49,President,Michael Purdy,Dr.,Michael,Purdy,,info@islandprincesshawaii.com,8088395222,,,,1,0000-00-00 00:00:00
+48978,48,Owner,Bruce Johnson,,Bruce,Johnson,,info@freshislandfish.com,(808) 831-4911,,,,1,0000-00-00 00:00:00
+48977,47,,Curtis Wheeler,Mr.,Curtis,Wheeler,,freshfoodshawaii@aol.com,8088333664,,,,1,0000-00-00 00:00:00
+48976,46,,Linda Coffman,Ms.,Linda,Coffman,,,8085244000,,,,1,0000-00-00 00:00:00
+48974,44,,Lynn Tsuruda,Ms.,Lynn,Tsuruda,,,,,,,0,0000-00-00 00:00:00
+48973,44,,Frank Sekiya,Mr.,Frank,Sekiya,,frankiesnursery@hawaii.rr.com,8082598737,,,,1,0000-00-00 00:00:00
+48971,42,,Ralph Ishikawa,Mr.,Ralph,Ishikawa,,,8083353255,,,,1,0000-00-00 00:00:00
+48970,41,,Amy Ichinose,Ms.,Amy,Ichinose,,,8089595858,8089595859,,,1,0000-00-00 00:00:00
+48969,40,,Daryl W. Lee,Mr.,Daryl,Lee,W.,vbinouye@aol.com,8889595851,,,,1,0000-00-00 00:00:00
+48966,38,,"Emmerich Grosch, Sr.",Mr.,Emmerich,"Grosch, Sr.",,eginc@hawaiiantel.net,8083227799,8083232411,,,1,0000-00-00 00:00:00
+48965,37,,Enrique Martinez,Mr.,Enrique,Martinez,,enrique@calhawaii.com,8089645533,,,,1,0000-00-00 00:00:00
+48963,35,,Peter Kam,Mr.,Peter,Kam,,pkaml998@aol.com,8086760899,8085373331,,,1,0000-00-00 00:00:00
+48962,34,,Bert & Sharyn Toyama,,Bert & Sharyn,Toyama,,,8083297121,,,,1,0000-00-00 00:00:00
+48961,33,Manager,Susan Doi,,Susan,Doi,,esakisp@aloha.net,8088227722,,,,1,0000-00-00 00:00:00
+48960,32,,Emmerich Grosch,Mr.,Emmerich,Grosch,,eginc@gte.net,8083232411,8083227799,,,1,0000-00-00 00:00:00
+48959,31,,Mark Collins,Mr.,Mark,Collins,,,8089597943,,,,1,0000-00-00 00:00:00
+48958,30,,Gladys Ornellas,Ms.,Gladys,Ornellas,,,,,,,0,0000-00-00 00:00:00
+48957,30,General Manager,Earl Kurizu,Mr.,Earl,Kurizu,,sales@edanddons.com,8084238200,,,,1,0000-00-00 00:00:00
+48955,28,,Koji Okamura,Mr.,Koji,Okamura,,dhpsl@interpac.net,8089667406,,,,1,0000-00-00 00:00:00
+50296,1242,Owner,Kimberly Clark,,Kimberly,Clark,,,(808) 259-5635,,,,1,0000-00-00 00:00:00
+50449,1372,Owner,,,,,,mikimacs@hawaiiantel.net,(808) 241-1324,,,,1,0000-00-00 00:00:00
+50448,1371,Owner,Don,,Don,,,don@kauaichocolate.us,(808) 335-0448,,,,1,0000-00-00 00:00:00
+50447,1370,Owner,,,,,,hanalima@hgea.net,(808) 246-0190,,,,1,0000-00-00 00:00:00
+50438,1363,,Paula Aono,,Paula,Aono,,psalish@aol.com,(808) 533-1292,,,,1,0000-00-00 00:00:00
+50265,922,,Yutaka Ishiyama,,Yutaka,Ishiyama,,info@hawaiideepseawater.com,(808) 922-3883,,main office,,1,0000-00-00 00:00:00
+50264,677,Owner,Warren McCord,,Warren,McCord,,,(808) 878-1715,,,,1,0000-00-00 00:00:00
+48954,27,President,Brent Kunimoto,Mr.,Brent,Kunimoto,,info@diamondbakery.com,8088473551,,,,1,0000-00-00 00:00:00
+48952,25,Operations & marketing Manager,Mr. David Bulatao,Mr.,David,Bulatao,,,8084530500,,,,1,0000-00-00 00:00:00
+48951,24,,Eileen O'Hora,Ms.,Eileen,O'Hora,,,8089699282,,,,1,0000-00-00 00:00:00
+48950,23,,Gordon Loo,Mr.,Gordon,Loo,,kookie@hgea.org,8088773085,,,,1,0000-00-00 00:00:00
+48949,22,,Hillery Gunther,,Hillery,Gunther,,,,,,,0,0000-00-00 00:00:00
+48948,22,,Erik Gunther,Mr.,Erik,Gunther,,,8089874492,,,,1,0000-00-00 00:00:00
+48947,21,,Nookie Castillo,,Nookie,Castillo,,,,,,,0,0000-00-00 00:00:00
+48946,21,,Monico Castillo,Mr.,Monico,Castillo,,,8083296070,,,,1,0000-00-00 00:00:00
+48945,20,,Phyllis Nakamura,Ms.,Phyllis,Nakamura,,,8089669700,,,,1,0000-00-00 00:00:00
+48943,18,Owner,Thomas R. Bong,Mr.,Thomas,Bong,R.,,8083289289,,,,1,0000-00-00 00:00:00
+48942,17,Owner,Bill Pfeil,Mr.,Bill,Pfeil,,billpfeil@yahoo.com,8085676734,,,,1,0000-00-00 00:00:00
+48941,16,,Bill Southwood,Mr.,Bill,Southwood,,,8089883859,,,,1,0000-00-00 00:00:00
+48940,15,,Russell Morita,Mr.,Russell,Morita,,biohi@hawaii.rr.com,8089599177,,,,1,0000-00-00 00:00:00
+48938,13,President,Harry Sonoda,Mr.,Harry,Sonoda,,biapinc@yahoo.com,8089619660,8085375112,,,1,0000-00-00 00:00:00
+48937,12,,Mr. Stan Berliner,Mr.,Stan,Berliner,,sdberliner@hawaii.rr.com,8083290729,8083267005,,,1,0000-00-00 00:00:00
+48936,12,,Ms. Marion Berliner,Ms.,Marion,Berliner,,,8083290729,8083267005,,,0,0000-00-00 00:00:00
+48935,11,Owner,Joe Halasey,Mr.,Joe,Halasey,,joe.halasey@hawaiiantel.net,8088281092,,,,1,0000-00-00 00:00:00
+48934,10,Owner,Lawrence Balberde,Mr.,Lawrence,Balberde,,,8089596146,,,,1,0000-00-00 00:00:00
+48933,9,Member Manager,Clyde Oshiro,Mr.,Clyde,Oshiro,,,8089699600,,,,1,0000-00-00 00:00:00
+48932,8,,Greg Braun,,Greg,Braun,,sales@tropicalorchids.com,8089659570,,,,1,0000-00-00 00:00:00
+48929,6,,Maggie O'Brien,Ms.,Maggie,O'Brien,,,,,,,0,0000-00-00 00:00:00
+48928,6,,Jim O'Brien,Mr.,Jim,O'Brien,,,8089688827,,,,1,0000-00-00 00:00:00
+48927,5,,Ms. Sheri Takahashi,Ms.,Sheri,Takahashi,,stakahashi@alohashoyu.com,(808) 456-0501,(808) 456-8999,,Fax,0,0000-00-00 00:00:00
+48926,5,,Gerda Tom,,Gerda,Tom,,gtom@alohashoyu.com,8084565929,(808) 456-0501,,,1,0000-00-00 00:00:00
+48925,4,Vice President/General Manager,Susan T. Matsushima,Mrs.,Susan,Matsushima,T.,alluvio@aloha.net,8086378835,8086378839,,,1,0000-00-00 00:00:00
+48923,2,,Tane Datta,Mr.,Tane,Datta,,adaptations@igc.org,8083246600,,,,1,0000-00-00 00:00:00
+49007,71,,Susie Pu,Ms.,Susie,Pu,,,8082487533,8004564262,,,1,0000-00-00 00:00:00
+49008,71,,Tony Pu,Mr.,Tony,Pu,,,,,,,0,0000-00-00 00:00:00
+49009,72,Owner,Ronald W. Parkhurst,Mr.,Ronald,Parkhurst,W.,hanalei@maui.net,8085729232,,,,1,0000-00-00 00:00:00
+49010,73,,Shirley Fukumoto,Ms.,Shirley,Fukumoto,,,8086264272,,,,1,0000-00-00 00:00:00
+49011,74,,Paula E. Holroyde,Ms.,Paula,Holroyde,E.,,8088786802,,,,1,0000-00-00 00:00:00
+49012,75,,Jason Hashimoto,Mr.,Jason,Hashimoto,,,8089659522,,,,1,0000-00-00 00:00:00
+49013,76,,Rob Taylor,Mr.,Rob,Taylor,,,8089686354,,,,1,0000-00-00 00:00:00
+49014,77,President,Mr. Keith Ohta,Mr.,Keith,Ohta,,info@hawaiicandy.com,8088368955,,,,1,0000-00-00 00:00:00
+49015,78,,Patrick McGrath,Mr.,Patrick,McGrath,,info@perfectlyhawaiian.com,8089598966,8089593141,,Fax,1,0000-00-00 00:00:00
+49016,79,,Nilda A. Quindara,Ms.,Nilda,Quindara,A.,,8086769100,8086769200,,Fax,1,0000-00-00 00:00:00
+49017,79,,Delia Soliven,,Delia,Soliven,,,,,,,0,0000-00-00 00:00:00
+49018,80,,Michael Kohn,Mr.,Michael,Kohn,,,8088340496,8082613906,,,1,0000-00-00 00:00:00
+49019,81,,Hirokazu Hirao,Mr.,Hirokazu,Hirao,,,8088334534,8088414535,,,1,0000-00-00 00:00:00
+49020,82,,Gary Pang,Mr.,Gary,Pang,,,8089666663,,,,1,0000-00-00 00:00:00
+49021,83,,Mark Willman,,Greg & Becky,Barulich,,orchids@hawaiiorchids.com,8089667712,8089666898,,Fax,1,2/28/11 9:17
+49023,84,,Michael Au,Mr.,Michael,Au,,,8089829622,8089658117,,,1,0000-00-00 00:00:00
+49024,84,,Leilani Makishi-Au,Ms.,Leilani,Makishi-Au,,,,,,,0,0000-00-00 00:00:00
+49025,85,,Tootsie,,Tootsie,,,,8089636225,,,,1,0000-00-00 00:00:00
+49026,86,,Michael Irish,Mr.,Michael,Irish,,mikei@halmskimchee.com,8088329500,8088329507,,Fax,1,0000-00-00 00:00:00
+49027,87,,Mr. Ted Matsuda,Mr.,Ted,Matsuda,,ted@kohalanursery.com,8088896241,,,,1,0000-00-00 00:00:00
+49028,150,,Audry Nicholson,Ms.,Audry,Nicholson,,,8082628060,8088449696,,,1,0000-00-00 00:00:00
+49029,151,Owners,John/Theresa Gordines,,John/Theresa,Gordines,,gordines@kauaiflowers.com,8088223894,8004536416,,,1,0000-00-00 00:00:00
+49030,152,,Judy Lappert,Ms.,Judy,Lappert,,aloha@lappertshawaii.com,8083356121,,,,1,0000-00-00 00:00:00
+49031,153,,Ronald T. Okazaki,Mr.,Ronald,Okazaki,T.,,8089357859,8089592789,,,1,0000-00-00 00:00:00
+49032,154,Owner,Patrick O'Day,,Patrick,O'Day,,info@hawaiianorchidsource.com,(808) 346-9738,,,,1,0000-00-00 00:00:00
+49033,155,,Mr. Laurence Kurtz,Mr.,Laurence,Kurtz,,leilanitropicals@hawaiiantel.net,(808) 889-1038,8089658065,,Fax,1,0000-00-00 00:00:00
+49034,155,Operations Manager,Ms. Wendy Martin,Ms.,Wendy,Martin,,,,,,,0,0000-00-00 00:00:00
+49035,315,,Ms. Rachel Walker,Ms.,Rachel,Walker,,billwalk@hialoha.net,8089666693,,,,1,0000-00-00 00:00:00
+49036,316,,Dalen Kawakami,,Dalen,Kawakami,,,8089595858,8083567244,,,1,0000-00-00 00:00:00
+49038,318,,Leland Paul Anderson,Mr.,Leland,Anderson,Paul,,(808) 895-5999,(808) 937-0565,Cell,Cell,1,0000-00-00 00:00:00
+49039,318,,Rosaline Anderson,Ms.,Rosaline,Anderson,,,,,,,0,0000-00-00 00:00:00
+49041,320,,Ann Cross,Ms.,Ann,Cross,,MauiProtea@upcountryharvest.com,(808) 878-8887,(808) 878-3379,,,1,0000-00-00 00:00:00
+49042,321,,John Sheveland,Mr.,John,Sheveland,,sales@mauicoffeeco.com,8086619401,8086619314,,,1,0000-00-00 00:00:00
+49043,322,,Ruth Hashisaka,Ms.,Ruth,Hashisaka,,kookie@aloha.net,8003611126,8083355186,,Fax,1,0000-00-00 00:00:00
+49044,323,,Cathy Smoot Barrett,Ms.,Cathy,Smoot Barrett,,info@kailuacandy.com,8083292522,8083298721,,Fax,1,0000-00-00 00:00:00
+49045,554,,Gerald Miyasato,Mr.,Gerald,Miyasato,,morchids@earthlink.net,(808) 626-9409,,,,1,0000-00-00 00:00:00
+49046,555,Owner,Dianne Morgado,,Dianne,Morgado,,dmorgado@hawaiiantel.net,8089827317,,,,1,0000-00-00 00:00:00
+49048,557,,Wei Chong Ho,Mr.,Wei Chong,Ho,,,8082931375,8085615688,,,1,0000-00-00 00:00:00
+50284,1230,,Owner,,,Owner,,info@tropicalturfgrass.com,(808) 697-8873,,,,1,0000-00-00 00:00:00
+50285,1237,Manager,Neil Noble,,Neil,Noble,,neil.noble@att.net,(808) 697-8873,,,,1,0000-00-00 00:00:00
+49050,559,Co-Owner,Mr. James Watt,Mr.,James,Watt,,watt@hgea.net,8089686468,8008386438,,,1,0000-00-00 00:00:00
+49051,559,Co-Owner,Norma Watt,Ms.,Norma,Watt,,,,,,,0,0000-00-00 00:00:00
+49052,560,,Robert Laird,Mr.,Robert,Laird,,maluhiaorchard@hotmail.com,8083239878,8083297067,,,1,0000-00-00 00:00:00
+49053,561,,Christian Bernadzik,Mr.,Christian,Bernadzik,,info@macadamia-nut.com,8089651428,,,,1,0000-00-00 00:00:00
+49054,562,,Kenneth Lee,Mr.,Kenneth,Lee,,,8089598892,,,,1,0000-00-00 00:00:00
+49055,563,,Kay Prettyman,Ms.,Kay,Prettyman,,,8083257558,8083226407,,,1,0000-00-00 00:00:00
+49056,563,,Jack Prettyman,Mr.,Jack,Prettyman,,,,,,,0,0000-00-00 00:00:00
+49057,564,Owner,Mr. David Ishii,Mr.,David,Ishii,,ishiid004@hawaii.rr.com,8082811904,,,,1,0000-00-00 00:00:00
+49058,564,,Dori Ann,Ms.,Dori Ann,,,,,,,,0,0000-00-00 00:00:00
+49059,88,,Hiram Hagio,Mr.,Hiram,Hagio,,jjjh@hawaiiantel.net,8088895775,,,,1,0000-00-00 00:00:00
+49060,89,,Bill Dwyer,Mr.,Bill,Dwyer,,,8083290155,8084377477,,,1,0000-00-00 00:00:00
+49061,90,President,Joseph N. Wilson,Mr.,Joseph,Wilson,N.,,8083294332,8083294462,,,1,0000-00-00 00:00:00
+49062,90,,Mr. Philip Wilson,Mr.,Philip,Wilson,,,,,,,0,0000-00-00 00:00:00
+49063,91,,Bernie Cagauan,Mr.,Bernie,Cagauan,,kiigift@yahoo.com,8086681348,8086685637,,Fax,1,0000-00-00 00:00:00
+49065,93,,Linda Pitman,Ms.,Linda,Pitman,,,8088281572,,,,1,0000-00-00 00:00:00
+49066,94,President,Mr. Herbert Kamiyama,Mr.,Herbert,Kamiyama,,kpp@ilhawaii.net,808-959-8185,808-959-8155,,Fax,1,3/24/11 14:16
+49067,95,,Ben Kodama,Mr.,Ben,Kodama,,,8086964575,,,,1,0000-00-00 00:00:00
+49068,96,,Glenn Kogachi,Mr.,Glenn,Kogachi,,kogachiorchids@hawaii.rr.com,8086962040,(808) 456-4359,,Fax,1,0000-00-00 00:00:00
+49069,97,,Jane Whitefield,Ms.,Jane,Whitefield,,info@growpalms.com,8089362580,,,,1,0000-00-00 00:00:00
+49070,97,,Steve McMahon,Mr.,Steve,McMahon,,,,,,,0,0000-00-00 00:00:00
+49071,98,,Aaron Ueno,Mr.,Aaron,Ueno,,,8089593380,,,,1,0000-00-00 00:00:00
+49072,99,,Richard Ha,Mr.,Richard,Ha,,mkeabanana@aol.com,8089810805,(808) 981-0756,,Fax,1,0000-00-00 00:00:00
+49074,101,,Ken West,Mr.,Ken,West,,kworchids@turquoise.net,8089659895,,,,1,0000-00-00 00:00:00
+49075,101,,Jean,Ms.,Jean,,,,,,,,0,0000-00-00 00:00:00
+49077,103,,Ted Javellana,Mr.,Ted,Javellana,,,8086392567,8088219731,,,1,0000-00-00 00:00:00
+49078,104,,Jim Little,Mr.,Jim,Little,,jrlittle@hawaii.rr.com,8086388280,,,,1,0000-00-00 00:00:00
+49079,105,,Jo Ma,Ms.,Jo,Ma,,jomafarm@msn.com,8083267737,,,,1,0000-00-00 00:00:00
+50079,1069,,Richard Nii,,Richard,Nii,,,(808) 395-9811,,,,1,0000-00-00 00:00:00
+50080,1071,,Mr. Fred Salassa,Mr.,Fred,Salassa,,,(808) 842-9133,,,,1,0000-00-00 00:00:00
+50081,540,,Manager,,Manager,,,info@volcanowinery.com,(808) 967-7479,,,,1,0000-00-00 00:00:00
+50276,1232,,Owner,,,Owner,,orchids@viphawaii.net,(808) 335-0240,,,,1,0000-00-00 00:00:00
+49080,106,,Stephen Wellman,Mr.,Stephen,Wellman,,questions@kaimuflowers.com,8089657542,8089656699,,FAX,1,0000-00-00 00:00:00
+49081,107,,Jon & Mindi Clark,,Jon & Mindi,Clark,,orchids@kalapanatropicals.com,8089666842,8089826622,,,1,0000-00-00 00:00:00
+50450,1373,Owner,McClure,,,McClure,,mcclure@aloha.net,(808) 822-7656,,,,1,0000-00-00 00:00:00
+50451,1374,Owner,,,,,,tasteofhanalei@hawaii.rr.com,(808) 652-0357,,,,1,0000-00-00 00:00:00
+50452,1375,,Joachim Oster,,Joachim,Oster,,info@athenaofhawaii.com,(808) 328-1401,,,,1,0000-00-00 00:00:00
+49082,108,,Beverly Tuaolo,Ms.,Beverly,Tuaolo,,,8089657614,8089657614,,,1,0000-00-00 00:00:00
+49083,109,,Frank Boteilho,Mr.,Frank,Boteilho,,,8083256141,,,,1,0000-00-00 00:00:00
+49084,110,President,Bob Hamilton,Mr.,Bob,Hamilton,,hami@plantithawaii.com,8089666633,8089666900,,Fax,1,0000-00-00 00:00:00
+49085,110,,Jamie Runnells,,Jamie,Runnells,,,,,,,0,0000-00-00 00:00:00
+49086,111,,Brian K Tottori,Mr.,Brian,Tottori,K,email@hpcfoods.com,8088421882,,Ext. 338,,1,0000-00-00 00:00:00
+49087,111,,Elisa Wong,Mrs.,Elisa,Wong,,elisa@hpcfoods.com,842-1882x338,,,,0,0000-00-00 00:00:00
+49088,112,President,David Fell,Mr.,David,Fell,,david@hawaiinursery.com,8089594088,8089594089,,,1,0000-00-00 00:00:00
+49089,113,President,Elvira Lo,Ms.,Elvira,Lo,,elviralo@email.msn.com,8085918826,,,,1,0000-00-00 00:00:00
+49090,114,,Robert Fujitake,Mr.,Robert,Fujitake,,hawaiianparadise@turquoise.net,8089657667,8089650810,,,1,0000-00-00 00:00:00
+49091,114,,Dee Fujitake,Ms.,Dee,Fujitake,,,,,,,0,0000-00-00 00:00:00
+49092,116,,Kenneth Vinzant,Mr.,Kenneth,Vinzant,,,8082597826,8087374601,,,1,0000-00-00 00:00:00
+49093,117,,Robert Siegfried,Mr.,Robert,Siegfried,,,8082488229,,,,1,0000-00-00 00:00:00
+49094,118,Owner,Gerry Hay,,Gerry,Hay,,,8089667610,8002336376,,,1,0000-00-00 00:00:00
+49095,118,,Debbie,Ms.,Debbie,,,,,,,,0,0000-00-00 00:00:00
+49096,119,,David Matsuura,Mr.,David,Matsuura,,orchid1oin@aol.com,8089358767,,,,1,0000-00-00 00:00:00
+49097,120,,Dalen Kawakami,Mr.,Dalen,Kawakami,,hilo@alohaorchids.com,8089593581,8003231449,,,1,0000-00-00 00:00:00
+49098,121,Owner,Masa Chen,,Masa,Chen,,orchidsofwaianae@hotmail.com,8086966923,,,,1,0000-00-00 00:00:00
+49099,122,,Saneo Okada,Mr.,Saneo,Okada,,,8085971102,,,,1,0000-00-00 00:00:00
+49100,123,Owner/manager,Eileen J. Laughlin,Ms.,Eileen,Laughlin,J.,,8082626040,,,,1,0000-00-00 00:00:00
+49101,124,,Richard Spiegel,Mr.,Richard,Spiegel,,info@volcanoislandhoney.com,(808) 775-1000,,,,1,4/5/11 8:04
+49102,125,,Bob Raley,Mr.,Bob,Raley,,raleyb001@hawaii.rr.com,8089686228,8779686166,,,1,0000-00-00 00:00:00
+49103,126,,Patricia Midddleton,Ms.,Patricia,Midddleton,,,8088331948,8088336881,,,1,0000-00-00 00:00:00
+49104,127,,Rodney Haraguchi,Mr.,Rodney,Haraguchi,,,8088266202,,,,1,0000-00-00 00:00:00
+49105,127,,Karol Haraguchi,Ms.,Karol,Haraguchi,,,,,,,0,0000-00-00 00:00:00
+49106,128,,Sheri P. Hamilton,Ms.,Sheri,Hamilton,P.,,8083290914,8083290914,,Fax,1,0000-00-00 00:00:00
+49108,130,,Chris Chock,Mr.,Chris,Chock,,customerservice@hawnsun.com,8088453211,(808) 842-0532,,,1,0000-00-00 00:00:00
+49109,131,Senior  Director,Mr. Hank Yokogawa,Mr.,Hank,Yokogawa,,hhyoko@hawaii.rr.com,8088332244,8088393227,,,1,0000-00-00 00:00:00
+49110,131,,Sidney Boulware,,Sidney,Boulware,,,,,,,0,0000-00-00 00:00:00
+50349,781,,Manager,,,Manager,,flavors808@hotmail.com,,,,,1,0000-00-00 00:00:00
+49111,132,,J. Marvin Fialco,Mr.,J. Marvin,Fialco,,,8088330041,8089220011,,Fax,1,0000-00-00 00:00:00
+49112,133,,Richard Spencer,Mr.,Richard,Spencer,,limu@lava.net,8082931230,,,,1,0000-00-00 00:00:00
+49113,134,,William Higa,Mr.,William,Higa,,,8088417354,8088457865,,Fax,1,0000-00-00 00:00:00
+49114,135,,"Mordecai H. Hudson, Jr.",Mr.,Mordecai,"Hudson, Jr.",H.,,8086963555,8086967116,,Fax,1,0000-00-00 00:00:00
+49115,136,,Darrell Sugita,,Darrell,Sugita,,service@hfloral.com,8082598311,8082599701,,Fax,1,0000-00-00 00:00:00
+49116,137,Assistant PR Marketing Mgr.,Stacy Hamilton,,Stacy,Hamilton,,info@hawaiianhost.com,8088480500,8088480055,"9,",Fax,1,0000-00-00 00:00:00
+49117,138,,Mark Moriwaki,Mr.,Mark,Moriwaki,,,8089594103,8089669805,,,1,0000-00-00 00:00:00
+49118,139,,Calvin R. Kouchi,Mr.,Calvin R.,Kouchi,,,8082597410,,,,1,0000-00-00 00:00:00
+49119,140,,Neal Arakaki,Mr.,Neal,Arakaki,,neal@menehunemac.com,8088413344,8088412551,,Fax,1,0000-00-00 00:00:00
+49120,141,,Steven Matsuura,Mr.,Steven,Matsuura,,,8089593231,,,,1,0000-00-00 00:00:00
+49121,142,,Glenn Toyama,Mr.,Glenn,Toyama,,,8089688255,,,,1,0000-00-00 00:00:00
+49122,143,,Alan Kuwahara,Mr.,Alan,Kuwahara,,hg@aloha.net,8889658351,8089658351,,,1,0000-00-00 00:00:00
+49123,143,,Lynne Kuwahara,Ms.,Lynne,Kuwahara,,,,,,,0,0000-00-00 00:00:00
+49124,144,,Mike Trombetta,Mr.,Mike,Trombetta,,,8087356456,,,,1,0000-00-00 00:00:00
+49125,145,Sales & Marketing Director,Anna Webb,,Anna,Webb,,info@konakulana.com,8083229752,,,,1,0000-00-00 00:00:00
+49126,146,,Clarence Ono,Mr.,Clarence,Ono,,,8083298455,8083295032,,Fax,1,0000-00-00 00:00:00
+49127,147,President,Mr. Morris Nagata,Mr.,Morris,Nagata,,info@kpfc.com,8083282411,8083282412,,,1,0000-00-00 00:00:00
+49129,149,,Larry T. Kimura,Mr.,Larry,Kimura,T.,,8089598361,,,,1,0000-00-00 00:00:00
+49130,156,,Robert Stearns,Mr.,Robert,Stearns,,rleilani@hotmail.com,8089658412,,,,1,0000-00-00 00:00:00
+49131,157,,James Delano,Mr.,James,Delano,,,8088473600,,,,1,0000-00-00 00:00:00
+49132,158,,Wilbert Low,Mr.,Wilbert,Low,,lif969@yahoo.com,8089696652,,,,1,0000-00-00 00:00:00
+49133,159,,Pete Matsuda,Mr.,Pete,Matsuda,,ehf@aloha.net,8007006755,8089599141,,,1,0000-00-00 00:00:00
+49134,160,,Ray Nakamura,Mr.,Ray,Nakamura,,,8089592065,8089592065,,Fax,1,0000-00-00 00:00:00
+49135,161,Owner,Ira Uradomo,Mr.,Ira,Uradomo,,onidai@maui.net,8088781828,,,,1,0000-00-00 00:00:00
+49136,162,,Melanie Links,Ms.,Melanie,Links,,,8083222605,,,,1,0000-00-00 00:00:00
+49137,163,,Reuben Chang,Mr.,Reuben,Chang,,sales@macfarms.com,8087370645,,,,1,0000-00-00 00:00:00
+49138,164,,Yolanda Akuna,Ms.,Yolanda,Akuna,,,8086723573,8086724051,,Fax,1,0000-00-00 00:00:00
+49139,165,,Betty or Earl Nakashima,,Betty or Earl,Nakashima,,ebnakashima@excite.com,8087759987,8087759400,,Fax,1,0000-00-00 00:00:00
+49140,166,,Carver Wilson,Mr.,Carver,Wilson,,floral@maui.net,8088781218,8005432727,,,1,0000-00-00 00:00:00
+49141,167,,Steve Deeks,Mr.,Steve,Deeks,,srdmfh@aol.com,8082429360,,,,1,0000-00-00 00:00:00
+50266,844,Brand Manager,Diane Lee,,Diane,Lee,,info@roselani.com,,,,,0,0000-00-00 00:00:00
+50267,512,,,,,,,,(808) 573-1218,,,,1,0000-00-00 00:00:00
+49142,168,Farm Manager,Reny Platz,,Reny,Platz,,,8082447643,,,,0,0000-00-00 00:00:00
+49143,169,General Manager S.E. Asia,Ms. Anita Lam,Ms.,Anita,Lam,,,8084847930,,,,1,0000-00-00 00:00:00
+49144,170,,John C. McConnell,Mr.,John,McConnell,C.,jmcconnellinc@aol.com,8089829400,8089829686,,,1,0000-00-00 00:00:00
+49145,171,Representative,Joni Marcello,,Joni,Marcello,,,(808) 944-5988,8089445901,,,1,0000-00-00 00:00:00
+49146,172,,April Romero,Ms.,April,Romero,,,8089356110,8089616859,,,1,0000-00-00 00:00:00
+49147,173,,Norimichi Miura,Mr.,Norimichi,Miura,,,8089658305,,,,1,0000-00-00 00:00:00
+49148,174,President,Steve Chaikin,Mr.,Steve,Chaikin,,shrimp@aloha.net,8085533547,8085533549,,,1,0000-00-00 00:00:00
+49151,177,,Kelly Moorhead,Mr.,Kelly,Moorhead,,info@nutrex-hawaii.com,(808) 331-4117,8083294677,,,0,0000-00-00 00:00:00
+49152,178,,Dawn Lono,Ms.,Dawn,Lono,,napua@maui.net,8082488049,8004389479,,,1,0000-00-00 00:00:00
+49153,179,President,Jeffery Newman,Mr.,Jeffery,Newman,,newmansnursery@hawaiiantel.net,8089664545,,,,1,0000-00-00 00:00:00
+49154,180,,Francis Nitta,Mr.,Francis,Nitta,,,8082598479,,,,1,0000-00-00 00:00:00
+49155,180,,Katherine Nitta,Ms.,Katherine,Nitta,,,,,,,0,0000-00-00 00:00:00
+49156,181,,Raymond E. Noh,Mr.,Raymond,Noh,E.,rnoh@nohfoods.com,8088410655,,,,1,0000-00-00 00:00:00
+49157,182,,Emmerich Grosch,Mr.,Emmerich,Grosch,,,8083227799,,,,1,0000-00-00 00:00:00
+49158,183,,Patrick Maloney,Mr.,Patrick,Maloney,,,8082595420,,,,1,0000-00-00 00:00:00
+49159,184,,Misha Sperka,,Misha,Sperka,,misha@oldhawaiiancoffee.com,8083282277,,,,1,0000-00-00 00:00:00
+49161,186,,Ken Neifert,Mr.,Ken,Neifert,,orchids@gte.net,8082398111,,,,0,0000-00-00 00:00:00
+49162,186,,Peter Neifert,Mr.,Peter,Neifert,,orchidshi@hawaii.rr.com,(808) 239-8111,,,,1,0000-00-00 00:00:00
+49163,187,,Milnor Lum,Mr.,Milnor,Lum,,,8089593015,8089590696,,,1,0000-00-00 00:00:00
+49164,188,,Lloyd Matsumoto,Mr.,Lloyd,Matsumoto,,lloyd@lava.net,8088333044,,,,1,0000-00-00 00:00:00
+49165,189,President,Michael Inouye,Mr.,Michael,Inouye,,mike@pacflor.com,8089667427,,,,1,0000-00-00 00:00:00
+49166,189,,Stacy Kagimoto,Ms.,Stacy,Kagimoto,,stacy.kagimoto@hawaiiantel.net,,,,,0,0000-00-00 00:00:00
+49167,190,,Hideyoshi Takasawa,Mr.,Hideyoshi,Takasawa,,,8085964904,,,,1,0000-00-00 00:00:00
+49168,191,Owner/Manager,Linda Maballo,Ms.,Linda,Maballo,,,(808) 982-6040,,,,1,0000-00-00 00:00:00
+49169,192,Owner,Neal Okimoto,Mr.,Neal,Okimoto,,sales@pacificparadiseorchids.com,8089659299,,,,1,0000-00-00 00:00:00
+49170,193,President,Jaren A. Hancock,,Jaren,Hancock,A.,bealudditehawaii@aol.com,(808) 841-2828,,Ext. 16,Ext. 18,1,0000-00-00 00:00:00
+49171,194,,Wajira Wansa,,Wajira,Wansa,,,8089659725,8089669777,,,1,0000-00-00 00:00:00
+49172,195,,Brian Takahara,,Brian,Takahara,,,8089686044,,,,1,0000-00-00 00:00:00
+50268,1225,President,Delan Perry,,Delan,Perry,,,(808) 965-8699,,,,1,0000-00-00 00:00:00
+49173,196,,Sandy,,Sandy,,,sandy@pangsnursery.com,8082391505,,,,1,0000-00-00 00:00:00
+49174,197,,James Perry,Mr.,James,Perry,,,8083288665,8089872073,,,1,0000-00-00 00:00:00
+49175,198,,Milnor Lum,Mr.,Milnor,Lum,,,8089593015,,,,1,0000-00-00 00:00:00
+49176,199,,Bob Hamilton,,Bob,Hamilton,,hami@plantithawaii.com,8089666633,,,,1,0000-00-00 00:00:00
+49178,201,,Norma Bribiesca,,Norma,Bribiesca,,info@proteasofhawaii.com,8088782533,8003677768,,,1,0000-00-00 00:00:00
+49179,202,,Stan Kaahanui,Mr.,Stan,Kaahanui,,,8085676573,,,,1,0000-00-00 00:00:00
+49180,203,,Bob Morine,Mr.,Bob,Morine,,,8085727351,,,,1,0000-00-00 00:00:00
+49181,203,,Adrienne Morine,Ms.,Adrienne,Morine,,,,,,,0,0000-00-00 00:00:00
+49182,204,,Malcolm R. Saxby,Mr.,Malcolm,Saxby,R.,,8089668300,8089667642,,,1,0000-00-00 00:00:00
+49183,205,,Kenneth M. Delimont,Mr.,Kenneth,Delimont,M.,,8089658498,,,,1,0000-00-00 00:00:00
+49184,206,,Bernice Walker,Ms.,Bernice,Walker,,punaohana@aol.com,8089658456,8089650187,,,1,0000-00-00 00:00:00
+49185,207,,Ilyn Narciso,,Ilyn,Narciso,,punaorchid@aol.com,8089656200,,,,1,0000-00-00 00:00:00
+49186,208,Owner,Haroldeen Quintal,,Haroldeen,Quintal,,quintalfarms@aol.com,8089667370,,,,1,0000-00-00 00:00:00
+49187,209,,Michael S. Miyashiro,Mr.,Michael,Miyashiro,S.,rainforesthawaii@aol.com,8085919999,8089421550,,,1,0000-00-00 00:00:00
+49188,210,,Dennis K. Goto,Mr.,Dennis,Goto,K.,honship@hawaii.rr.com,8088453834,,,,1,0000-00-00 00:00:00
+49189,211,,William A. Couzyn,Mr.,William,Couzyn,A.,couzynw001@hawaii.rr.com,8082617775,,,,1,0000-00-00 00:00:00
+49191,213,,Steven A. Katase,Mr.,Steven,Katase,A.,limu@ilhawaii.net,8083295468,,,,1,0000-00-00 00:00:00
+49192,214,,Sean Spellicy,Mr.,Sean,Spellicy,,info@rpetropicals.com,8089667169,,,,1,0000-00-00 00:00:00
+49193,215,,Thomas Sato,Mr.,Thomas,Sato,,,8089825820,,,,1,0000-00-00 00:00:00
+49194,215,,Marian Sato,Mrs.,Marian,Sato,,,,,,,0,0000-00-00 00:00:00
+49195,216,,Rick Giese,Mr.,Rick,Giese,,rick@south-seas.com,8089664555,,,,1,0000-00-00 00:00:00
+49196,217,,Stan Ishizaki,Mr.,Stan,Ishizaki,,,8084886315,,,,1,0000-00-00 00:00:00
+49199,220,Principal,Lee Sugai,Mr.,Lee,Sugai,,kona@kona.net,8083227717,,,,1,0000-00-00 00:00:00
+49200,221,,Glenn T. Hashimoto,Mr.,Glenn,Hashimoto,T.,,8089358511,,,,1,0000-00-00 00:00:00
+49201,222,,Ann Cross,,Ann,Cross,,MauiProtea@sunriseprotea.com,8088760200,8088783379,,,1,0000-00-00 00:00:00
+49202,223,,Terrie Roberts,Ms.,Terrie,Roberts,,suntrops@aol.com,8088781211,8003431211,,,1,0000-00-00 00:00:00
+49203,223,,George Hahn,Mr.,George,Hahn,,,,,,,0,0000-00-00 00:00:00
+49204,224,,Roberta,,Roberta,,,,8089686312,,,,1,0000-00-00 00:00:00
+50286,1238,Owner,Martin Diamond,,Martin,Diamond,,,(808) 878-3800,,,,1,0000-00-00 00:00:00
+50287,1239,Manager,Wayne Ogasawara,,Wayne,Ogasawara,,wogasawara@aol.com,(808) 677-8779,,,,1,0000-00-00 00:00:00
+50288,772,,Owner,,,Owner,,,(808) 873-4847,,,,1,0000-00-00 00:00:00
+49206,226,President/Owner,Ms. Diane T.T. Crawford,Ms.,Diane,Crawford,T.T.,tahigodd@lava.net,(808) 833-4800,8008972110,,,1,0000-00-00 00:00:00
+49207,227,,Paula J. Hegele,Ms.,Paula,Hegele,J.,info@mauiwine.com,(808) 878-6058,,,,1,0000-00-00 00:00:00
+49208,228,,Jim Kerver,,Jim,Kerver,,jim@coffeeshack.com,(808) 328-9555,,,,1,0000-00-00 00:00:00
+49209,229,Owner,Peter Palm,Mr.,Peter,Palm,,mumu@hawaiipalmproperties.com,8088895323,,,,1,0000-00-00 00:00:00
+49210,230,Owner,J. Ikeda,Mr.,J.,Ikeda,,,8085238511,,,,1,0000-00-00 00:00:00
+49211,231,,Marja Brazoer,,Marja,Brazoer,,theuniques@msn.com,(808) 982-6495,(808) 982-6890,,,1,0000-00-00 00:00:00
+49212,232,,Kathleen McClish,Ms.,Kathleen,McClish,,wildmac@hawaiiantel.net,8083222547,,,,1,0000-00-00 00:00:00
+50049,1027,President,Mr. Donald Saaga,Mr.,Donald,Saaga,,dsaaga@yahoo.com,(808) 622-4446,,,,0,0000-00-00 00:00:00
+49213,233,,Adelyne Thomas,Ms.,Adelyne,Thomas,,,8082597831,8088462946,,,1,0000-00-00 00:00:00
+49214,234,,Wilfred Morikawa,Mr.,Wilfred,Morikawa,,tigerassoc@aol.com,8088482005,,,,1,0000-00-00 00:00:00
+49215,235,,Dennis R. Morihiro,Mr.,Dennis,Morihiro,R.,cmorihiro@hotmail.com,8082448080,,,,1,0000-00-00 00:00:00
+49216,236,,Steve Philips,Mr.,Steve,Philips,,susan@tropicalcolors.com,8089659732,,,,1,0000-00-00 00:00:00
+49217,236,,Susan Philips,Ms.,Susan,Philips,,,,,,,0,0000-00-00 00:00:00
+49218,237,,Mr. John Edney,Mr.,John,Edney,,"John@TropicalDreamsIceCream.com""",8088821891,,,,1,0000-00-00 00:00:00
+49219,238,,Bryce Zane,,Bryce,Zane,,,(808) 522-2172,(808) 847-3234,,,1,0000-00-00 00:00:00
+49220,238,,,,,,,,,,,,0,0000-00-00 00:00:00
+49221,239,,Andy Graham,Mr.,Andy,Graham,,tgminfo@tropicalgardensofmaui.com,8082443085,,,,1,0000-00-00 00:00:00
+49222,240,,Loren Mochida,Mr.,Loren,Mochida,,lmochida@juno.com,8089667435,8089667426,,,1,0000-00-00 00:00:00
+49223,241,,Kathy Klett,Ms.,Kathy,Klett,,,8085728569,8665728569,,,1,0000-00-00 00:00:00
+49224,242,,Steve Collector,Mr.,Steve,Collector,,troptemp@aol.com,8083233131,,,,1,0000-00-00 00:00:00
+49225,243,,Ron Nitta,Mr.,Ron,Nitta,,,8089595668,,,,1,0000-00-00 00:00:00
+49226,244,,Chet Wilk,Mr.,Chet,Wilk,,,8082476733,,,,1,0000-00-00 00:00:00
+49227,245,Owner,Thelma Loo,Ms.,Thelma,Loo,,,8082398021,,,,1,0000-00-00 00:00:00
+49228,246,,Allen Wooddell,Mr.,Allen,Wooddell,,,8089677104,8089620352,,,1,0000-00-00 00:00:00
+49229,247,Owner,Randy Yamada,Mr.,Randy,Yamada,,yamadanursery@hawaiiantel.net,(808) 959-6540,(808) 959-7689,,,1,0000-00-00 00:00:00
+49230,248,Manager,Koichi Ichihara,Mr.,Koichi,Ichihara,,nobile@yamamotodendrobiums.com,8089686955,,,,1,0000-00-00 00:00:00
+49231,249,,Kazumi Yamasaki,Mr.,Kazumi,Yamasaki,,,8089667691,,,,1,0000-00-00 00:00:00
+49232,250,President,Paul Otani,Mr.,Paul,Otani,,,8082429767,8082441606,,Fax,1,0000-00-00 00:00:00
+49233,250,Manager,Paula Rafanan,Ms.,Paula,Rafanan,,,,,,,0,0000-00-00 00:00:00
+49234,251,General Manager,Mr. Rodger Kaiwi-Machen,Mr.,Rodger,Kaiwi-Machen,,captcook@aloha.net,8083223501,8083282087,,,1,0000-00-00 00:00:00
+49235,252,,Mr. Martin Amaro,Mr.,Martin,Amaro,,mamaro@abinc.com,(808) 635-0759,(808) 335-0867,,Fax,1,0000-00-00 00:00:00
+49236,253,General Manager,Alec Sou,Mr.,Alec,Sou,,info@alounfarms.com,8086779516,,,,1,0000-00-00 00:00:00
+49237,254,,Sam Hugh,Mr.,Sam,Hugh,,,8088427171,,,,1,0000-00-00 00:00:00
+49238,255,,Royden Suzuki,,Royden,Suzuki,,,8089351106,8089351379,,,1,0000-00-00 00:00:00
+49239,256,,Manager,,,Manager,,h.classic@hawaiiantel.net,8089354629,,,,1,0000-00-00 00:00:00
+49240,257,,Joseph Loewenhardt,Mr.,Joseph,Loewenhardt,,kalopa@interpac.net,8087750411,,,,1,0000-00-00 00:00:00
+49241,257,,Susan Loewenhardt,Ms.,Susan,Loewenhardt,,,,,,,0,0000-00-00 00:00:00
+49242,258,,Derrek Shiraki,Mr.,Derrek,Shiraki,,finestfoodhi@aol.com,8088480365,8088480366,,,1,0000-00-00 00:00:00
+49243,259,,Gary Kirihara,Mr.,Gary,Kirihara,,,8083291365,8083269490,,Fax,1,0000-00-00 00:00:00
+49244,260,,LaVerne K. Brede,,LaVerne,Brede,K.,,8082454039,8082460541,,,1,0000-00-00 00:00:00
+49245,261,,Scot Nonaka,,Scot,Nonaka,,,8082454044,8082459061,,,1,0000-00-00 00:00:00
+49246,262,,Reece Asakura,,Reece,Asakura,,,8083222828,,,,1,0000-00-00 00:00:00
+49247,264,,Kenneth Enriques,Mr.,Kenneth,Enriques,,mauidog@tiki.net,8088717544,,,,1,0000-00-00 00:00:00
+49249,266,,Ron Young,Mr.,Ron,Young,,wttron@hgea.org,8088470983,8003534988,,,1,0000-00-00 00:00:00
+49250,267,,Marau Beck,,Marau,Beck,,waikoko@aloha.net,8007181018,8088267133,,,1,0000-00-00 00:00:00
+49251,268,,Michael Ige,Mr.,Michael,Ige,,,8088454517,8088414165,,Fax,1,0000-00-00 00:00:00
+49252,268,,Howard Ige,Mr.,Howard,Ige,,,,,,,0,0000-00-00 00:00:00
+49256,271,,Walter Kunitake,Mr.,Walter,Kunitake,,kunitake@earthlink.net,8083311444,8886665662,,,1,0000-00-00 00:00:00
+49257,272,,Faith Mori,Ms.,Faith,Mori,,suckseed@maui.net,8088786075,,,,1,0000-00-00 00:00:00
+49258,273,,Lew M. Nakamura,Mr.,Lew,Nakamura,M.,,8089657457,,,,1,0000-00-00 00:00:00
+49259,274,,Janus Garramone,Ms.,Janus,Garramone,,janus@ilhawaii.com,8089658915,8089651800,,,1,0000-00-00 00:00:00
+49260,275,CEO,Dana G. Gray,,Dana,Gray,G.,dgg@oilsofaloha.com,8086375620,8003676010,,,1,0000-00-00 00:00:00
+49261,275,,,,,,,,,,,,0,0000-00-00 00:00:00
+50514,276,Office Administrator,NULL,Ms.,Libby,Behn,,lbehn@hcsugar.com,(808) 877-6924,,,,1,2/27/12 15:29
+50513,1317,Office Administrator,NULL,Ms.,Libby,Behn,,lbehn@hcsugar.com,(808) 877-6924,,,,1,2/29/12 13:46
+49264,277,,Andy,,Andy,,,,8089650069,,,,1,0000-00-00 00:00:00
+49265,278,Director of Public Relations,Mr. George Morris,,Jeanne,Toulon,,jeanne@koloarum.com,8086397624,8083327650,,Fax,1,3/2/11 16:07
+50289,769,,Owner,,,Owner,,,,,,,1,0000-00-00 00:00:00
+50290,627,Owner,Wally K. Ichishita,,Wally,Ichishita,K.,,,,,,1,0000-00-00 00:00:00
+50297,1243,,Customer Service Manager,,Customer Service,Manager,,customerservice@hawaiinutrition.com,(866) 349-3343,,,,1,0000-00-00 00:00:00
+50298,1244,Owner,Se'e T. Vaiau,,Se'e,Vaiau,T.,,(808) 239-5371,,,,1,0000-00-00 00:00:00
+49266,279,,Walter Patton,Mr.,Walter,Patton,,,8002388233,8089645401,,Fax,1,0000-00-00 00:00:00
+49267,280,,Gary Ishimoto,Mr.,Gary,Ishimoto,,garyi@halmskimchee.com,8088329500,,,,1,0000-00-00 00:00:00
+49268,281,,Stuart Haitkin,Mr.,Stuart,Haitkin,,,8087320903,,,,1,0000-00-00 00:00:00
+49269,282,,Michael Kohn,Mr.,Michael,Kohn,,,8088340496,8082613906,,,1,0000-00-00 00:00:00
+49270,283,,Gus Rouse,Mr.,Gus,Rouse,,queenbee@aloha.net,8083289016,8083289460,,Fax,1,0000-00-00 00:00:00
+49271,284,,Allie Atkins,Ms.,Allie,Atkins,,allie_atkins@yahoo.com,8089667975,,,,1,5/5/11 14:47
+49272,285,,Kaipo Machado,,Kaipo,Machado,,,8087327385,8087327134,,Fax,1,0000-00-00 00:00:00
+49273,286,Owner,Erik Frostad,Mr.,Erik,Frostad,,konaco@macpie.com,8083297437,,,,1,0000-00-00 00:00:00
+49274,287,,Carolynn Kindelon,Ms.,Carolynn,Kindelon,,cktoffeehi@hotmail.com,8082633964,,,,1,0000-00-00 00:00:00
+49275,287,,Chris Kindelon,Mr.,Chris,Kindelon,,,,,,,0,0000-00-00 00:00:00
+49276,288,,Alan Tang,Mr.,Alan,Tang,,eastwestgourmet@pogas.com,8082622453,8003786978,,,1,0000-00-00 00:00:00
+49277,289,,Dean Sealer,Mr.,Dean,Sealer,,deansealer@hotmail.com,8085237779,8083959777,,Fax,1,0000-00-00 00:00:00
+49278,290,,Timothy Gunter,Mr.,Timothy,Gunter,,,8088770403,8082448051,,Fax,1,0000-00-00 00:00:00
+49279,291,,Lesley Hill,Ms.,Lesley,Hill,,wag@waileaag.com,8089354043,,,,1,0000-00-00 00:00:00
+49280,292,,Danny O'Toole,Mr.,Danny,O'Toole,,,8089667603,,,,1,0000-00-00 00:00:00
+49281,293,,Don Akiyama,Mr.,Don,Akiyama,,kona@madeinhawaiistore.com,8084884426,8084840052,,,1,0000-00-00 00:00:00
+49283,295,,Susan Tamashiro,Ms.,Susan,Tamashiro,,jcblossominghope@aol.com,8082923944,,,,1,0000-00-00 00:00:00
+49286,297,,Liz Ronaldson,Ms.,Liz,Ronaldson,,grogrn@hawaiian.net,8088223831,8778569999,,,1,0000-00-00 00:00:00
+49287,298,,Richard Schnitzler,Mr.,Richard,Schnitzler,,hawnnut@hialoha.net,8886436688,8088821116,,,1,0000-00-00 00:00:00
+50439,823,Asst. Manager,Benymar Sadumiano,,Benymar,Sadumiano,,,,,,,0,0000-00-00 00:00:00
+49288,299,,Janus Garramone,Ms.,Janus,Garramone,,janus@ilhawaii.net,8089658915,8089651800,,,1,0000-00-00 00:00:00
+49289,300,,Richard Kim,Mr.,Richard,Kim,,,8088458432,,,,1,0000-00-00 00:00:00
+49293,303,,Joelle Cacciatore,Ms.,Joelle,Cacciatore,,,,,,,0,0000-00-00 00:00:00
+50302,1247,CEO,Dexter Yuen,,Dexter,Yuen,,molokairoadside@hawaii.rr.com,(808) 487-2038,,,,1,0000-00-00 00:00:00
+49295,305,,Michael F. Divinski,Mr.,Michael,Divinski,F.,,8089355866,8089340571,,,1,0000-00-00 00:00:00
+50453,1376,Owner,Terrance Young,,Terrance,Young,,islandkoi@gmail.com,(808) 349-8956,,,,1,0000-00-00 00:00:00
+49296,306,,Thomas Pickett,Mr.,Thomas,Pickett,,kbakery@aloha.net,8082466880,,,,1,0000-00-00 00:00:00
+49297,307,,Richard Iwasaki,Mr.,Richard,Iwasaki,,,8089812223,,,,1,0000-00-00 00:00:00
+49298,308,,Calvin Miyamoto,Mr.,Calvin,Miyamoto,,,8086965526,8086965527,,Fax,1,0000-00-00 00:00:00
+49299,309,,Wesley Nohara,Mr.,Wesley,Nohara,,wnohara@maui.net,8086698416,8086696201,,,1,0000-00-00 00:00:00
+49300,310,,Sean Ginella,Mr.,Sean,Ginella,,ultrapure@hawaiiwater.com,8084877777,8084877609,,,1,0000-00-00 00:00:00
+49302,312,,Kaipo Machado,,Kaipo,Machado,,,8087350824,8087327134,,,1,0000-00-00 00:00:00
+49303,313,,Douglas Preisel,Mr.,Douglas,Preisel,,,8089559069,,,,1,0000-00-00 00:00:00
+49304,314,,David Wintermeyer,Mr.,David,Wintermeyer,,mauiwaterman@yahoo.com,8088775555,,,,1,0000-00-00 00:00:00
+49305,324,,John Rozett,Mr.,John,Rozett,,jrozett@hilo.net,8089668778,8089825422,,,1,0000-00-00 00:00:00
+49306,325,President/Owner,Herb Kamiyama,Mr.,Herb,Kamiyama,,kpp@ilhawaii.net,8089598185,,,,1,0000-00-00 00:00:00
+49307,325,,Janice Aoki,Ms.,Janice,Aoki,,,,,,,0,0000-00-00 00:00:00
+49308,326,,Mike,,Mike,,,roosterfarms@kona.net,8083289173,,,,1,0000-00-00 00:00:00
+49309,327,State Manager  (Hilo Branch),Reggie Hasegawa,Mr.,Reggie,Hasegawa,,,(808) 935-7191,,Ext,,1,0000-00-00 00:00:00
+49310,327,,Ron Kau'ha'aha'a,Mr.,Ron,Kau'ha'aha'a,,,(808) 450-0041,,Ext,,0,0000-00-00 00:00:00
+49311,328,,Gary Starr,Mr.,Gary,Starr,,starrfarms@aol.com,8089668884,,,,1,0000-00-00 00:00:00
+49312,329,Owners,Jerome or Carol Siebenrock,,Jerome or Carol,Siebenrock,,7rocks@gte.net,8089688196,,,,1,0000-00-00 00:00:00
+49313,330,,Les Nakama,Mr.,Les,Nakama,,,8082443536,,,,1,0000-00-00 00:00:00
+49314,331,,Roland Manuel,Mr.,Roland,Manuel,,,8089643269,,,,1,0000-00-00 00:00:00
+49315,332,,Walter Chong,Mr.,Walter,Chong,,,8082595953,,,,1,0000-00-00 00:00:00
+49316,332,,Evelyn Chong,Ms.,Evelyn,Chong,,,,,,,0,0000-00-00 00:00:00
+49317,333,,Haruo Araki,,Haruo,Araki,,,8087761617,,,,1,0000-00-00 00:00:00
+49318,334,,Robert Arthurs,Mr.,Robert,Arthurs,,,8089666141,,,,1,0000-00-00 00:00:00
+49319,335,,Alfred Tsuha,Mr.,Alfred,Tsuha,,tsuhaadbeth@aol.com,8089636877,,,,1,0000-00-00 00:00:00
+49320,336,,Neal Bashford,Mr.,Neal,Bashford,,jnb11223@aol.com,8089656630,,,,1,0000-00-00 00:00:00
+49321,337,Owner,Thomas Benton,Mr.,Thomas,Benton,,,8083232597,,,,1,0000-00-00 00:00:00
+49322,338,Owner,Amadeo C. Bermudez,Mr.,Amadeo,Bermudez,C.,,8089667938,,,,1,0000-00-00 00:00:00
+49323,338,,Elizabeth Bermudez,Mrs.,Elizabeth,Bermudez,,,,,,,0,0000-00-00 00:00:00
+49324,339,Owner,Francis Hun,Mr.,Francis,Hun,,,(808) 697-1211,,,,1,0000-00-00 00:00:00
+49325,340,,Kenneth Kamiya,Mr.,Kenneth,Kamiya,,,(808) 239-5574,(808) 293-3445,,,1,0000-00-00 00:00:00
+49326,341,,Jim Cassel,Mr.,Jim,Cassel,,,8083381273,,,,1,0000-00-00 00:00:00
+49327,342,Owner,Ms. Amie Chandler,Ms.,Amie,Chandler,,,(808) 828-1526,,,,1,0000-00-00 00:00:00
+49328,342,,Lawrence,,Lawrence,,,,,,,,0,0000-00-00 00:00:00
+49329,343,,Bill Della Sala,Mr.,Bill,Della Sala,,,8089677785,,,,1,0000-00-00 00:00:00
+49330,344,,Todd Corbin,Lt. USAF Ret.,Todd,Corbin,,,8086389001,,,,1,0000-00-00 00:00:00
+49331,345,,Maxi,,Maxi,,,,8087761606,,,,1,0000-00-00 00:00:00
+49332,346,,Vicky T. Domingo,Ms.,Vicky,Domingo,T.,,8086969982,8088481922,,,1,0000-00-00 00:00:00
+49333,347,,Glen Shimabukuro,Mr.,Glen,Shimabukuro,,,8088417521,8088417522,,,1,0000-00-00 00:00:00
+49334,348,,Igmedio Ellazar,Mr.,Igmedio,Ellazar,,,8089669264,,,,1,0000-00-00 00:00:00
+49335,348,,Estela Ellazar,Ms.,Estela,Ellazar,,,,,,,0,0000-00-00 00:00:00
+49336,349,,Benjamin Ferris,,Benjamin,Ferris,,ferrisfamilyfarm@gmail.com,8088281712,,,,1,0000-00-00 00:00:00
+49337,350,,Alan Robinson,Mr.,Alan,Robinson,,gandrtours@hawaiian.net,8083353133,,,,1,0000-00-00 00:00:00
+49338,351,,Terry Shintaku,,Terry,Shintaku,,,8082935477,,,,1,0000-00-00 00:00:00
+49339,352,,Hank Liljedahl,Mr.,Hank,Liljedahl,,,(808) 263-7673,8085243797,,CELLULAR,1,0000-00-00 00:00:00
+49340,353,,Michael Watanabe,Mr.,Michael,Watanabe,,,8086710511,,,,1,0000-00-00 00:00:00
+49341,354,,Tom Menezes,Mr.,Tom,Menezes,,,(808) 960-5218,8089605218,cellular,Cellular,1,0000-00-00 00:00:00
+49342,354,,Cecily Menezes,Ms.,Cecily,Menezes,,,,,,,0,0000-00-00 00:00:00
+49343,355,,Pat Hall,Ms.,Pat,Hall,,,8088854439,,,,1,0000-00-00 00:00:00
+49344,355,,Howard Hall,Mr.,Howard,Hall,,,,,,,0,0000-00-00 00:00:00
+49345,356,,Bill Mowry,Mr.,Bill,Mowry,,,8088269208,,,,1,0000-00-00 00:00:00
+49346,357,,Shelley Hanaoka,Ms.,Shelley,Hanaoka,,,8089688078,,,,1,0000-00-00 00:00:00
+49347,358,,Laine/Elizabeth,,Laine/Elizabeth,,,,8087757426,,,,1,0000-00-00 00:00:00
+49348,359,,David Davenport,Mr.,David,Davenport,,,8088827931,808827838,,Fax,1,0000-00-00 00:00:00
+49349,360,,Bob Hill,Mr.,Bob,Hill,,,8088786595,8088786595,,Fax,1,0000-00-00 00:00:00
+49350,360,,Marilyn Hill,Ms.,Marilyn,Hill,,,,,,,0,0000-00-00 00:00:00
+49351,361,,Mike DuPonte,Mr.,Mike,DuPonte,,,8089599155,8089593101,,,1,0000-00-00 00:00:00
+49352,362,,Pam Hirabara,Ms.,Pam,Hirabara,,,8088872400,,,,1,0000-00-00 00:00:00
+49353,363,,Mineo Honda,Mr.,Mineo,Honda,,,8088854256,,,,1,0000-00-00 00:00:00
+49355,365,,Oliver Ignacio,Mr.,Oliver,Ignacio,,momo@hgea.org,8088786247,8082641286,,,1,0000-00-00 00:00:00
+49356,366,,Owen Iha,Mr.,Owen,Iha,,,8084886926,,,,1,0000-00-00 00:00:00
+49357,366,,Helen Iha,Ms.,Helen,Iha,,,,,,,0,0000-00-00 00:00:00
+49358,367,,Jay Rogan,Mr.,Jay,Rogan,,jdfarm@webtv.net,8089677774,,Ph/Fax,,1,0000-00-00 00:00:00
+49359,368,,Larry Jefts,Mr.,Larry,Jefts,,thefarms@aloha.net,8086882892,,,,1,0000-00-00 00:00:00
+50331,898,Owner,Jessie Young,,Jessie,Young,,info@jessecolinyoung.com,(808) 322-2364,,,,1,0000-00-00 00:00:00
+49360,369,,Eugenia Smith,,Eugenia,Smith,,eugeniasm@msn.com,(808) 256-6794,,,,0,0000-00-00 00:00:00
+49361,369,,Juanita,,Juanita,,,Juanita@farmfreshhawaii.com,(808) 429-3813,,,,1,0000-00-00 00:00:00
+49362,370,,Mr. John Richards,Mr.,John,Richards,,JARKahua@aol.com,8088824646,8088824444,,Fax,1,0000-00-00 00:00:00
+49363,370,,Ed Henrickson,Mr.,Ed,Henrickson,,,,,,,0,0000-00-00 00:00:00
+49364,371,,Bruce Smith,Mr.,Bruce,Smith,,,8082930157,8082930060,,,1,0000-00-00 00:00:00
+49365,372,,Richard Koob,Mr.,Richard,Koob,,kalani@kalani.com,8089657828,,,,1,0000-00-00 00:00:00
+49366,373,,Michael Howden,Mr.,Michael,Howden,,michael@permaculturemaui.com,8088783878,,,,1,0000-00-00 00:00:00
+49367,374,,Owen Kaneshiro,Mr.,Owen,Kaneshiro,,kanefarm@aloha.net,8086684810,8086251275,,,1,0000-00-00 00:00:00
+49368,374,,Anne Kaneshiro,Ms.,Anne,Kaneshiro,,,,,,,0,0000-00-00 00:00:00
+49369,375,Owner,Larry Jefts,,Larry,Jefts,,thefarms@aloha.net,(808) 688-2892,,,,1,0000-00-00 00:00:00
+49371,377,,Irving Kawashima,Mr.,Irving,Kawashima,,kfarms@hgea.org,8089347020,8087757379,,,1,0000-00-00 00:00:00
+49372,378,,Keith & Diana V. Keffer,,Keith & Diana,Keffer,V.,,8083289789,,,,1,0000-00-00 00:00:00
+49373,379,,Ben or Laverne Flores,,Ben or Laverne,Flores,,kiihele@hawaiiantel.net,8085242488,8085242488,,,1,0000-00-00 00:00:00
+49374,380,,Kuni Kobashigawa,Mr.,Kuni,Kobashigawa,,,8086962984,,,,1,0000-00-00 00:00:00
+49375,381,Owner,Katsu Kobashigawa,Mr.,Katsu,Kobashigawa,,,(808) 375-4925,(808) 969-8854,,,1,0000-00-00 00:00:00
+49376,382,Owner,Yoshio Kobashigawa,Mr.,Yoshio,Kobashigawa,,,8086684039,,,,1,0000-00-00 00:00:00
+49377,382,,Fujiko Kobashigawa,,Fujiko,Kobashigawa,,,,,,,0,0000-00-00 00:00:00
+49378,383,,Christine Kobayashi,Ms.,Christine,Kobayashi,,waioli2@hawaiiantel.net,8088267836,,,,1,0000-00-00 00:00:00
+49380,385,,Shan N.S. Nakamoto,,Shan,Nakamoto,N.S.,stt@hawaiiantel.net,8083223161,,,,1,0000-00-00 00:00:00
+49381,386,,,,,,,,8082378515,,,,1,0000-00-00 00:00:00
+49382,387,,Jill Monroe,Ms.,Jill,Monroe,,,8088718734,8088775113,,Fax,1,0000-00-00 00:00:00
+49383,387,,Cyrus Monroe,Mr.,Cyrus,Monroe,,,,,,,0,0000-00-00 00:00:00
+49384,388,,Elizabeth/Laureto Julian,,Elizabeth/Laureto,Julian,,,8089657589,,,,1,0000-00-00 00:00:00
+49385,389,Owner,Richard Hedtke,Mr.,Richard,Hedtke,,laumanacitrus@earthlink.net,8089657299,(808) 443-1690,,,1,0000-00-00 00:00:00
+49386,389,,Jane Hedtke,Ms.,Jane,Hedtke,,,,,,,0,0000-00-00 00:00:00
+49387,390,Owner,David/Ruth Rotstein,Mr.,David/Ruth,Rotstein,,david.rotstein@hawaiiantel.net,8088895780,8088895455,,Fax,1,0000-00-00 00:00:00
+49388,390,,Ruth Rotstein,Mrs.,Ruth,Rotstein,,,(808) 889-5780,(808) 889-5455,,,0,0000-00-00 00:00:00
+49389,391,President,John K. Aana,Mr.,John,Aana,K.,,8083381199,,,,1,0000-00-00 00:00:00
+49390,392,,Brian Paxton,Mr.,David,Bennett,,petalupost@aol.com,8089636158,,,,1,0000-00-00 00:00:00
+50384,1314,Agriculture Director,Gary Maunakea-Forth,,Gary,Maunakea-Forth,,waianaeorganic@hawaii.rr.com,(808) 696-5569,,,,1,0000-00-00 00:00:00
+50385,1315,Owner,Aaron O'Brien,,Aaron,O'Brien,,ajobrien808@aol.com,(808) 372-7393,,,,1,0000-00-00 00:00:00
+49392,394,Owner,John Swim,Mr.,John,Swim,,,8086376890,(808) 637-0436,,,1,0000-00-00 00:00:00
+49393,395,,Don Nakatani,Mr.,Don,Nakatani,,,8084552237,8089476167,,,1,0000-00-00 00:00:00
+49395,397,,Ralph Nishida,Mr.,Ralph,Nishida,,,8088781823,,,,1,0000-00-00 00:00:00
+49396,397,,June Nishida,Ms.,June,Nishida,,,,,,,0,0000-00-00 00:00:00
+49397,398,,"Joseph P. Manini, Sr.",Mr.,Joseph,"Manini, Sr.",P.,,8083381538,,,,1,0000-00-00 00:00:00
+49398,399,,Chuck/Lilly Boerner,,Chuck/Lilly,Boerner,,info@onofarms.com,8082487779,8666663276,,,1,0000-00-00 00:00:00
+49399,400,Owner/Manager,Richard Johnson,Mr.,Richard,Johnson,,johnsons@hawaii.rr.com,8089645687,8088964149,,cellular,1,0000-00-00 00:00:00
+49400,400,,Jenny Johnson,Ms.,Jenny,Johnson,,,,,,,0,0000-00-00 00:00:00
+49402,402,Owner,Mr. Roy Oyama,Mr.,Roy,Oyama,,,8083329426,,,,1,0000-00-00 00:00:00
+49403,402,,Roy Oyama,Mr.,Roy,Oyama,,,,,,,0,0000-00-00 00:00:00
+49404,403,Operations Manager,Ms Carol Calland,Ms,Carol,Calland,,,8083221700,,,,1,0000-00-00 00:00:00
+49405,404,,Bill or Brooks Wakefield,,Bill or Brooks,Wakefield,,bwake@aloha.net,8083227873,,,,1,0000-00-00 00:00:00
+49406,405,,Robert Pedronan,Mr.,Robert,Pedronan,,,8089643089,,,,1,0000-00-00 00:00:00
+49407,405,,Aida Pedronan,Ms.,Aida,Pedronan,,,,,,,0,0000-00-00 00:00:00
+49408,406,,Suzie/Sharon Peterson,,Suzie/Sharon,Peterson,,,8086215254,8086211986,,Fax,1,0000-00-00 00:00:00
+49409,407,Owner,Dean Pinner,Mr.,Dean,Pinner,,edpinner@hilo.net,8089331008,(808) 938-6731,,,1,0000-00-00 00:00:00
+49410,408,,Robert Friedlander,Mr.,Robert,Friedlander,,,8085752166,,,,1,0000-00-00 00:00:00
+49411,409,,Kenneth Sakae,Mr.,Kenneth,Sakae,,,8089669186,,,,1,0000-00-00 00:00:00
+49412,409,,Lillian Sakae,Ms.,Lillian,Sakae,,,,,,,0,0000-00-00 00:00:00
+49413,410,,Phil Sheldon,Mr.,Phil,Sheldon,,,8087421479,,,,1,0000-00-00 00:00:00
+49414,410,,Mary Sheldon,Ms.,Mary,Sheldon,,,,,,,0,0000-00-00 00:00:00
+49415,411,,Mark Suiso,Mr.,Mark,Suiso,,suiso@aloha.net,8086959317,,,,1,0000-00-00 00:00:00
+49416,412,,David or Barbara Sumida,Mr./Mrs.,David or Barbara,Sumida,,,8084884517,8085302925,,,1,0000-00-00 00:00:00
+49417,413,,Erlinda Cadaoas,Ms.,Erlinda,Cadaoas,,,8088857410,,,,1,0000-00-00 00:00:00
+49418,414,,Reynold/Peggy Taira,Mr.,Reynold/Peggy,Taira,,,8086963364,,,,1,0000-00-00 00:00:00
+49419,415,,Yusuf Tamimi,Dr.,Yusuf,Tamimi,,tamimiyn@interpac.net,8089594444,,,,1,0000-00-00 00:00:00
+49420,416,,Mr. Miles Gillespie,Mr.,Miles,Gillespie,,,8083289267,,,,1,0000-00-00 00:00:00
+49421,416,,Jeanne Gillespie,Ms.,Jeanne,Gillespie,,,,,,,0,0000-00-00 00:00:00
+49422,417,,Richard Uehara,Mr.,Richard,Uehara,,,8087761365,,,,1,0000-00-00 00:00:00
+49423,418,,Arnold Rabin,Mr.,Arnold,Rabin,,,8083223677,,,,1,0000-00-00 00:00:00
+49424,419,,Wayne Uradomo,Mr.,Wayne,Uradomo,,,8088786988,,,,1,0000-00-00 00:00:00
+50278,1234,President,David Rietow,,David,Rietow,,hawaiimacnuts@gmail.com,,,,,1,0000-00-00 00:00:00
+49425,420,,Ryan Murashige,Mr.,Ryan,Murashige,,,8083298480,,,,1,0000-00-00 00:00:00
+49426,421,,Cyrus Wagatsuma,Mr.,Cyrus,Wagatsuma,,,8089340032,,,,1,0000-00-00 00:00:00
+49427,422,,Hobey Beck,Mr.,Hobey,Beck,,,8088267133,,,,1,0000-00-00 00:00:00
+49428,423,,Clifford Wong,Mr.,Clifford,Wong,,,8082399010,,,,1,0000-00-00 00:00:00
+49429,424,,Michael P. Schwabe,Mr.,Michael,Schwabe,P.,nechung@aloha.net,8089288539,,,,1,0000-00-00 00:00:00
+49430,425,Owner,Wilbert Yee,Mr.,Wilbert,Yee,,,(808) 244-0077,8082444810,,,1,0000-00-00 00:00:00
+49431,426,,Robert McDonald,Mr.,Robert,McDonald,,,8083289619,,,,1,0000-00-00 00:00:00
+49432,427,,Dick Yoshii,Mr.,Dick,Yoshii,,,8088281711,,,,1,0000-00-00 00:00:00
+49433,428,,Helen Asakura,Ms.,Helen,Asakura,,,8085918278,,,,1,0000-00-00 00:00:00
+49434,429,,Kyu or Hwa Chung,,Kyu or Hwa,Chung,,,8088648668,,,,1,0000-00-00 00:00:00
+49435,430,,Donald M. Sasaki,Mr.,Donald,Sasaki,M.,calkona@hawaiiantel.net,8083226033,(808) 322-6034,,,1,0000-00-00 00:00:00
+49436,431,,George Shishido,,George,Shishido,,,8088716232,,,,1,0000-00-00 00:00:00
+49438,433,,Mr. Robert M. Ebesu,Mr.,Robert,Ebesu,M.,,(808) 536-4595,,,,1,0000-00-00 00:00:00
+49441,436,,Bryan Otani,Mr.,Bryan,Otani,,,8088773331,,,,1,0000-00-00 00:00:00
+49442,437,President,Nelson T. Okamura,Mr.,Nelson,Okamura,T.,nokumura@vipfoodservi.com,8088775055,8088701129,,,1,0000-00-00 00:00:00
+49443,438,,Grant Schule,Mr.,Grant,Schule,,kumuman@aloha.net,8085676480,,,,1,0000-00-00 00:00:00
+49444,439,Owner,Hope K. Lee,Ms.,Hope,Lee,K.,hawaiiankine@msn.com,8086768877,8086768855,,Fax,1,0000-00-00 00:00:00
+49445,440,President,Michael Kilinski,Mr.,Michael,Kilinski,,mdk1464@aol.com,8082426989,,,,1,0000-00-00 00:00:00
+49446,441,,Clara J. Char,Ms.,Clara,Char,J.,,8885144567,8086260898,,,1,0000-00-00 00:00:00
+49447,442,President,Sharon Matsumoto,Ms.,Sharon,Matsumoto,,somgoodhawaii@hawaii.rr.com,8088432433,,,,1,0000-00-00 00:00:00
+49448,443,Owner,Paula Beamer,Ms.,Paula,Beamer,,,(808) 331-7874,,Pager,,1,0000-00-00 00:00:00
+49449,444,,Ms. Tish Uyehara,Ms.,Tish,Uyehara,,tishau@armstrongproduce.com,8085387051,,,,1,0000-00-00 00:00:00
+49450,445,Owner,Rebecca Buckley,Ms.,Rebecca,Buckley,,twt@maui.net,8082488980,,,,1,0000-00-00 00:00:00
+49451,446,,Teena Rasmussen,Ms.,Teena,Rasmussen,,teena@paradiseflowers.com,8088782591,,,,1,0000-00-00 00:00:00
+49452,447,,John V. Duey,Mr.,John,Duey,V.,jduey@maui.net,8082428565,,,,1,0000-00-00 00:00:00
+49453,448,Owner/President,Michael Capuano,Mr.,Michael,Capuano,,,8088737133,,,,1,0000-00-00 00:00:00
+49454,449,,Franeiva S. Gibbs,Ms.,Franeiva,Gibbs,S.,,8088781950,,,,1,0000-00-00 00:00:00
+49455,450,Owner,Ms. Susan Cuffe,Ms.,Susan,Cuffe,,hanafant@maui.net,8082488461,8008488461,,,1,0000-00-00 00:00:00
+49456,451,,Mr. Dave Gridley,Mr.,Dave,Gridley,,mauioma@maui.net,8088718664,,,,1,0000-00-00 00:00:00
+49458,453,Owner,Eileen Comeaux,Ms.,Eileen,Comeaux,,hanaherb@maui.net,8082487407,8082487431,,,1,0000-00-00 00:00:00
+49459,453,,Rene Comeaux,Mrs.,Rene,Comeaux,,,,,,,0,0000-00-00 00:00:00
+49460,454,Owner/Principle,Leslie Farnel,,Leslie,Farnel,,,8088794594,8088750443,,,1,0000-00-00 00:00:00
+49461,455,,Edward Evonuk,Mr.,Edward,Evonuk,,,8088786251,,,,1,0000-00-00 00:00:00
+49462,456,Owner,Roy Hamamura,Mr.,Roy,Hamamura,,,8088786226,8088705229,,,1,0000-00-00 00:00:00
+49463,457,President/CEO,Denzyl Feigelson,Mr.,Denzyl,Feigelson,,info@hanaflowers.com,8009524262,8056463933,,,1,0000-00-00 00:00:00
+49464,457,,Pamela Murphy,Ms.,Pamela,Murphy,,pam@hanaflowers.com,,,,,0,0000-00-00 00:00:00
+49465,458,,Mark Kobayashi,Mr.,Mark,Kobayashi,,,8088773652,,,,1,0000-00-00 00:00:00
+49467,460,Owner,Mr. Jeff Schenk,Mr.,Jeff,Schenk,,meliaorchids@hawaii.rr.com,(808) 280-7440,,,,1,0000-00-00 00:00:00
+49468,461,President,Mr. Steve Wilson,Mr.,Steve,Wilson,,info@nahikutropicals.com,8082487751,8002503743,,,1,0000-00-00 00:00:00
+49469,462,owner,David H. Brown,Mr.,David,Brown,H.,,8085729600,,,,1,0000-00-00 00:00:00
+49470,463,President,Dave Fazendin,Mr.,Dave,Fazendin,,,8088415787,8085910028,,,1,0000-00-00 00:00:00
+49471,464,President/Manager,Sumner Erdman,Mr.,Sumner,Erdman,,spe@maui.net,8088781202,8088786462,,,1,0000-00-00 00:00:00
+49472,465,Owner,,,Sandra,Scarr,,SandraScar@aol.com,808-322-9445,808-987-5005,,Fax,1,3/2/11 10:53
+49475,468,Vice-President,Joann Caerina,Ms.,Joann,Caerina,,,8088740331,8088742591,,,1,0000-00-00 00:00:00
+49476,469,,Jerry Sanchez,Mr.,Jerry,Sanchez,,,8088210808,8086391521,,,1,0000-00-00 00:00:00
+49477,470,,Wendy Loh,Ms.,Wendy,Loh,,kpcandi@gte.net,8085376119,8085998777,Ext. 209,Fax,1,0000-00-00 00:00:00
+49479,472,President,Dwight Otani,Mr.,Dwight,Otani,,,8088329600,,,,1,0000-00-00 00:00:00
+49480,473,,Pat Ohta,Mr.,Pat Ohta,,,sales@patsislanddelights.net,8084848808,,,,1,0000-00-00 00:00:00
+49481,474,,,,,,,,,,,,0,0000-00-00 00:00:00
+49482,475,,Kat Reese,Ms.,Kat,Reese,,kat@hula.net,8088336896,8085263463,,,1,0000-00-00 00:00:00
+49483,476,,Mark Doo,Mr.,Mark,Doo,,info@HawaiiPopcornCompany.com,8089340192,,,,1,0000-00-00 00:00:00
+50269,1226,Owner,Ed Miyashita,,Ed,Miyashita,,growingc@hawaii.rr.com,(808) 630-7408,,Cell phone,,1,0000-00-00 00:00:00
+50270,1227,Owner,Noel Escobedo,,Noel,Escobedo,,,(808) 876-0604,(808) 276-7170,,Cellular,1,0000-00-00 00:00:00
+50271,513,,Owner,,,Owner,,,(808) 528-3474,,,,1,0000-00-00 00:00:00
+50272,1228,Business Manager,Lani Kinikini,,Lani,Kinikini,,,(808) 384-6322,(808) 258-2482,,,1,0000-00-00 00:00:00
+50273,848,,Owner,,,Owner,,,(808) 966-7124,,,,1,0000-00-00 00:00:00
+50282,1236,President,Dr. Wenhao H. Sun,Dr.,Wenhao,Sun,H.,Wsun@marineagrifuture.com,(808) 523-5517,,,,1,0000-00-00 00:00:00
+50386,1316,Owners,Jim and Leslie Sargent,,Jim and Leslie,Sargent,,kimo@haleakaladistillers.com,(808) 280-6822,,,,1,0000-00-00 00:00:00
+50387,903,Owner,Owner,,,Owner,,,,,,,1,0000-00-00 00:00:00
+49484,477,General Manager,Joe Pursel,Mr.,Joe,Pursel,,,8084840420,,,,1,0000-00-00 00:00:00
+49485,478,Owner,Nick Matichyn,Mr.,Nick,Matichyn,,nicbeans@maui.net,8088772877,,,,1,0000-00-00 00:00:00
+49486,479,President,Jim Wyban,Mr.,Jim,Wyban,,Jim@SPFgenetics.com,8089829163,,,,1,0000-00-00 00:00:00
+49487,480,owner/president,"Dr. Michael Kliks, Ph.D",Dr.,Michael,"Kliks, Ph.D",,mmkliks@hawaii.rr.com,8089887203,8089885161,,,1,0000-00-00 00:00:00
+49488,481,Hawaii Sales/Trade Relations,Judy Nakamura,Ms.,Judy,Nakamura,,jnakamura@mlpmaui.com,(808) 877-3351,,,,1,0000-00-00 00:00:00
+49489,482,,Creighton Mow,Mr.,Creighton,Mow,,,8086961045,8086961045,,Fax,1,0000-00-00 00:00:00
+49490,483,,Alex Williams,Mr.,Alex,Williams,,alikas@ilhawaii.net,8089825231,8003232767,,,1,0000-00-00 00:00:00
+49491,483,,Gino Thomas,Mr.,Gino,Thomas,,,,,,,0,0000-00-00 00:00:00
+49492,484,Managing Director,,Mr.,Michael,Rakieten,,michael@hawaiiexportsinternational.com,(808) 349-2194,,,,1,4/6/11 9:24
+49493,485,,Arthur Uyehara,Mr.,Arthur,Uyehara,,,8088418664,,,,1,0000-00-00 00:00:00
+49494,486,President,Mr. Paul H Uyehara,Mr.,Paul,Uyehara,H,,8088452669,,,,1,0000-00-00 00:00:00
+49495,487,,Soon Burnham,Ms.,Soon,Burnham,,,8087750872,,,,1,0000-00-00 00:00:00
+49496,488,,Darryl Buck Wheat,Mr.,Darryl,Wheat,Buck,,8089615447,,,,1,0000-00-00 00:00:00
+49499,491,Vice President,Glenn Sakuda,,Glenn,Sakuda,,gsakuda@fiveomarketing.com,8088426111,,,,1,0000-00-00 00:00:00
+49500,491,,Ed Asato,Mr.,Ed,Asato,,,,,,,0,0000-00-00 00:00:00
+49501,492,,Gloria C. Kelly,Ms.,Gloria,Kelly,C.,,8086777766,,,,1,0000-00-00 00:00:00
+49502,493,,Linda Gouvea,Ms.,Linda,Gouvea,,,8088473717,,,,1,0000-00-00 00:00:00
+49503,494,,Hidehito Uki,Mr.,Hidehito,Uki,,,8088415808,8007868366,,,1,0000-00-00 00:00:00
+49504,495,,Alan T. Yoshikami,,Alan,Yoshikami,T.,,8085273272,8085273223,,,1,0000-00-00 00:00:00
+49505,496,,Cathy Salgado,Ms.,Cathy,Salgado,,Salgado63@aol.com,8087761268,,,,1,0000-00-00 00:00:00
+49506,497,,Steve Gelson,Mr.,Steve,Gelson,,,8085960638,8085932434,,,1,0000-00-00 00:00:00
+49507,498,,Mark Doo,Mr.,Mark,Doo,,mdoo@aloha.net,8088340192,8088340565,,Fax,1,0000-00-00 00:00:00
+49508,499,,Wilfred Morikawa,Mr.,Wilfred,Morikawa,,,8088482005,8088412624,,,1,0000-00-00 00:00:00
+49509,500,,Fred Robinson,Mr.,Fred,Robinson,,,8007761961,8088912654,,,1,0000-00-00 00:00:00
+49510,501,,Barbara Perrine Chu,Ms.,Barbara,Perrine Chu,,heaven@cchono.com,8085950357,8085374164,,,1,0000-00-00 00:00:00
+49511,503,,Clyde Matsuwaki,Mr.,Clyde,Matsuwaki,,,8086210347,8086210347,,Fax,1,0000-00-00 00:00:00
+49512,504,Owner,Keith K.Y. Sung,Mr.,Keith,Sung,K.Y.,,(808) 845-1517,,,,1,0000-00-00 00:00:00
+49513,505,,George Kanemitsu,Mr.,George,Kanemitsu,,,8085535855,,,,1,0000-00-00 00:00:00
+49514,505,,Blossom Poepoe,Ms.,Blossom,Poepoe,,,,,,,0,0000-00-00 00:00:00
+50332,899,Owner,Corey Law,,Corey,Law,,dharma@maui.net,(808) 248-8926,,,,1,0000-00-00 00:00:00
+49515,506,,Mr. Lyle Kobashigawa,Mr.,Lyle,Kobashigawa,,kookie@aloha.net,8083355003,(800) 361-1126,,,1,0000-00-00 00:00:00
+49516,507,,Alan Nagato,Mr.,Alan,Nagato,,,8085912091,8085932171,,,1,0000-00-00 00:00:00
+49518,509,"Vice President, Sales",Mr. Byron Chong,Mr.,Byron,Chong,,bchong@lovesbakery.com,(808) 842-3308,,,,1,0000-00-00 00:00:00
+49519,510,,Robert Carvalho,Mr.,Robert,Carvalho,,,8085732788,,,,1,0000-00-00 00:00:00
+49520,510,,Myra Carvalho,Ms.,Myra,Carvalho,,,,,,,0,0000-00-00 00:00:00
+49521,511,,Steve Mulgrew,Mr.,Steve,Mulgrew,,mulvadi@msn.com,(808) 541-9669,,,,1,0000-00-00 00:00:00
+49522,514,,Barbara Simmons,Ms.,Barbara,Simmons,,,8087750775,8889924454,,,1,0000-00-00 00:00:00
+49524,516,,Mark Kaneda,Mr.,Mark,Kaneda,,,8085918205,,,,1,0000-00-00 00:00:00
+49525,517,President,Mr. Gilbert Yamada,Mr.,Gilbert,Yamada,,gy@kyd-inc.com,(808) 833-4779,,,,1,0000-00-00 00:00:00
+49526,518,Owner,Ysidro Macias,Mr.,Ysidro,Macias,,,8088333695,,,,1,0000-00-00 00:00:00
+49528,520,,Fred Peyer,Mr.,Fred,Peyer,,,8088410991,,,,1,0000-00-00 00:00:00
+49529,521,Owner,Bill Mertens,Mr.,Bill,Mertens,,info@anuheaflowers.com,(808) 572-8674,(808) 572-6877,,,1,0000-00-00 00:00:00
+49530,521,,Judy Mertens,Mrs.,Judy,Mertens,,,,,,,0,0000-00-00 00:00:00
+49531,522,Owner,Gavin Yamada,Mr.,Gavin,Yamada,,,8082595494,,,,1,0000-00-00 00:00:00
+49532,523,,Linda Smallwood,Ms.,Linda,Smallwood,,,8083239740,,,,1,0000-00-00 00:00:00
+49533,524,,David Bateman,,David,Bateman,,coffee@heavenlyhawaiian.com,8083227720,8083226021,,,1,0000-00-00 00:00:00
+49576,773,,Mr. Mark Shomura,Mr.,Mark,Shomura,,,8084863013,,,,1,0000-00-00 00:00:00
+49577,774,,Michael Crowell,Mr.,Michael,Crowell,,wag@interpac.net,8089599494,8089612695,,,1,0000-00-00 00:00:00
+49578,775,General Manager,Mr. Thomas F. Greenwell,Mr.,Thomas,Greenwell,F.,tom@greenwellfarms.com,8083232862,8083232275,,,1,0000-00-00 00:00:00
+49579,776,,Desmond Manaba,,Desmond,Manaba,,djocean@aloha.net,8085588314,,,,1,0000-00-00 00:00:00
+49580,778,,Mike Blietz,Mr.,Mike,Blietz,,info@mauiorchids.com,8085752255,,,,1,0000-00-00 00:00:00
+49581,779,,Lynda Mae Sineci,Ms.,Lynda Mae,Sineci,,,8082488655,,,,1,0000-00-00 00:00:00
+49582,782,,Clyde Fukuyama,Mr.,Clyde,Fukuyama,,fukuyamac001@hawaii.rr.com,8082939450,8082938362,,,1,0000-00-00 00:00:00
+49583,570,,Lance M. Yamashiro,Mr.,Lance,Yamashiro,M.,yamashirofarm@cs.com,8089677376,8089870164,,,1,0000-00-00 00:00:00
+49584,571,,Allen M. Yamada,Mr.,Allen,Yamada,M.,hiepicenter@hotmail.com,8088224148,,,,1,0000-00-00 00:00:00
+49586,573,Owner,Cori Pohle,Ms.,Cori,Pohle,,cpohle@hawaii.rr.com,(808) 254-1720,,,,1,0000-00-00 00:00:00
+50274,1229,,Manager,,,Manager,,info@kauainursery.com,,,,,1,0000-00-00 00:00:00
+50277,1233,Owner,Randall Tajima,,Randall,Tajima,,randalltajima@aol.com,(808) 735-5678,,,,1,0000-00-00 00:00:00
+50279,1234,Executive Director,Judy Magin,,Judy,Magin,,HMNAHAWAII@aol.com,(808) 969-8033,,,,0,0000-00-00 00:00:00
+50291,714,Owner,Mr. Wooten,Mr.,,Wooten,,,,,,,1,0000-00-00 00:00:00
+50292,892,Owner,Nancy Griffith,,Nancy,Griffith,,aamafarm@yahoo.com,(808) 328-2666,(808) 895-0131,,,1,0000-00-00 00:00:00
+50333,1270,,Carol Ann Cozzi-Schmarr,,Carol Ann,Cozzi-Schmarr,,carol@oceanrider.com,(808) 329-6840,,,,1,0000-00-00 00:00:00
+50334,900,,Debra,,Debra,,,dragonseyecenter@earthlink.net,(808) 965-9371,,,,1,0000-00-00 00:00:00
+49587,574,,Charles Trommer,Mr.,Charles,Trommer,,crtrommer@aol.com,8089636340,,,,1,0000-00-00 00:00:00
+49588,575,,Mr. Glen Bridges,Mr.,Glen,Bridges,,,8089688581,,,,1,0000-00-00 00:00:00
+49589,576,,Stu Nicholls,Mr.,Stu,Nicholls,,,8088783185,,,,1,0000-00-00 00:00:00
+49590,577,,Carolyn Goodin,Ms.,Carolyn,Goodin,,,8082396257,8086385232,,,1,0000-00-00 00:00:00
+49591,578,,Jim Bolte,Mr.,Jim,Bolte,,,8088783845,8778879090,,,1,0000-00-00 00:00:00
+49592,578,,Lorie Bolte,Ms.,Lorie,Bolte,,,,,,,0,0000-00-00 00:00:00
+49593,579,,Warren Watanabe,Mr.,Warren,Watanabe,,,8088782688,8082832045,,,1,0000-00-00 00:00:00
+49594,580,,Nancy Seifers,Ms.,Nancy,Seifers,,nancy.seifers2@hawaiiantel.net,8089659790,,,,1,0000-00-00 00:00:00
+49595,581,,Kelly Greenwell,Ms.,Kelly,Greenwell,,,(888) 879-2485,8083295702,,Fax,1,0000-00-00 00:00:00
+49596,582,,Jerry Welch,Mr.,Jerry,Welch,,jerry@haikupalms.com,8085722777,,,,1,0000-00-00 00:00:00
+49597,583,,LaJuana Donahey,Ms.,LaJuana,Donahey,,hawaiiblooms@verizon.net,8889827744,8089666877,,,1,0000-00-00 00:00:00
+49598,584,,Timmy Cabreros,Mr.,Timmy,Cabreros,,,8087761510,,,,1,0000-00-00 00:00:00
+49599,584,,JoAnn Dias-Souza,Ms.,JoAnn,Dias-Souza,,,,,,,0,0000-00-00 00:00:00
+49600,585,,Bill Lorimer,Mr.,Bill,Lorimer,,,8082353522,,,,1,0000-00-00 00:00:00
+49602,587,,Edgar Ombac,Mr.,Edgar,Ombac,,cabmo@hawaiiantel.net,8089593469,,,,1,0000-00-00 00:00:00
+49603,587,,Debbie Ombac,Ms.,Debbie,Ombac,,,,,,,0,0000-00-00 00:00:00
+49604,589,,Mr. David Oshiro,Mr.,David,Oshiro,,,8088854701,,,,1,0000-00-00 00:00:00
+49606,591,,Mr. Philip Rosenberg,Mr.,Philip,Rosenberg,,,8083298213,,,,1,0000-00-00 00:00:00
+49607,592,,Tim Eastland,Mr.,Tim,Eastland,,,8083288883,8005306603,,,1,0000-00-00 00:00:00
+49608,592,,Arja Eastland,,Arja,Eastland,,,,,,,0,0000-00-00 00:00:00
+49609,593,,Suzanne Shriner,,Suzanne,Shriner,,liongte@aloha.net,8083282335,,,,1,0000-00-00 00:00:00
+49610,594,,Clyde Fujikawa,Mr.,Clyde,Fujikawa,,,8088264708,,,,1,0000-00-00 00:00:00
+49611,595,,Alvin Tsuruda,Mr.,Alvin,Tsuruda,,waihale@msn.com,8082596512,,,,1,0000-00-00 00:00:00
+49612,596,,Jeffery Marcus,Mr.,Jeffery,Marcus,,jmarcus@interpac.net,8089668003,,,,1,0000-00-00 00:00:00
+49613,597,,Ms. Betsy Garties,Ms.,Betsy,Garties,,info@Aikanenursery.com,8088895906,,,,1,0000-00-00 00:00:00
+49614,597,,Ms. Victoria Paul,Ms.,Victoria,Paul,,,,,,,0,0000-00-00 00:00:00
+49615,598,Owner,Richard A. McAfee,Mr.,Richard,McAfee,A.,Liljeanfarm@msn.com,(808) 328-8895,(808) 328-0415,,,1,0000-00-00 00:00:00
+49616,599,,Elton Mow,Mr.,Elton,Mow,,,(808) 965-2695,,,,1,0000-00-00 00:00:00
+49534,525,Owner,Ronna Schreiner,,Ronna,Schreiner,,,8083228817,,,,1,0000-00-00 00:00:00
+49535,525,,Gail Hennig,Ms.,Gail,Hennig,,,,,,,0,0000-00-00 00:00:00
+49536,526,,Kenneth Sheppard,Mr.,Kenneth,Sheppard,,coffee@pendragonhawaii.com,8083287345,,,,1,0000-00-00 00:00:00
+49537,527,,Curtis Yoshimoto,Mr.,Curtis,Yoshimoto,,,8086610455,,,,1,0000-00-00 00:00:00
+49539,529,,Bob Smith,Mr.,Bob,Smith,,webmistress@smithfarms.com,8083288060,,,,1,0000-00-00 00:00:00
+49540,530,,Steven Fierro,Mr.,Steven,Fierro,,,8086387740,,,,1,0000-00-00 00:00:00
+49541,531,,Michael Mack,Mr.,Michael,Mack,,,8083289703,8883458451,,,1,0000-00-00 00:00:00
+49542,532,,Patrick McGrath,Mr.,Patrick,McGrath,,info@perfectlyhawaiian.com,8089598966,8089874188,,,1,0000-00-00 00:00:00
+49543,533,Sales Manager,Tricia Morlock,,Tricia,Morlock,,htd@interpac.net,8008403660,8089650704,,,1,0000-00-00 00:00:00
+49544,533,Owners,Don and Ellen Eberly,,Don and Ellen,Eberly,,,,,,,0,0000-00-00 00:00:00
+49545,534,,Lisa Taniguchi,Ms.,Lisa,Taniguchi,,,8083238030,,,,1,0000-00-00 00:00:00
+49546,535,,Susan Owen,Ms.,Susan,Owen,,,8082391280,8082392151,,Fax,1,0000-00-00 00:00:00
+49547,538,,Howan Leung,Ms.,Howan,Leung,,,8082395333,,,,1,0000-00-00 00:00:00
+49550,541,,Eric Weinert,Mr.,Eric,Weinert,,eweinert@hawaiipride.com,8089828880,8089828881,,Fax,1,0000-00-00 00:00:00
+49551,542,,James Chan,Mr.,James,Chan,,hawncc@aol.com,8088459868,8088487848,,Fax,1,0000-00-00 00:00:00
+49555,545,,Tom Kawamoto,Mr.,Tom,Kawamoto,,,8088711589,8088730276,,,1,0000-00-00 00:00:00
+49556,546,Owner,Ryan Lum,,Ryan,Lum,,nscattle@gte.net,8088645079,,,,1,0000-00-00 00:00:00
+49557,546,,Kay Lum,Mrs.,Kay,Lum,,,,,,,0,0000-00-00 00:00:00
+49558,547,,Mary and Dean Monroe,,Mary and Dean,Monroe,,mary@hawaiiorchidlady.com,8089825204,,,,1,0000-00-00 00:00:00
+49559,547,,,,,,,,,,,,0,0000-00-00 00:00:00
+49560,548,,Christopher Lichty,Mr.,Christopher,Lichty,,lichtyc001@hawaii.rr.com,8089366163,8089826779,,,1,0000-00-00 00:00:00
+49561,549,,Wilfred LaPlante,Mr.,Wilfred,LaPlante,,lindas@lindasplacehawaii.com,8089686903,,,,1,0000-00-00 00:00:00
+49562,549,,Linda LaPlante,Mr.,Linda,LaPlante,,,,,,,0,0000-00-00 00:00:00
+49563,550,Managing Member,Keith Whitaker,Mr.,Keith,Whitaker,,,8089826503,,,,1,0000-00-00 00:00:00
+49564,551,,Charles H Cope,Mr.,Charles,Cope,H,,8083282673,,,,1,0000-00-00 00:00:00
+49565,552,,Martin O'Day,Mr.,Martin,O'Day,,martysor@lava.net,8082598000,8083735017,,,1,0000-00-00 00:00:00
+50280,856,,Manager,,,Manager,,,(808) 589-2800,,,,1,0000-00-00 00:00:00
+50293,1034,,Alii Chang,,Alii,Chang,,aliiemt@flex.com,(808) 878-3004,,,,0,0000-00-00 00:00:00
+50294,1240,Manager,Rich von Wellsheim,,Rich,von Wellsheim,,info@whisperingwindsbamboo.com,(808) 248-7561,,,,1,0000-00-00 00:00:00
+50295,1241,,Manager,,,Manager,,dillingham@hawaiiantel.net,(808) 637-8088,,,,1,0000-00-00 00:00:00
+50299,1245,President,Dennis Bain,,Dennis,Bain,,,(808) 951-0055,,,,1,0000-00-00 00:00:00
+49566,553,,Mr. James McCully,Mr.,James,McCully,,jmccully@maunakeaorchids.com,8089356566,,,,0,0000-00-00 00:00:00
+49567,565,,Richard Stauber,Mr.,Richard,Stauber,,,8082466425,,,,1,0000-00-00 00:00:00
+49568,565,,Lester Contrades,Mr.,Lester,Contrades,,,,,,,0,0000-00-00 00:00:00
+49572,569,,Lisen Twigg-Smith,Ms.,Lisen,Twigg-Smith,,orders@konalea.com,8083229937,8083227304,,,1,0000-00-00 00:00:00
+49574,770,President,Tyler Takehara,Mr.,Tyler,Takehara,,,8084880716,,,,1,0000-00-00 00:00:00
+49618,601,,Donna Mah,Ms.,Donna,Mah,,,8088856841,8083265170,,,1,0000-00-00 00:00:00
+49619,602,,Jonna Yoon,Ms.,Jonna,Yoon,,,8089668116,,,,1,0000-00-00 00:00:00
+49620,603,Owner,Chad Higaki,,Chad,Higaki,,chadhigaki@aol.com,8089596250,,,,1,0000-00-00 00:00:00
+49622,605,,Robert M. Stanga,Mr.,Robert,Stanga,M.,hamakuafarm@aol.com,8089620017,,,,1,0000-00-00 00:00:00
+49623,606,Owner,Terry Fitzgerald,Ms.,Terry,Fitzgerald,,dakinecoffeebean@gmail.com,8083288716,,,,1,0000-00-00 00:00:00
+49624,607,,Chiyono Kinoshita,,Chiyono,Kinoshita,,ckino@hawaiiantel.net,8089597542,,,,1,0000-00-00 00:00:00
+49625,608,,Grace E. DeAguiar,,Grace,DeAguiar,E.,hapaki@hawaii.rr.com,8083288831,,,,1,0000-00-00 00:00:00
+49626,609,,Anna Palomino,Ms.,Anna,Palomino,,,8085724835,8088937565,,,1,0000-00-00 00:00:00
+49627,610,Vice President,John Oshima,Mr.,John,Oshima,,flowersinc@juno.com,8089597483,,,,1,0000-00-00 00:00:00
+49628,611,,David E. Raabe,Mr.,David,Raabe,E.,david.raabe@hawaiiantel.net,8089599106,,,,1,0000-00-00 00:00:00
+49629,612,,Richard Tsue,Mr.,Richard,Tsue,,gordonsnursery@yahoo.com,8086387155,,,,1,0000-00-00 00:00:00
+49630,612,,Wayne Tsue,Mr.,Wayne,Tsue,,,,,,,0,0000-00-00 00:00:00
+49631,613,,Leonard Olsen,Mr.,Leonard,Olsen,,,8086687195,,,,1,0000-00-00 00:00:00
+49632,614,Owner,Mr. Loren Heck,Mr.,Loren,Heck,,lheck@alohabroadband.com,8089399454,,,,1,0000-00-00 00:00:00
+49633,615,Owner,Raynel Foster,Ms.,Raynel,Foster,,smokieacres@aol.com,8086387771,,,,1,0000-00-00 00:00:00
+49634,616,,Ken Love,Mr.,Ken,Love,,ken@mycoffee.net,8083232417,8083232193,,,1,0000-00-00 00:00:00
+49635,617,Owner,Lyn Allen,Ms.,Lyn,Allen,,,8088782800,,,,1,0000-00-00 00:00:00
+49636,618,Owner,Sumie Sakai,Ms.,Sumie,Sakai,,,8086962176,,,,1,0000-00-00 00:00:00
+50281,1235,,Lois Shimabukaro,,Lois,Shimabukaro,,,(808) 841-7695,(808) 841-7074,,,1,0000-00-00 00:00:00
+50301,1246,Sole Proprietor,Lora A. Oshima,,Lora,Oshima,A.,,(808) 221-8878,,,,1,0000-00-00 00:00:00
+50303,1248,Owner,Bill Walker,,Bill,Walker,,billwalk@hialoha.net,(808) 966-6693,,,,1,0000-00-00 00:00:00
+50304,1250,President,Tim Law,,Tim,Law,,tim@fatlawfarm.com,(808) 864-8108,,,,1,0000-00-00 00:00:00
+50313,1249,Sales Associate,Wade Hanashiro,,Wade,Hanashiro,,contactus@blossomsofhawaii.com,(808) 959-3535,,,,1,0000-00-00 00:00:00
+50314,481,President,Brian Nishida,,Brian,Nishida,,,,,,,0,0000-00-00 00:00:00
+50335,901,,Owner,,,Owner,,,(808) 572-9331,,,,1,0000-00-00 00:00:00
+50336,1271,Owner,James Falconer,,James,Falconer,,jkimof@msn.com,(808) 661-3158,,,,1,0000-00-00 00:00:00
+50350,1284,Owner,Monnie Gay,,Monnie,Gay,,,(808) 876-1973,,,,1,0000-00-00 00:00:00
+50388,177,,Agnes Prehn,,Agnes,Prehn,,aprehn@cyanotech.com,(808) 329-4677,,,,1,0000-00-00 00:00:00
+49639,621,,Casey Shim,Mr.,Casey,Shim,,,,,,,0,0000-00-00 00:00:00
+49641,623,,Ms. Pam Brashear,Ms.,Pam,Brashear,,bigislandqueens@hawaii.rr.com,8083289249,,,,1,0000-00-00 00:00:00
+49642,623,,Pam Brashear,Ms.,Pam,Brashear,,,,,,,0,0000-00-00 00:00:00
+49643,624,,Christie Russell,Ms.,Christie,Russell,,crprotea@hawaiiantel.net,8085728892,8082443731,,Ext 223,1,0000-00-00 00:00:00
+49644,625,Owner,Thomas T. Shiroma,Mr.,Thomas,Shiroma,T.,,8089598366,,,,1,0000-00-00 00:00:00
+49645,626,President,S. Gordon Czernick,Mr.,S. Gordon,Czernick,,,8085726337,,,,1,0000-00-00 00:00:00
+49646,628,Owner/Manager,Howard Yamasaki,,Howard,Yamasaki,,howard@pookela.com,(866) 328-9753,,,,1,0000-00-00 00:00:00
+49647,629,,Louisa Wooton,Ms.,Louisa,Wooton,,kunana@juno.com,8088286767,8086359759,,,1,0000-00-00 00:00:00
+49648,630,,Darrell G. Mullen,Mr.,Darrell,Mullen,G.,,8089399276,,,,1,0000-00-00 00:00:00
+49652,633,,Joe I. Suave,Mr.,Joe,Suave,I.,,3606816875,,,,1,0000-00-00 00:00:00
+49653,634,,Jenni,Ms.,Jenni,,,bushiro@aloha.net,8089612548,,,,1,0000-00-00 00:00:00
+49654,635,,D. Nakaoka,Mr.,D.,Nakaoka,,dsn76@aol.com,8089593048,,,,1,0000-00-00 00:00:00
+49655,636,,Jose Ramelb,Mr.,Jose,Ramelb,,,8089826167,,,,1,0000-00-00 00:00:00
+49656,637,Owner,Mr. Ken Verosko,Mr.,Ken,Verosko,,,8083288547,,,,1,0000-00-00 00:00:00
+49657,638,,Marla McCasland,Ms.,Marla,McCasland,,hawaiianflowers@alohabroadband.com,8089299737,8089374927,,,1,0000-00-00 00:00:00
+49658,639,,Gawain Booth,Mr.,Gawain,Booth,,gbooth@hawaiiantel.net,8083220667,,,,1,0000-00-00 00:00:00
+49659,640,,Vicky Norris,Ms.,Vicky,Norris,,,8082444796,8082445230,,,1,0000-00-00 00:00:00
+49660,641,,Gretchen Tek,Ms.,Gretchen,Tek,,gandrtek@interpac.net,8083257618,,,,1,0000-00-00 00:00:00
+49661,642,,Kuulei Santos,Ms.,Kuulei,Santos,,,8083355887,,,,1,0000-00-00 00:00:00
+49662,643,,"Jules J. Gervais, Jr.",Mr.,Jules,"Gervais, Jr.",J.,gervais@hawaiiantel.net,8089590825,,,,1,0000-00-00 00:00:00
+49663,644,,Barbara Beardsley,Ms.,Barbara,Beardsley,,,(808) 938-5615,,,,1,0000-00-00 00:00:00
+49664,645,,Billy Irvine,Mr.,Billy,Irvine,,alohafarm@aol.com,8085729440,,,,1,0000-00-00 00:00:00
+49665,646,,Bill Helbing,Mr.,Bill,Helbing,,wjh17@yahoo.com,8087761007,,,,1,0000-00-00 00:00:00
+49666,647,,Harvey Tomono,Mr.,Harvey,Tomono,,,8083288758,,,,1,0000-00-00 00:00:00
+49667,648,Owner,Wil Friesen,Mr.,Wil,Friesen,,konacoffee@hawaiiantel.net,8083282045,8889179577,,,1,0000-00-00 00:00:00
+49669,650,,Ricky Young,Mr.,Ricky,Young,,,8086965732,8082235449,,,1,0000-00-00 00:00:00
+50305,1251,Owner,Alan Tada,,Alan,Tada,,flowersforever@hawaiilink.net,(808) 245-4717,,,,1,0000-00-00 00:00:00
+50306,1252,,Dan,,Dan,,,proteas@hialoha.net,(808) 939-9477,,,,1,0000-00-00 00:00:00
+50307,1253,Owner,Robert Barnes,,Robert,Barnes,,info@konarainforestcoffee.com,(808) 328-1941,,,,1,0000-00-00 00:00:00
+50338,1273,Manager,Sharon Wood,,Sharon,Wood,,ariannafarms@earthlink.net,(805) 402-2453,,,,1,0000-00-00 00:00:00
+50339,1274,Owner,Bob Helstrom,,Bob,Helstrom,,,(808) 896-6399,,,,1,0000-00-00 00:00:00
+49670,650,,Jeanne Young,Ms.,Jeanne,Young,,,,,,,0,0000-00-00 00:00:00
+49671,651,,Harry Lui,Mr.,Harry,Lui,,,,,,,1,0000-00-00 00:00:00
+49672,652,,Seppe Wiesmueller,,Seppe,Wiesmueller,,,8087758115,,,,1,0000-00-00 00:00:00
+49673,653,,Mimi Greene,Ms.,Mimi,Greene,,,8083292399,8083297967,,,1,0000-00-00 00:00:00
+49674,654,,Benno Brenninhmeyer,Mr.,Benno,Brenninhmeyer,,benno@aloha.net,8083226533,,,,1,0000-00-00 00:00:00
+49675,655,Owner,Ellen and Charlie Crocker,,Ellen and Charlie,Crocker,,ellenandcharlie@netzero.net,8083288131,,,,1,0000-00-00 00:00:00
+49676,656,President,David Emory,,David,Emory,,dre1300@aol.com,(808) 757-1217,8082428779,,,1,0000-00-00 00:00:00
+49677,656,,,,,,,,,,,,0,0000-00-00 00:00:00
+49679,658,,Tom Butler,Mr.,Tom,Butler,,konacafe@paradisefoundhawaii.com,8083289031,,,,1,0000-00-00 00:00:00
+49680,659,General Manager,Glen Barfield,Mr.,Glen,Barfield,,glen@theorchidworks.com,8089636233,,,,1,0000-00-00 00:00:00
+49681,660,,R. V. Rainier,Mr.,R.,Rainier,V.,,8087750137,,,,1,0000-00-00 00:00:00
+49682,662,,David Finkelstein,Mr.,David,Finkelstein,,davidfinkelstein110@yahoo.com,8083289149,,,,1,0000-00-00 00:00:00
+49683,663,,James Fang,Mr.,James,Fang,,hofhi@hawaii.rr.com,8089688801,,,,1,0000-00-00 00:00:00
+49684,664,,Teresa Brown,Mrs.,Teresa,Brown,,,8085759496,,,,1,0000-00-00 00:00:00
+49685,665,,Michael P. McCoy,Mr.,Michael,McCoy,P.,kayak@maui.net,8085721771,,,,1,0000-00-00 00:00:00
+49686,666,,Cynthia,Ms.,Cynthia,,,,8089686350,,,,1,0000-00-00 00:00:00
+49687,667,,Ms. Yvette Hata,Ms.,Yvette,Hata,,,8089669240,,,,1,0000-00-00 00:00:00
+49688,667,,Myrtle,Ms.,Myrtle,,,,,,,,0,0000-00-00 00:00:00
+49689,668,,Amy Strauss,,Amy,Strauss,,k.tropics@verizon.net,(808) 936-9765,,,,1,0000-00-00 00:00:00
+49690,669,,William Oshiro,Mr.,William,Oshiro,,,8085727060,,,,1,0000-00-00 00:00:00
+49691,670,,Warlito G. Tolentino,Mr.,Warlito,Tolentino,G.,,8086967440,8082925211,,,1,0000-00-00 00:00:00
+49692,671,,Tama Brandenburg,,Tama,Brandenburg,,brandeb@msn.com,8085723688,8085725880,,,1,0000-00-00 00:00:00
+49693,672,Owner,Kiyoshi Murakami,Mr.,Kiyoshi,Murakami,,,8087757176,,,,1,2/8/11 15:31
+49694,673,Owner/manager,See Ba Thee,,See Ba,Thee,,thees001@hawaii.rr.com,(808) 293-8873,,,,1,0000-00-00 00:00:00
+49695,675,,Edith Miller,Ms.,Edith,Miller,,,8089688029,8089686565,,,0,0000-00-00 00:00:00
+49696,676,,Jonathan Yee,Mr.,Jonathan,Yee,,,,,,,1,0000-00-00 00:00:00
+49697,678,,James Postlewait,Mr.,James,Postlewait,,,8089636811,8089366153,,,1,0000-00-00 00:00:00
+49698,679,,Peter Berg,Mr.,Peter,Berg,,bambooinfo@lava.net,,,,,1,0000-00-00 00:00:00
+49699,679,,Susan Ruskin,Ms.,Susan,Ruskin,,,,,,,0,0000-00-00 00:00:00
+49700,680,,Beatrice L. Baoy,Ms.,Beatrice,Baoy,L.,,8083287374,,,,1,0000-00-00 00:00:00
+49701,681,,DJ Star,Ms.,DJ,Star,,info@heavenlycreations.org,8088281700,(808) 639-2173,,,1,0000-00-00 00:00:00
+50275,1231,Owners,Jimmy or Marie Torio,,Jimmy or Marie,Torio,,jktorio@anahola.net,(808) 822-7045,(808) 652-0921,,cellular,1,0000-00-00 00:00:00
+49702,682,,Norman Sadoyama,Mr.,Norman,Sadoyama,,,8082399196,8083724813,,,1,0000-00-00 00:00:00
+49703,683,Owner,Moses Timbal,,Moses,Timbal,,noelani@wave.hicv.net,8082487508,,,,1,0000-00-00 00:00:00
+49704,684,,Woody Goble,Mr.,Woody,Goble,,gobles@maui.net,8088786079,8008486079,,,1,0000-00-00 00:00:00
+49705,684,,Carmen Goble,Ms.,Carmen,Goble,,,,,,,0,0000-00-00 00:00:00
+49706,685,,Allen Nobriga,Mr.,Allen,Nobriga,,,8083262995,,,,1,0000-00-00 00:00:00
+49707,686,,Ken Nutt,Mr.,Ken,Nutt,,,8089373166,,,,1,0000-00-00 00:00:00
+49708,686,,Donna Nutt,Ms.,Donna,Nutt,,,,,,,0,0000-00-00 00:00:00
+49709,687,,Keith Eastling,Mr.,Keith,Eastling,,,8088783102,8088760183,,,1,0000-00-00 00:00:00
+49710,688,,,,,,,,,,,,0,0000-00-00 00:00:00
+49711,689,Owners,Peter and Iris Cantor,,Peter and Iris,Cantor,,,8083290027,,,,1,0000-00-00 00:00:00
+49713,691,,Anya,Ms.,Anya,,,,8082488581,8082487610,,,1,0000-00-00 00:00:00
+49715,693,,Lorra Naholowa'a,Ms.,Lorra,Naholowa'a,,,8086825895,8086820762,,Fax,1,0000-00-00 00:00:00
+49716,694,,Blase Lee Loy,,Blase,Loy,Lee,,8083226817,8083228045,,,1,0000-00-00 00:00:00
+49717,695,,Lonnie Williams,Mr.,Lonnie,Williams,,,8085538175,,,,1,0000-00-00 00:00:00
+49718,696,,Kevin Johns,Mr.,Kevin,Johns,,,8085729376,,,,1,0000-00-00 00:00:00
+49719,697,,John Kaiewe III,Mr.,John,Kaiewe III,,,,,,,1,0000-00-00 00:00:00
+49721,699,,Michelle P Fitzgerald,Ms.,Michelle,Fitzgerald,P,poiboys@hawaiian.net,8088264764,,,,1,0000-00-00 00:00:00
+49722,700,,Gerald Boteilho,Mr.,Gerald,Boteilho,,,8088857530,,,,1,0000-00-00 00:00:00
+49723,701,,E. Yvonne Angel,,E. Yvonne,Angel,,,8088775846,,,,1,0000-00-00 00:00:00
+49724,702,,George Woollard,Mr.,George,Woollard,,,8087375918,8087375918,,Fax,1,0000-00-00 00:00:00
+49725,702,,Jinja Woollard,,Jinja,Woollard,,,,,,,0,0000-00-00 00:00:00
+49726,703,,Richard Watanabe,Mr.,Richard,Watanabe,,,8088782653,,,,1,0000-00-00 00:00:00
+49727,704,,"Emmerich Grosch, Jr.",Mr.,Emmerich,"Grosch, Jr.",,eginc@hawaiiantel.net,8083232411,8083227799,Ph/Fax,,1,0000-00-00 00:00:00
+49728,705,,Denby Yoshimura,Ms.,Denby,Yoshimura,,"crown_pacific@yahoo,com",8089351550,8089663884,,,1,0000-00-00 00:00:00
+49729,706,Owner,Bob Cooper,Mr.,Bob,Cooper,,,8083220990,,,,1,0000-00-00 00:00:00
+49730,707,,Ella Arakawa,,Ella,Arakawa,,,8087761254,,,,1,0000-00-00 00:00:00
+49732,709,,Clare Wilson,,Clare,Wilson,,postmaster@huahuafarm.com,8083227094,8083246655,PH/FAX,,1,0000-00-00 00:00:00
+49733,710,Owner,Vernon Lum,,Vernon,Lum,,,8082351578,,,,1,0000-00-00 00:00:00
+50308,1254,Owner,Dick Comerford,,Ron,Lake,,konalisacoffee@yahoo.com,(808) 328-9941,,,,1,2/28/11 15:05
+50309,1255,Owner,Mark Shultise,,Mark,Shultise,,orders@ItsKona.com,(877) 487-5662,,,,1,0000-00-00 00:00:00
+50310,1256,Owner,Steve,,Steve,,,steve@pctgardens.com,(808) 896-6183,(808) 982-8338,Cell,Nursery,1,0000-00-00 00:00:00
+50389,147,General Manager,Sotero Agoot,,Sotero,Agoot,,,,,,,0,0000-00-00 00:00:00
+49734,711,,Jill Wagner,,Jill,Wagner,,jillw@turquoise.net,8083252377,,,,1,0000-00-00 00:00:00
+49735,712,Owners,Edgar & Barbara Sabbeth,,Edgar & Barbara,Sabbeth,,quickly24@hotmail.com,8085724085,,,,1,0000-00-00 00:00:00
+49736,712,,Barbara Sabbeth,,Barbara,Sabbeth,,,,,,,0,0000-00-00 00:00:00
+49737,713,,Steve Shropshire,Mr.,Steve,Shropshire,,steve@alohagreen.com,8089648111,,,,1,0000-00-00 00:00:00
+49738,716,Owner,Owner,,,Owner,,,8089827444,,,,1,0000-00-00 00:00:00
+49739,717,,Michael P. Rich,Mr.,Michael,Rich,P.,,,,,,1,0000-00-00 00:00:00
+49740,718,,Tina Habon,,Tina,Habon,,,8085676024,8003800782,,,1,0000-00-00 00:00:00
+49741,718,,John Cox,,John,Cox,,,,,,,0,0000-00-00 00:00:00
+49743,720,,Sandy Schaffer,,Sandy,Schaffer,,shafamfarm@aol.com,8089688531,8089330502,,,1,0000-00-00 00:00:00
+49746,723,,Ms. Roseanna Kanoa,Ms.,Roseanna,Kanoa,,roseanna@bigislandnoni.com,8089650456,,,,1,0000-00-00 00:00:00
+49747,724,,Latiya Rodillas,,Latiya,Rodillas,,,8085676817,,,,1,0000-00-00 00:00:00
+49748,725,,Oscar Jaitt,,Oscar,Jaitt,,fruitlovers@fruitlovers.com,8089650835,,,,1,0000-00-00 00:00:00
+49749,726,Owner,John Boots,,John,Boots,,,8089666245,8089825334,,,1,0000-00-00 00:00:00
+49750,727,,Leonard Gines,,Leonard,Gines,,ginesorchids@turquoise.net,8089664550,,,,1,0000-00-00 00:00:00
+49751,728,,Gordon Heit,,Gordon,Heit,,,8089615649,,,,1,0000-00-00 00:00:00
+49752,729,,David Matsuura,,David,Matsuura,,,8089359060,,,,1,0000-00-00 00:00:00
+49753,730,,Claudia,,Claudia,,,,8089286456,,,,1,0000-00-00 00:00:00
+49754,731,,Kim Ramick,,Kim,Ramick,,sfaxtrop@aol.com,8085759057,,,,1,0000-00-00 00:00:00
+49755,732,,Tai Young Chung,,Tai Young,Chung,,,8089598586,,,,1,0000-00-00 00:00:00
+49756,733,,Hazel Thompson,Ms.,Hazel,Thompson,,,8089357562,,,,1,0000-00-00 00:00:00
+49757,734,General Manager,Glen Barfield,Mr.,Glen,Barfield,,glen@okika.com,(808) 937-1606,,,,1,0000-00-00 00:00:00
+49761,737,,Robert Osgood,,Robert,Osgood,,,,,,,1,0000-00-00 00:00:00
+49762,738,,Robin,,Robin,,,ma_temple@hotmail.com,8089827216,,,,1,0000-00-00 00:00:00
+49763,739,Owner,Gunner Freivalds,,Gunner,Freivalds,,ataboy@hawaii.rr.com,8083232474,,,,1,0000-00-00 00:00:00
+49765,741,,,,,,,,,,,,0,0000-00-00 00:00:00
+49766,742,,Herbert Moniz,,Herbert,Moniz,,marie@nonimaui.com,808-575-9100,,,,1,4/24/12 14:55
+50311,1257,Program Coordinator,Robert Santos,,Robert,Santos,,santosro@hawaii.edu,(808) 984-3688,,,,1,0000-00-00 00:00:00
+50312,1258,Owner,Michael Kilinski,,Michael,Kilinski,,mdk1464@aol.com,(808) 242-6989,,,,1,0000-00-00 00:00:00
+50315,1259,,Matt,,Matt,,,nativehawaiianplants@gmail.com,(808) 259-6580,,,,1,0000-00-00 00:00:00
+50316,1260,,Owner,,,,,email@grandfatherssalt.com,(808) 222-7350,,,,1,5/10/11 14:17
+50317,1261,Owner,Jean Tanga,,Jean,Tanga,,mail@4jshawaii.com,(808) 625-2501,(808) 372-4664,,,1,0000-00-00 00:00:00
+50328,894,Owner,Gregory Yee,,Gregory,Yee,,,(808) 232-2208,,,,1,0000-00-00 00:00:00
+50329,896,Owner,Owner,,,Owner,,,(808) 328-2279,,,,1,0000-00-00 00:00:00
+50340,1275,Owner,Alfred Woolley,,Alfred,Woolley,,,(808) 322-6575,,,,1,0000-00-00 00:00:00
+50341,1276,Owner,George Fike,,George,Fike,,dealii@aloha.net,(808) 322-8100,,,,1,0000-00-00 00:00:00
+49768,744,,Harry Y. Akagi,Mr.,Harry,Akagi,Y.,,8082599626,,,,1,0000-00-00 00:00:00
+49769,745,,Tracy Yokouchi-Ng,,Tracy,Yokouchi-Ng,,,8088416641,,,,1,0000-00-00 00:00:00
+49770,745,,June Otake,,June,Otake,,,,,,,0,0000-00-00 00:00:00
+49773,747,,Toshihisa Aoki,Mr.,Toshihisa,Aoki,,,8089615580,,,,1,0000-00-00 00:00:00
+49774,748,President,Byron Goo,Mr.,Byron,Goo,,info@teachest.com,8085919400,,,,1,0000-00-00 00:00:00
+49775,749,,John Mood,,John,Mood,,shorthair@hawaii.rr.com,8086385317,,,,1,0000-00-00 00:00:00
+50440,1364,General Manager,Dean Sealer,,Dean,Sealer,,deansealer@hotmail.com,(808) 523-7779,,,,1,0000-00-00 00:00:00
+49776,750,,Norio Kunimitsu,,Norio,Kunimitsu,,kunikona@aol.com,8083233236,8083289577,,,1,0000-00-00 00:00:00
+49777,751,Owner,Steve Hopkins,Mr.,Steve,Hopkins,,raingarden@hawaii.rr.com,8082943973,8082399973,,,1,0000-00-00 00:00:00
+49778,752,Owner,Donna Nakamoto,,Donna,Nakamoto,,plantedbytheriver@hawaii.rr.com,8086262353,,,,1,0000-00-00 00:00:00
+49779,753,President & Founder,David W. Fukumoto,,David,Fukumoto,W.,sales@fukubonsai.com,8089829880,8089829881,,,1,0000-00-00 00:00:00
+49780,754,Director of Marketing,Steve Parente,Mr.,Steve,Parente,,steve@hilobay.com,8089810771,,,,1,0000-00-00 00:00:00
+49781,754,,Bob Holt,Mr.,Bob,Holt,,,,,,,0,0000-00-00 00:00:00
+49782,755,,Paul Thompson,Mr.,Paul,Thompson,,,8083296557,,,,1,0000-00-00 00:00:00
+49783,756,,John Stiles,Dr.,John,Stiles,,jstiles@integratedcoffee.com,8086379948,8086379643,,Fax,1,0000-00-00 00:00:00
+49785,759,,Trent Bateman,,Trent,Bateman,,aloha@mountianthunder.com,8083252136,8884145662,,,1,0000-00-00 00:00:00
+49786,760,,Mark Suiso,,Mark,Suiso,,suiso@aloha.net,8086959317,,,,1,0000-00-00 00:00:00
+49787,761,Owner,Earl Nakashima,,Earl,Nakashima,,ebnakashima@excite.com,8087759987,8087759400,,,1,0000-00-00 00:00:00
+49788,762,,Mike Irish,Mr.,Mike,Irish,,mikei@halmskimchee.com,8088329500,8088329507,,,1,0000-00-00 00:00:00
+49789,763,,Michael Irish,Mr.,Michael,Irish,,mikei@halmskimchee.com,8088329500,,,,1,0000-00-00 00:00:00
+49790,764,,Michael Irish,Mr.,Michael,Irish,,,8088329500,,,,1,0000-00-00 00:00:00
+49791,765,,Gary Ishimoto,Mr.,Gary,Ishimoto,,,8088329500,8088329507,,,1,0000-00-00 00:00:00
+49792,766,,Gary Ishimoto,Mr.,Gary,Ishimoto,,,8088329500,,,,1,0000-00-00 00:00:00
+49793,767,,Paula Sussex,Ms.,Paula,Sussex,,kimo@kimobean.com,8085340055,8087928501,,,1,0000-00-00 00:00:00
+49794,784,,Igor Vernik,Mr.,Igor,Vernik,,info@mauicoffee.com,(808) 573-2020,8088716860,,,1,0000-00-00 00:00:00
+49795,785,,David Fried,Mr.,David,Fried,,,8086693703,8082831813,,,1,0000-00-00 00:00:00
+50318,674,,Manager,,,Manager,,email@agroforestry.net,(808) 324-4427,,,,1,0000-00-00 00:00:00
+50391,1167,"Partner - Chula Vista, CA.",Arleen Eblacas,,Arleen,Eblacas,,likolehua@cox.net,(619) 216-4944,(707) 516-7667,,FAX,0,0000-00-00 00:00:00
+49796,786,,L. Keith,Mr.,L.,Keith,,,8085722106,,,,1,0000-00-00 00:00:00
+49797,787,,Ray Maki,,Ray,Maki,,,8086345412,,,,1,0000-00-00 00:00:00
+49798,788,,Dick Hyers,,Dick,Hyers,,,8088793128,,,,1,0000-00-00 00:00:00
+49799,789,,Kenneth Yamamura,Mr.,Kenneth,Yamamura,,,,,,,0,0000-00-00 00:00:00
+49800,790,,Alfred Tsuha,Mr.,Alfred,Tsuha,,,8089636877,,,,1,0000-00-00 00:00:00
+49802,792,,Steve Willey,Mr.,Steve,Willey,,,8085757511,,,,1,0000-00-00 00:00:00
+49803,793,Owner,Joe Alban,,Joe,Alban,,joe@konajoe.com,8083222100,,,,1,0000-00-00 00:00:00
+49804,794,,Dick Boranian,Mr.,Dick,Boranian,,,8083222579,,,,1,0000-00-00 00:00:00
+49805,795,,Mattson Davis,Mr.,Mattson,Davis,,Pub@KonaBrewingCo.com,8083341133,,,,1,0000-00-00 00:00:00
+49806,796,,Angela M. Morehead,Ms.,Angela,Morehead,M.,kauaitropicals@hawaiiantel.net,8087429989,,,,1,0000-00-00 00:00:00
+49807,797,,Jody Jewell,,Jody,Jewell,,info@sendtropicalflowers.com,8085508338,,,,1,0000-00-00 00:00:00
+49808,798,,Sachi Shinoda,,Sachi,Shinoda,,orchids@kauaiorchids.com,8088280904,,,,1,0000-00-00 00:00:00
+49812,801,,Milton Agader,,Milton,Agader,,twinbridgefarms@aol.com,8088646477,8086379724,,,1,0000-00-00 00:00:00
+49813,802,President,Katherine Patton,,Katherine,Patton,,coffee@hilocoffeemill.com,(808) 968-1333,(808) 968-1633,,,1,0000-00-00 00:00:00
+49814,803,Owner/Manager,Jeanne Vana,Ms.,Jeanne,Vana,,vana@lava.net,8083896255,,,,1,0000-00-00 00:00:00
+49815,804,,Patricia Mather,Dr.,Patricia,Mather,,customerservice@pacificholistics.com,8089636980,8089635030,,,1,0000-00-00 00:00:00
+49816,805,,Wade W Rhein,Mr.,Wade,Rhein,W,info@hawaiinoni.com,8089650919,,,,1,0000-00-00 00:00:00
+49817,806,,Dave Plaskett,Mr.,Dave,Plaskett,,,8082341260,8082340066,,Fax,1,0000-00-00 00:00:00
+49818,807,,Michele Shirota,Ms.,Michele,Shirota,,puuala@aloha.net,8089612888,,,,1,0000-00-00 00:00:00
+49820,809,,Sonolynne Flores,,Sonolynne,Flores,,sflores@merapharma.com,(808) 326-9301,,,,1,0000-00-00 00:00:00
+49821,809,,Martin Guerin,Mr.,Martin,Guerin,,agse@aquasearch.com,,,,,0,0000-00-00 00:00:00
+49822,810,,Robert T Wannomae,Mr.,Robert,Wannomae,T,,8082204642,8085969205,,,1,0000-00-00 00:00:00
+49823,811,,Pamela N Day,Ms.,Pamela,Day,N,mail@tarodream.com,8088851766,,,,1,0000-00-00 00:00:00
+49824,812,,Donna Magallones,Ms.,Donna,Magallones,,greethi@aol.com,8088360161,,,,1,0000-00-00 00:00:00
+49825,813,Owner,Ms. Kathy Offley,Ms.,Kathy,Offley,,klinas@aloha.net,8088222328,,,,1,0000-00-00 00:00:00
+49826,814,,Shelly Aboud,Ms.,Shelly,Aboud,,,8083313666,8882953706,,,1,0000-00-00 00:00:00
+49828,815,Executive Director,Ms. Stacie Balcacer,Ms.,Cheryl,Ambrozic,,info@mauiflower.com,(800) 876-1667,,,,1,2/28/11 15:59
+49866,844,,Mrs. Cathy Nobriga Kim,Mrs.,Cathy,Nobriga Kim,,cnkim@roselani.com,(808) 244-7951,,,,1,0000-00-00 00:00:00
+49867,845,Owner,Danielle Mazerolle,Ms.,Danielle,Mazerolle,,info@DaniellesTropicalFlowers.com,(808) 280-7083,,,,1,0000-00-00 00:00:00
+49868,846,,Albert Nakaji,Mr.,Albert,Nakaji,,,8089645039,,,,1,0000-00-00 00:00:00
+49869,847,,Troy Shigenaga,Mr.,Troy,Shigenaga,,,8089810882,8083345190,,pager,1,0000-00-00 00:00:00
+49870,850,,Richard Takafuji,Mr.,Richard,Takafuji,,,8086962974,,,,1,0000-00-00 00:00:00
+49871,851,,Rex V Anderson,Mr.,Rex,Anderson,V,orchidsvol@aol.com,8089858789,,,,1,0000-00-00 00:00:00
+49872,851,,Shelly L Anderson,Mr.,Shelly,Anderson,L,,,,,,0,0000-00-00 00:00:00
+49873,852,,Julie Ross,Ms.,Julie,Ross,,juliekateross@hotmail.com,8089826335,,,,1,0000-00-00 00:00:00
+49874,852,,Carroll Haygood,Mr.,Carroll,Haygood,,,,,,,0,0000-00-00 00:00:00
+49875,853,,Bob Zeller,Mr.,Bob,Zeller,,,8089399282,,,,1,0000-00-00 00:00:00
+49876,853,,Phoenicia Zeller,Mrs.,Phoenicia,Zeller,,,,,,,0,0000-00-00 00:00:00
+49877,854,,David Sakai,Mr.,David,Sakai,,,8089699191,,,,1,0000-00-00 00:00:00
+49878,854,,Leyson Sakai,Mr.,Leyson,Sakai,,,,,,,0,0000-00-00 00:00:00
+49879,855,,Michael Stringer,Mr.,Michael,Stringer,,rrt@midpac.net,8089656181,,,,1,0000-00-00 00:00:00
+49880,855,,Caren Stringer,Mrs.,Caren,Stringer,,,,,,,0,0000-00-00 00:00:00
+49882,858,,India Schor,,India,Schor,,,8089811334,,,,1,0000-00-00 00:00:00
+49883,858,,Tawny/ Ty Schor,,Tawny/ Ty,Schor,,,,,,,0,0000-00-00 00:00:00
+49884,859,,,,,,,,,,,,0,0000-00-00 00:00:00
+49885,859,,,,,,,,,,,,0,0000-00-00 00:00:00
+49886,860,,Leland Sung,,Leland,Sung,,,8088857236,,,,1,0000-00-00 00:00:00
+49887,861,Owner,Mr. Lars Swann,Mr.,Lars,Swann,,,(808) 965-9100,,,,1,0000-00-00 00:00:00
+49888,861,,Leanne Swann,,Leanne,Swann,,,,,,,0,0000-00-00 00:00:00
+49889,862,,Tom Richmond,Mr.,Tom,Richmond,,tomr@aloha.net,8089645544,,,,1,0000-00-00 00:00:00
+49891,864,Owner,Walter Scheeren,Mr.,Walter,Scheeren,,wfscheeren@juno.com,8087751185,,,,1,0000-00-00 00:00:00
+49892,865,,Marco Chen,,Marco,Chen,,,8089680717,,,,1,0000-00-00 00:00:00
+49893,866,,Mr. Moriyasu Akatsuka,Mr.,Moriyasu,Akatsuka,,,8089678234,,,,1,0000-00-00 00:00:00
+50319,1262,Owner,Michael K. Miller,,Michael,Miller,K.,ut_hawn@yahoo.com,(808) 968-8494,,,,1,0000-00-00 00:00:00
+50320,1263,Owner,You Soukaseum,,You,Soukaseum,,,(808) 262-4478,,,,1,0000-00-00 00:00:00
+50321,1264,Owner,Panna Speas,,Panna,Speas,,info@mauihands.com,(808) 573-2021,,,,1,0000-00-00 00:00:00
+50322,1265,Owner,,,,,,sales@menehunemac.com,(808) 841-3344,,,,1,0000-00-00 00:00:00
+49894,867,,Joseph Kekedi,Mr.,Joseph,Kekedi,,,8089656216,,,,1,0000-00-00 00:00:00
+49895,867,,Elizabeth Kekedi,Mrs.,Elizabeth,Kekedi,,,,,,,0,0000-00-00 00:00:00
+49900,870,General Manager,Steve Geimer,Mr.,Steve,Geimer,,steve@hotsaucehawaii.com,8085919103,,,,1,0000-00-00 00:00:00
+49901,871,,Talei Vakauta,,Talei,Vakauta,,sales@alohaorchid.com,8086680663,,,,1,0000-00-00 00:00:00
+49902,872,,James Pryor,Mr.,James,Pryor,,,8089825186,,,,1,0000-00-00 00:00:00
+49903,872,,Marsha Pryor,,Marsha,Pryor,,,,,,,0,0000-00-00 00:00:00
+49904,873,,Mr. Don Boren,Mr.,Don,Boren,,dboren2@cswg.com,8086823312,,,,1,0000-00-00 00:00:00
+49905,874,,Dominic Kadooka,Mr.,Dominic,Kadooka,,dominic@originalthemes.com,8083064379,8082638676,,Fax,1,0000-00-00 00:00:00
+49906,875,Manager,Mr. Randy Yamada,Mr.,Randy,Yamada,,bipfinc@hawaiiantel.net,8089595000,,,,1,0000-00-00 00:00:00
+49907,876,,John R. Cates,,John,Cates,R.,catesinternational@hawaiiantel.net,(808) 841-4956,,,,1,0000-00-00 00:00:00
+49908,876,,Randy Cates,Mr.,Randy,Cates,,,,,,,0,0000-00-00 00:00:00
+49909,877,,Jade Haunani Pacheco,,Jade Haunani,Pacheco,,pacheco@hawaiian.net,8088280022,8088281441,,,1,0000-00-00 00:00:00
+49910,878,,Rick Habein,Mr.,Rick,Habein,,,8088876900,,,,1,0000-00-00 00:00:00
+49911,878,,Jessica Habein,,Jessica,Habein,,,,,,,0,0000-00-00 00:00:00
+49912,879,,Bob Burkey,Mr.,Bob,Burkey,,kamuelagreenhouse@hotmail.com,8088876505,8088857237,,,1,0000-00-00 00:00:00
+49913,879,,Cassandra Phillips,,Cassandra,Phillips,,,,,,,0,0000-00-00 00:00:00
+50031,758,President - CEO,Mr. David Marcus,Mr.,David,Marcus,,david@nonihawaii.com,(808) 575-7829,,,,1,0000-00-00 00:00:00
+49914,880,,Robert Krant,Mr.,Robert,Krant,,robertk@hawaiiroasters.com,(808) 325-1873,,,,1,0000-00-00 00:00:00
+49915,881,,Ann Cross,,Ann,Cross,,niobe@maui.net,8088783379,8088786327,,,1,0000-00-00 00:00:00
+49916,882,,Mona Trepte,,Mona,Trepte,,,8083228036,,,,1,0000-00-00 00:00:00
+49917,883,Owner,H.Jon Applegate,Mr.,H. Jon,Applegate,,olowalunuifarms@hawaii.rr.com,8086613160,8082691606,,,1,0000-00-00 00:00:00
+49918,883,,Connie Applegagate,Mrs.,Connie,Applegagate,,,,,,,0,0000-00-00 00:00:00
+49919,884,Manager,Geoff Haines,Mr.,Geoff,Haines,,,8088783868,8082818410,,,1,0000-00-00 00:00:00
+49920,885,President,Mark O Dunlap,Mr.,Mark,Dunlap,O,mauiherbs@hotmail.com,8009366532,8085729331,,,1,0000-00-00 00:00:00
+49921,886,,Grant Shoemaker,Mr.,Grant,Shoemaker,,kavashoe@mac.com,8085727293,,,,1,0000-00-00 00:00:00
+49922,887,,Sherman Napoleon,Mr.,Sherman,Napoleon,,limu@aloha.net,8085588933,8085588453,,,1,0000-00-00 00:00:00
+49923,888,Bulk Sales Manager,Jeane Vinson,,Jeane,Vinson,,jvinson@cyanotech.com,8083314101,,,,1,0000-00-00 00:00:00
+49924,888,President/CEO,Gerald Cysewski,,Gerald,Cysewski,,info@cyanotech.com,(808) 326-1353,,,,0,0000-00-00 00:00:00
+49925,889,,Kale Gumpac,,Kale,Gumpac,,,8089665486,,,,1,0000-00-00 00:00:00
+49926,890,,Bryan Hiromoto,,Bryan,Hiromoto,,hiromoto@aloha.net,8088738588,,,,1,0000-00-00 00:00:00
+49927,891,,Lynn DeCoite,Ms.,Lynn,DeCoite,,,8085679234,,,,1,0000-00-00 00:00:00
+49928,904,,Brent Burkott,Mr.,Brent,Burkott,,,8082937685,,,,1,0000-00-00 00:00:00
+49929,905,,Richard Loero,,Richard,Loero,,,(808) 335-6199,,,,1,0000-00-00 00:00:00
+49930,906,,Mr. John Wen Ho,Mr.,John Wen,Ho,,jsuisan@msn.com,8082931555,8082931881,,,1,0000-00-00 00:00:00
+49931,907,,Jeff Koch,Mr.,Jeff,Koch,,maf@hawaii.rr.com,8086373137,8086371602,,,1,0000-00-00 00:00:00
+49932,907,,Linda Koch,Mr.,Linda,Koch,,,,,,,0,0000-00-00 00:00:00
+49933,908,,Mr. Dan Coscina,Mr.,Dan,Coscina,,rainbowfarmshi@aol.com,(808) 625-0101,(808) 258-4612,,Cellular,1,0000-00-00 00:00:00
+49935,910,,Bill Koepke,,Bill,Koepke,,callkona@aol.com,(808) 322-7124,,,,1,0000-00-00 00:00:00
+49936,911,,Wayne Okamura,Mr.,Wayne,Okamura,,,8088895010,,,,1,0000-00-00 00:00:00
+49937,912,Owner,Chauncy Monden,Mr.,Chauncy,Monden,,kulacountryfarms@hawaii.rr.com,(808) 870-7098,8088707098,,,1,0000-00-00 00:00:00
+49938,912,,Teena Monden,Mrs.,Teena,Monden,,,,,,,0,0000-00-00 00:00:00
+49939,913,,Rusty Obara,Mr.,Rusty,Obara,,lorie_o@earthlink.net,8089288916,,,,1,0000-00-00 00:00:00
+49940,914,,William Brown,,William,Brown,,mahiwai@earthlink.net,8089686605,,,,1,7/30/08 11:41
+49942,916,,Emerson Llantero,Mr.,Emerson,Llantero,,punaking@hawaii.rr.com,8089389871,8089615085,,,1,0000-00-00 00:00:00
+49943,917,,,,,,,,,,,,0,0000-00-00 00:00:00
+49944,918,,Kale Gumapac,Mr.,Kale,Gumapac,,,8089665486,,,,1,0000-00-00 00:00:00
+49945,919,,Brian Nadeau,Mr.,Brian,Nadeau,,,8089626013,,,,1,0000-00-00 00:00:00
+49946,920,,Shawn Tanove,Mr.,Shawn,Tanove,,,8085912936,,,,1,0000-00-00 00:00:00
+49947,921,Sales,Dean Okimoto,,Dean,Okimoto,,nalofarms@hawaii.rr.com,8082597698,8082596771,,Fax,1,0000-00-00 00:00:00
+49948,921,,,,,,,,,,,,0,0000-00-00 00:00:00
+49949,922,Director/CEO,Kozo Kayama,,Kozo,Kayama,,info@hawaiideepseawater.com,(808) 331-1588,,plant,,0,0000-00-00 00:00:00
+49950,923,V.P. Sales & Marketing,Duane Lau,Mr.,Duane,Lau,,duane@mayslettuce.com,8088646105,8082470242,,Fax,1,0000-00-00 00:00:00
+49952,925,,Ms. Jill Mattos,Ms.,Jill,Mattos,,,8087761109,,,,1,0000-00-00 00:00:00
+49953,926,,Terry Weaver,Mr.,Terry,Weaver,,,8083289372,8083232597,,,1,0000-00-00 00:00:00
+49954,929,,Roger Dilts,,Roger,Dilts,,,(808) 937-9533,,,,1,0000-00-00 00:00:00
+49955,930,,Leland Watanabe,Mr.,Leland,Watanabe,,leland@watanabefloral.com,8088329360,,,,1,0000-00-00 00:00:00
+49956,931,,Larry Taylor,,Larry,Taylor,,,8088895976,,,,0,0000-00-00 00:00:00
+49957,931,,Marianne Taylor,Mrs.,Marianne,Taylor,,,,,,,1,0000-00-00 00:00:00
+49960,933,,Valerie Lamoureux,Ms.,Valerie,Lamoureux,,valerie@waikikialoe.com,8089227767,8084797849,,,1,0000-00-00 00:00:00
+49961,934,President,Mr. Michael Inouye,Mr.,Michael,Inouye,,mike@pacflor.com,8089667427,,,,1,0000-00-00 00:00:00
+49962,935,President,Ron Weidenbach,Mr.,Ron,Weidenbach,,hawaiifish@msn.com,8088370494,8086370494,,Fax,1,0000-00-00 00:00:00
+49963,935,,,,,,,,,,,,0,0000-00-00 00:00:00
+49964,936,President,Richard Huelskamp,Mr.,Richard,Huelskamp,,,8083227873,,,,0,0000-00-00 00:00:00
+49965,936,Secretary,Helen Wakefield,Ms.,Helen,Wakefield,,,(808) 322-7873,(808) 322-7873,,Fax,1,0000-00-00 00:00:00
+49966,937,President,Jerry Konanui,Mr.,Jerry,Konanui,,jerryk48@hialoha.net,8089658394,,,,1,0000-00-00 00:00:00
+49967,938,President,Chris Allen,Mr.,Chris,Allen,,awaman1@msn.com,8089686837,,,,1,0000-00-00 00:00:00
+49968,939,President,Michael Tarring,,Michael,Tarring,,michael@applebananas.com,(808) 966-5050,,,,1,0000-00-00 00:00:00
+49969,940,President,Mr. Ole Fulks,Mr.,Ole,Fulks,,beesweet@mailstation.com,(808) 966-4074,,,,1,0000-00-00 00:00:00
+49970,941,President,Michael Kilks,Mr.,Michael,Kilks,,mmkliks@hawaii.rr.com,8089887203,8089885161,,Fax,1,0000-00-00 00:00:00
+49971,942,President,Mr. Alan Winters,Mr.,Alan,Winters,,HICattlemens@hawaii.rr.com,(808) 885-5599,,,,0,0000-00-00 00:00:00
+49972,943,President,Mr. George Wood,Mr.,George,Wood,,kwood@parkerranch.com,(808) 885-5599,,,,0,0000-00-00 00:00:00
+49973,943,Executive Director,Chandra D. Jose,,Chandra,Jose,D.,HiCattlemens@hawaii.rr.com,(808) 885-5599,,,,1,0000-00-00 00:00:00
+49974,944,President,Mr. Roger Dilts,Mr.,Roger,Dilts,,president@kona-coffee-council.com,(808) 937-9533,,,,1,0000-00-00 00:00:00
+49976,946,Execultive Director,Joy Gold,,Joy,Gold,,director@hciaonline.org,(808) 579-4074,,,,1,0000-00-00 00:00:00
+49978,949,President,Eric Tanouye,Mr.,Eric,Tanouye,,,8089590621,(808) 959-3535,,,1,0000-00-00 00:00:00
+49979,950,President,Michael Inouye,Mr.,Michael,Inouye,,info@htfc.com,8089615555,,,,1,0000-00-00 00:00:00
+49980,951,President,Ken Vinzant,Mr.,Ken,Vinzant,,,8082597826,8082597826,,Fax,1,0000-00-00 00:00:00
+49981,952,President,Charles Reid,Mr.,Charles,Reid,,jimr.reid@verizon.net,8083327984,,,,1,0000-00-00 00:00:00
+49985,955,President,Mr. Keith Ota,Mr.,Keith,Ota,,,,,,,0,0000-00-00 00:00:00
+49986,956,Executive Director,Myra Ikeda,Ms.,Heather,Gallo-Simmons,,heather.hfia@hawaiiforest.org,8089339411,,,,1,2/28/11 14:41
+49987,957,President,Diana Duff,Ms.,Diana,Duff,,hila@aloha.net,8083239848,,,,1,0000-00-00 00:00:00
+49988,958,President,Mr. Boyd Ready,Mr.,Boyd,Ready,,info@lichawaii.com,,,,,1,0000-00-00 00:00:00
+49829,816,Owner,Jackie Zumwalt,,Jackie,Zumwalt,,bigislandflower@msn.com,8005741336,8089399043,,,1,0000-00-00 00:00:00
+49830,817,Owner,Mr. Lynnette Morimoto,Mr.,Lynnette,Morimoto,,,8089827427,8662987660,,,1,0000-00-00 00:00:00
+49831,818,Owner,Mr. Charles Reid,Mr.,Charles,Reid,,charles@charlestropicalflowers.com,8006997984,,,,1,0000-00-00 00:00:00
+50033,995,,Mr. Carlos A. Parisi,Mr.,Carlos,Parisi,A.,,8089636669,8085579544,,,1,0000-00-00 00:00:00
+50054,115,,Robert DeNeve,,Robert,DeNeve,,bgkahuna@hilo.net,(808) 965-7137,,,,1,0000-00-00 00:00:00
+49834,820,,Pat Pearlman,Ms.,Pat,Pearlman,,ss14k@hawaiiantel.net,8083288366,8083280321,,,1,0000-00-00 00:00:00
+49835,821,President,Mr. Jim Wayman,Mr.,Jim,Wayman,,jwayman@hicoffeeco.com,(808) 843-4200,,,,1,0000-00-00 00:00:00
+49836,821,VP Sales,Sharon Zambo-Fan,,Sharon,Zambo-Fan,,szambo-fan@hicoffee.com,8088434200,,,,0,0000-00-00 00:00:00
+49837,822,,Malinda Anderson,Ms.,Malinda,Anderson,,sales@flowergardenhawaii.com,8089619266,,,,1,0000-00-00 00:00:00
+49838,823,General Manager,Mr. Tsukasa Sato,Mr.,Tsukasa,Sato,,info@ucc-hawaii.com,8083223789,8083285662,,,1,0000-00-00 00:00:00
+49839,824,,Bob Chase,Mr.,Bob,Chase,,information@sooolite.com,8089645441,,,,1,0000-00-00 00:00:00
+49840,825,President,John Eddins,Mr.,John,Eddins,,john@badassmaui.com,(808) 877-5477,8007388223,,,1,0000-00-00 00:00:00
+49841,826,Owner,John Langenstein,Mr.,John,Langenstein,,johnlangenstein@yahoo.com,(808) 938-4739,,,,1,3/2/11 15:21
+49842,827,,Richard Emery,Mr.,Richard,Emery,,coffee@honaunaucoffee.com,8083282129,8083282128,,,1,0000-00-00 00:00:00
+49843,827,,Douglas Duarte,Mr.,Douglas,Duarte,,,,,,,0,0000-00-00 00:00:00
+49844,828,General Mgr,Tom Ian,Mr.,Tom,Ian,,mail@kamuelapride.com,8088876900,8087761999,,,1,0000-00-00 00:00:00
+49845,828,,Rick/Jessica Habein,,Rick/Jessica,Habein,,,,,,,0,0000-00-00 00:00:00
+49846,829,,Jeff Ferguson,Mr.,Jeff,Ferguson,,coffeecreations@worldnet.att.net,8085759735,8082455856,,,1,0000-00-00 00:00:00
+49847,829,,Diane Boyd,,Diane,Boyd,,,,,,,0,0000-00-00 00:00:00
+49848,830,,Norman Sakata,Mr.,Norman,Sakata,,info@konacoffeefest.com,8083267820,,,,1,0000-00-00 00:00:00
+49849,831,Owner,Frank Baker,Mr.,Frank,Baker,,fbaker007@aol.com,8082471223,8082472228,,Fax,1,0000-00-00 00:00:00
+49850,832,Treasurer,Mr. Steve Collector,Mr.,Steve,Collector,,troptemp@aol.com,(808) 587-7048,(808) 536-1307,,Fax,1,0000-00-00 00:00:00
+49851,832,President,Mr. T. Martin,Mr.,T.,Martin,,tmartin@abinc.com,,,,,0,0000-00-00 00:00:00
+49852,833,,Leta Schooler,Ms.,Leta,Schooler,,leta_s@msn.com,8083289120,,,,1,0000-00-00 00:00:00
+49853,834,,Dave Keim,Mr.,Dave,Keim,,,8083067157,,,,1,0000-00-00 00:00:00
+49854,835,,Wade Hanashiro,Mr.,Wade,Hanashiro,,ehf@aloha.net,8089815797,,,,1,0000-00-00 00:00:00
+49855,836,,BrendaLynn Domondon,Ms.,BrendaLynn,Domondon,,,8089281004,8089686046,,,1,0000-00-00 00:00:00
+49856,836,,John L Ah San,,John,Ah San,L,,,,,,0,0000-00-00 00:00:00
+50323,1266,Owner,Dan Belmont,,Dan,Belmont,,dan@hawaiianfudgesauce.com,(808) 221-3244,,,,1,0000-00-00 00:00:00
+50324,947,President,Beth Asagi,,Beth,Asagi,,,(808) 841-2384,,,,1,0000-00-00 00:00:00
+50325,1267,Owner,K. Andrews,,K.,Andrews,,andrewsk001@hawaii.rr.com,(808) 259-5617,,,,1,0000-00-00 00:00:00
+49857,837,,Sam Bayaoa,Mr.,Sam,Bayaoa,,nzthirtytwo@e-mailhawaii.net,8089299224,,,,1,0000-00-00 00:00:00
+49858,837,,Tony Bayaoa,Mrs.,Tony,Bayaoa,,,,,,,0,0000-00-00 00:00:00
+49859,838,Office Manager,Eva-Maria Kafsack,Ms.,Angela,Reid-Reichert,,surfinggoatdairy@aol.com,8088782870,,,,1,3/2/11 15:31
+49861,839,,Lynn Morimoto,,Lynn,Morimoto,,lm@hawaii.rr.com,(808) 639-4300,,,,1,0000-00-00 00:00:00
+49862,840,,JIm Klaczack,Mr.,JIm,Klaczack,,,8082429888,,,,1,0000-00-00 00:00:00
+49863,841,,Bob Foerster,,Bob,Foerster,,coffee@pendragonhawaii.com,8083287345,,,,1,0000-00-00 00:00:00
+49864,842,,Claudia Weigand,Ms.,Claudia,Weigand,,kuhuluranch@aol.com,8088783333,,,,1,0000-00-00 00:00:00
+49865,843,,Eugene Celebrado,Mr.,Eugene,Celebrado,,,8085730179,,,,1,0000-00-00 00:00:00
+49989,958,,Madaline Shaw,Ms.,Madaline,Shaw,,,(808) 951-0055,,Fax,,0,0000-00-00 00:00:00
+49992,960,President,Ed Boteilho Jr.,,Ed,Boteilho Jr.,,,8088895838,,,,1,0000-00-00 00:00:00
+49993,961,President,Sean Spellicy,Mr.,Sean,Spellicy,,,(808) 966-7169,,,,1,0000-00-00 00:00:00
+49994,962,,Alvin Tsuruda,Mr.,Alvin,Tsuruda,,,8089510055,(808) 259-0009,,,1,0000-00-00 00:00:00
+49997,964,President,Mr. Ricky Kamitani,Mr.,Ricky,Kamitani,,,8088782917,8088786768,,Fax,1,0000-00-00 00:00:00
+49998,965,President,Gerry Hay,Mr.,Gerry,Hay,,,8089667610,,,,1,0000-00-00 00:00:00
+50000,967,President,Ms. Ann Geschwandtner,Ms.,Ann,Geschwandtner,,,(808) 623-8701,,,,1,0000-00-00 00:00:00
+50003,969,President,Mr. Ken Kamiya,Mr.,Ken,Kamiya,,,8089691160,(808) 227-3212,,cellphone,0,0000-00-00 00:00:00
+50004,969,Administrative Assistant,Karen Umehara,Ms.,Karen,Umehara,,papayas@aloha.net,(808) 969-1160,,,,1,0000-00-00 00:00:00
+50005,970,President,Franz Weber,Mr.,Franz,Weber,,hofa@hawaiiorganicfarmers.org,8776744632,(808) 969-7789,,,1,0000-00-00 00:00:00
+50006,971,President,Valerie Kaneshiro,,Valerie,Kaneshiro,,val.kane@hawaiiantel.net,(808) 742-1308,,,FAX,1,0000-00-00 00:00:00
+50008,973,President,Rodney Haraguchi,Mr.,Rodney,Haraguchi,,,8088266202,,,,1,0000-00-00 00:00:00
+50009,974,President,Richard Johnson,Mr.,Richard,Johnson,,johnsons@hawaii.rr.com,(808) 964-5687,,,,0,0000-00-00 00:00:00
+50326,1268,Owner,Neal Bashford,,Neal,Bashford,,,(808) 638-9019,,,,1,0000-00-00 00:00:00
+50327,1269,,Manager,,,Manager,,,(808) 259-7911,,,,1,0000-00-00 00:00:00
+50342,1277,President,William Cowell,,William,Cowell,,kowali@kowalifarm.com,(808) 328-9175,,,,1,0000-00-00 00:00:00
+50415,1340,Owner,Jan Dean,,Jan,Dean,,maluhia.farm@mac.com,(808) 775-0401,,,,1,0000-00-00 00:00:00
+50416,942,Executive Director,Chandra Jose,,Chandra,Jose,,HICattlemens@hawaii.rr.com,(808) 885-5599,,,,1,0000-00-00 00:00:00
+50010,974,Executive Director,Ms. Lily Armstrong,Ms.,Lily,Armstrong,,admin@hawaiitropicalfruitgrowers.org,(808) 966-6444,,,,1,0000-00-00 00:00:00
+50011,975,President,David Klawitter,Mr.,David,Klawitter,,dkmakaha@aol.com,(808) 697-1250,,,,1,0000-00-00 00:00:00
+50012,976,President,Mr. Larry Nakamoto,Mr.,Larry,Nakamoto,,,8088854271,,,,1,0000-00-00 00:00:00
+50013,977,President,Jamie Shishido,Mr.,Jamie,Shishido,,,8088781561,,,,1,0000-00-00 00:00:00
+50014,978,President,Theresa Daher,Ms.,Theresa,Daher,,lid@hawaiiantel.net,8088238714,,,,1,0000-00-00 00:00:00
+50015,979,Chariperson,Mr. Steve Rose,Mr.,Steve,Rose,,info@madeinmaui.org,8088717711,,,,1,0000-00-00 00:00:00
+50016,980,President,Moshe Mandelman,,Moshe,Mandelman,,moshe@alembicinternational.org,8087751478,8089898211,,,1,0000-00-00 00:00:00
+50017,981,,Jorge Rubio,Mr.,Jorge,Rubio,,rubiohonolulu@aol.com,8082714472,,,,1,0000-00-00 00:00:00
+50018,982,Owner,Ms. Christine Bingham,Ms.,Christine,Bingham,,,8089655566,,,,1,0000-00-00 00:00:00
+50019,983,President,Vince Mills,Mr.,Vince,Mills,,vince@kenacoffee.com,8083280111,,,,1,0000-00-00 00:00:00
+50020,984,Owner,Bob Cooper,Mr.,Bob,Cooper,,info@OriginalHawaiianChocolatefactory.com,8083222626,,,,1,0000-00-00 00:00:00
+50021,984,Owner,Pam Cooper,Mrs.,Pam,Cooper,,,,,,,0,0000-00-00 00:00:00
+50022,985,,Rosaline Wang,Ms.,Rosaline,Wang,,rosaline@hawaiifirst.com,8779097627,8085315566,,,1,0000-00-00 00:00:00
+50023,986,Owner,Mr. Bob Nelson,Mr.,Bob,Nelson,,bnelson@lehuulafarms.com,8083222902,,,,1,0000-00-00 00:00:00
+50024,986,,Mrs. Mae Nelson,Mrs.,Mae,Nelson,,,,,,,0,0000-00-00 00:00:00
+50061,1036,Sales & Marketing,Mr. Malcom Murasaki,Mr.,Malcom,Murasaki,,contactus@bigislandcandies.com,8089612199,,,,1,0000-00-00 00:00:00
+50063,1043,CEO/President,Dr. Rulin Xiu,Dr.,Rulin,Xiu,,rulin@pharmeast.com,8889978546,8089379792,,Cellular,0,0000-00-00 00:00:00
+50064,1044,,Bill Durston,,Bill,Durston,,,8082599697,,,,1,0000-00-00 00:00:00
+50065,1046,President,Ken Ibara,,Ken,Ibara,,,8086968888,,,,1,0000-00-00 00:00:00
+50067,1048,,Justin and Nathan Miranda,,Justin and Nathan,Miranda,,,8082399929,,,,1,0000-00-00 00:00:00
+50068,1049,President,Glenn T. Nii,,Glenn,Nii,T.,cniihyhi@hawaii.rr.com,8083959959,,,,1,0000-00-00 00:00:00
+50069,1050,,Ken Welters,,Ken,Welters,,,8082345501,,,,1,0000-00-00 00:00:00
+50071,1053,,Casey Shim,,Casey,Shim,,,8088760055,,,,1,0000-00-00 00:00:00
+50072,1054,Presidnet,Harry K. Purdy III,,Harry,Purdy III,K.,,8085676601,,,,1,0000-00-00 00:00:00
+50073,1054,,Kammy Purdy,,Kammy,Purdy,,,,,,,0,0000-00-00 00:00:00
+50051,237,,,,,,,,,,,,0,0000-00-00 00:00:00
+50052,536,,Manager,,Manager,,,oateskonacoffee@yahoo.com,,,,,1,0000-00-00 00:00:00
+50039,1001,Owner,Mark Blietz,,Mark,Blietz,,,(808) 575-9657,,,,1,0000-00-00 00:00:00
+50041,1003,,Ms. Shavonn K. Eason,Ms.,Shavonn,Eason,K.,,(808) 573-3444,,,,1,0000-00-00 00:00:00
+50042,1004,Farm Manager,Thea,,Thea,,,AikaneKC@gmail.com,8083240700,8663716892,,,1,0000-00-00 00:00:00
+50482,1377,Owner,NULL,,Rocky,Chenelle,,rocky@makawaomushrooms.com,808-298-8480,808-298-8120,,,1,7/23/08 9:33
+50046,1011,"President, CEO",David Backstrom,,Marie Laure,Ankaoua,,marie@nonimaui.com,(808) 575-9100,,,,1,4/24/12 15:01
+50047,1012,,Steve Frailey,,Steve,Frailey,,,(808) 828-1123,(888) 882-6664,,,1,0000-00-00 00:00:00
+50048,1012,,S H Jarvis,,S H,Jarvis,,,,,,,0,0000-00-00 00:00:00
+50050,1028,Partner,Mr. Paul Case,Mr.,Paul,Case,,pcase@kolanidistillers.com,8085798032,,,,1,0000-00-00 00:00:00
+50053,628,,,,,,,konacofe@gte.net,,,,,0,0000-00-00 00:00:00
+50055,619,,Mila Brown,,Mila,Brown,,,,,,,1,0000-00-00 00:00:00
+50056,955,Executive Director,Katie Andersen,,Katie,Andersen,,hfma@foodsofhawaii.com,8082910727,8085902430,,Fax,1,0000-00-00 00:00:00
+50057,1027,Project Manager,Spencer Kamauoha,,Spencer,Kamauoha,,skamauoha@hotmail.com,(808) 622-4446,(808) 561-2156,,cellular,1,0000-00-00 00:00:00
+50058,1034,Director of Marketing & Public Relations,Lani Weigert,,Lani,Weigert,,lani@aliikulalavender.com,(808) 878-3004,,,,1,0000-00-00 00:00:00
+50059,252,Vice-President,Tim Martin,,Tim,Martin,,tmartin@abinc.com,(808) 335-0048,(808) 335-0159,,Fax,0,0000-00-00 00:00:00
+50060,1035,Vice President,Rayna Armour,,Rayna,Armour,,rayna@malikaorchids.com,(808) 963-6233,,,,1,0000-00-00 00:00:00
+50074,715,,Harumi Nakamura,,Harumi,Nakamura,,,(808) 737-7518,,,,1,0000-00-00 00:00:00
+50075,1055,,Roger Dubin,,Roger,Dubin,,CustomerService@hawaiikaico.com,(928) 778-1917,,,,1,0000-00-00 00:00:00
+50078,502,,Manager,,,Manager,,,,,,,1,0000-00-00 00:00:00
+50082,1075,Owner,Jennifer Tamashiro-Bushe,,Jennifer,Tamashiro-Bushe,,bushiro@aloha.net,(808) 965-9084,,,,1,0000-00-00 00:00:00
+50083,1076,,Mindy Jaffe,,Mindy,Jaffe,,waikikiworm@hawaii.rr.com,(808) 382-0432,,,,1,0000-00-00 00:00:00
+50084,1077,President,Mr. Nathan Sato,Mr.,Nathan,Sato,,info@maliekai.com,(808) 497-9535,(808) 599-8600,,,1,0000-00-00 00:00:00
+50086,368,,Mr. Derwin Okinaka,Mr.,Derwin,Okinaka,,,,,,,0,0000-00-00 00:00:00
+50087,1079,President,Mr. Gary Dezao,Mr.,Gary,Dezao,,info@hulacookies.com,(808) 243-2271,(808) 344-0945,,,1,0000-00-00 00:00:00
+50088,1080,,Maria Holmes,,Maria,Holmes,,maria@coffeesofhawaii.com,(808) 567-9490,,,,1,0000-00-00 00:00:00
+50090,1082,Owner,James Song,,James,Song,,,(808) 386-8993,(808) 239-1345,,,1,0000-00-00 00:00:00
+50091,1083,,Darcy Nobriga,,Darcy,Nobriga,,,(808) 962-0134,,,,1,0000-00-00 00:00:00
+50092,1084,General Manager,Wally Johnson,,Wally,Johnson,,,(808) 652-4480,,,,1,0000-00-00 00:00:00
+50093,1085,,Melody Crosby,,Melody,Crosby,,Info@essenceofiao.com,(808) 875-2700,,,,1,0000-00-00 00:00:00
+50094,1086,,Tom or Vince,,Tom,Vince,or,event07@hawaii.rr.com,(808) 242-7870,(808) 572-4614,"81,808",,1,0000-00-00 00:00:00
+50096,1088,,Martha Vanderlin,,Martha,Vanderlin,,martha@kulaherbs.com,(808) 876-1144,,,,1,0000-00-00 00:00:00
+50097,1089,President,Helen Cummings,,Helen,Cummings,,mauiexcellent@aol.com,(808) 573-4005,(808) 573-5336,,,1,0000-00-00 00:00:00
+50098,1090,,Sherry Soresen,,Sherry,Soresen,,rnbowac@maui.net,(808) 573-8318,,,,1,0000-00-00 00:00:00
+50106,1097,,Barbara Corley,,Barbara,Corley,,mauisoap@maui.net,(808) 871-7667,,,,1,0000-00-00 00:00:00
+50107,1098,,Peter Kincaid,,Peter,Kincaid,,,,,,,1,0000-00-00 00:00:00
+50151,1141,,Jamie Shishido,,Jamie,Shishido,,,(808) 878-1561,,,,1,0000-00-00 00:00:00
+50152,1142,,Dave,,Dave,,,davew@konastar.com,(808) 324-1888,,,,1,0000-00-00 00:00:00
+50153,1143,,Charlene Cowan,,Charlene,Cowan,,innkeeper@macadamiameadows.com,(808) 929-8097,,,,1,0000-00-00 00:00:00
+50154,1144,,Daphne McKeehan,,Daphne,McKeehan,,mck6@hawaiiantel.net,(866) 248-2562,,,,1,0000-00-00 00:00:00
+50155,1145,Owner,Debora Driscoll,,Debora,Driscoll,,soap@hawaii.rr.com,(808) 637-8400,,,,1,0000-00-00 00:00:00
+50156,1146,,Michael Conway,,Michael,Conway,,michael_conway@na.dole.com,(808) 622-3206,,,,1,0000-00-00 00:00:00
+50157,783,Sales,Mike Foley,,Mike,Foley,,mfoley@bigislandabalone.com,(808) 334-0034,,,,1,0000-00-00 00:00:00
+50158,386,Aquaculture,Patrick Carroll,,Patrick,Carroll,,,(808) 237-7080,,,,0,0000-00-00 00:00:00
+50159,420,,Teruo Himoto,,Teruo,Himoto,,,,,,,0,0000-00-00 00:00:00
+50160,1147,,Ming Cheng Chen,,Ming Cheng,Chen,,,(808) 479-8898,,,,1,0000-00-00 00:00:00
+50161,1148,,Ron Weidenbach,,Ron,Weidenbach,,hawaiifish@msn.com,(808) 637-0494,,,,1,0000-00-00 00:00:00
+50162,1149,,Yasuhiko Akamine,,Yasuhiko,Akamine,,,(808) 258-2403,,,,1,0000-00-00 00:00:00
+50163,1150,,Neil Sims,,Neil,Sims,,neil@kona-blue.com,(808) 331-1188 x201,,,,1,2/28/11 9:34
+50164,1151,,Dennis Yee,,Dennis,Yee,,yeed006@hawaii.rr.com,(808) 235-5235,,,,1,0000-00-00 00:00:00
+50165,1152,Owner,Yung Hoi Ku,,Yung Hoi,Ku,,paradiseshrimpfarm@yahoo.com,(808) 637-7732,(808) 389-1163,,cellular,1,0000-00-00 00:00:00
+50166,569,,Desmond Twigg-Smith,,Desmond,Twigg-Smith,,orders@konalea.com,(808) 322-9937,,,,0,0000-00-00 00:00:00
+50167,537,,Noelani Wittingham,,Noelani,Wittingham,,,(808) 322-3579,,,,1,0000-00-00 00:00:00
+50168,970,,Kelly Lange,,Kelly,Lange,,hofa@hawaiiorganicfarmers.org,(808) 969-7789,,,,0,0000-00-00 00:00:00
+50169,1154,,Owner,,,Owner,,,(808) 237-1960,,,,1,0000-00-00 00:00:00
+50170,1155,,Marin J. Artukovich,,Marin,Artukovich,J.,aloha@koacoffee.com,(808) 328-8803,,,,1,0000-00-00 00:00:00
+50171,1156,,Bill Dwyer,,Bill,Dwyer,,,(808) 329-6577,,,,1,0000-00-00 00:00:00
+50172,1157,,Gerald Ross,,Gerald,Ross,,lavaboy@hawaiiantel.net,(808) 876-0678,,,,1,0000-00-00 00:00:00
+50173,1158,,Coby Barbata,,Coby,Barbata,,info@molokaicoffee.com,(808) 487-9600,,,,1,0000-00-00 00:00:00
+50174,1159,Owner,Noelani Wittington,,Noelani,Wittington,,noelanifarms@hawaii.rr.com,(808) 322-3579,,,,1,0000-00-00 00:00:00
+50175,1160,,Malena A. Kea,,Malena,Kea,A.,,(808) 937-4770,,,,1,0000-00-00 00:00:00
+50176,1161,General Manager,Jeff Dorazio,,Jeff,Dorazio,,mauijuice@gmail.com,(808) 986-8285,,,,1,0000-00-00 00:00:00
+50177,1162,President,Steven Horio,,Steven,Horio,,,(808) 841-8843,,,,1,0000-00-00 00:00:00
+50178,1163,President,Jason Campbell,,Jason,Campbell,,jason@waialuasodaworks.com,(808) 371-7556,,,,1,0000-00-00 00:00:00
+50179,1164,,Manny Rocha,,Manny,Rocha,,,(808) 836-3905,,,,1,0000-00-00 00:00:00
+50180,1165,Account Manager,Anisa Charucksiri,,Anisa,Charucksiri,,anisa@euraminc.com,(808) 671-2233,,,,1,0000-00-00 00:00:00
+50181,1161,,Marissa Sharrott,,Marissa,Sharrott,,msharrot@xbev.com,(808) 986-8285,,,,0,0000-00-00 00:00:00
+50183,1166,Owner,Wendell D. Branco,,Wendell,Branco,D.,tifajo@hawaiiantel.net,(808) 775-0385,,,,1,0000-00-00 00:00:00
+50184,1167,Partner,"Diane Kanealii, Jr.",,Diane,"Kanealii, Jr.",,diane.likolehua@hawaii.rr.com,(808) 959-9434,,,,1,0000-00-00 00:00:00
+50186,1168,,Azusa,,,Azusa,,hdm@konabay.net,(808) 329-3035,,,,1,0000-00-00 00:00:00
+50187,1169,Owner,David Delventhal,,David,Delventhal,,info@HawaiisSpecial.com,(808) 256-3880,(808) 638-7444,,FAX,1,0000-00-00 00:00:00
+50188,1170,President,Gilbert Chang,,Gilbert,Chang,,,(808) 935-8435,,,,1,0000-00-00 00:00:00
+50189,1171,,I. Kanekuni,,I.,Kanekuni,,,(808) 935-1471,,,,1,0000-00-00 00:00:00
+50190,1172,,Y. Fukunaga,,Y.,Fukunaga,,,(808) 841-1555,,,,1,0000-00-00 00:00:00
+50191,1173,,Chris Swoish,,Vera,Yamamoto,,swoish@lava.net,(808) 847-7377,,,,1,2/23/10 14:45
+50192,1174,,Owner,,,Owner,,,(808) 536-6617,,,,1,0000-00-00 00:00:00
+50193,1175,,S. Smith,,S.,Smith,,ssmith@vipfoodservice.com,(808) 877-5055,,,,1,0000-00-00 00:00:00
+50196,436,Manager,Paula Otani,,Paula,Otani,,,(808) 877-3331,,,,0,0000-00-00 00:00:00
+50197,1177,,Curtis Wheeler,,Curtis,Wheeler,,c.wheeler@so-onofoodproducts.com,(808) 833-3664,,,,1,0000-00-00 00:00:00
+50198,1178,President,Tai Wang,,Tai,Wang,,superfd@lava.net,(808) 834-1541,,,,1,0000-00-00 00:00:00
+50199,1179,Vice President - Sales & Marketing,Duane Lau,,Duane,Lau,,mwgh@hawaii.rr.com,(808) 864-6105,,,,1,0000-00-00 00:00:00
+50200,1180,Owner,Peter Pua,,Peter,Pua,,,(808) 895-7066,,,,1,0000-00-00 00:00:00
+50201,252,General Manager,Donn Soares,,Donn,Soares,,,(808) 335-0050,,,,0,0000-00-00 00:00:00
+50202,1181,President,Sheila Louis,,Sheila,Louis,,sheila.louis@hawaiiantel.net,(808) 335-5510,,,,1,0000-00-00 00:00:00
+50203,1182,Manager,Alex Franco,,Alex,Franco,,afrancokaupo@aol.com,(808) 877-0044,(808) 871-8706,,,1,0000-00-00 00:00:00
+50204,1183,Owner,Brady Yagi,,Brady,Yagi,,,(808) 959-9144,,,,0,0000-00-00 00:00:00
+50205,1184,CEO,Buddy Nobriga,,Buddy,Nobriga,,,(808) 244-7951,,,,1,0000-00-00 00:00:00
+50206,1185,Owner,Judy Rosenstern,,Judy,Rosenstern,,starrose@aloha.net,(808) 775-1905,,,,1,0000-00-00 00:00:00
+50207,1186,,Fred Stone,,Fred,Stone,,alohati450@aol.com,(808) 966-7361,,,,1,0000-00-00 00:00:00
+50208,1187,Owner,Ms. Piper Selden,Ms.,Piper,Selden,,piper@HawaiiRainbowWorms.com,(808) 937-2233,(808) 959-7257,,,1,0000-00-00 00:00:00
+50209,1188,Owner,Graham Wood,,Graham,Wood,,graham@lehuaorchids.com,(808) 968-8898,,,,1,3/2/11 15:13
+50210,1188,Managers,Dale and Karen,,Dale and Karen,,,sales@lehuaorchids.com,(808) 968-8898,,,,0,0000-00-00 00:00:00
+50211,1189,Owner,Debi,,Debi,,,Debi@orchidsnparadise.com,(808) 239-4405,,,,1,0000-00-00 00:00:00
+50212,1190,,Lori A. Cardenas,,Lori,Cardenas,A.,lori@auntylilikoi.com,(808) 338-1296,,,,1,0000-00-00 00:00:00
+50213,1191,Owner,Jim Reddekopp,,Jim,Reddekopp,,vanillakitchen@aol.com,(808) 776-1771,,,,1,0000-00-00 00:00:00
+50516,1431,Director,NULL,Mr.,Test,Test,A,test@hawaii.gov,808-122-1322,,,,1,2/29/12 11:07
+50215,1193,Manager,Elaine Munro,,Elaine,Munro,,elaine@munrofarm.com,(808) 989-0894,,,,1,0000-00-00 00:00:00
+50216,948,Director of Communications,Alan Takemoto,,Brian,Miyamoto,,brian@hfbf.org,(808) 848-2074,,,,1,3/7/11 11:36
+50217,964,,Stuart Nakamoto,,Stuart,Nakamoto,,snakamo@hawaii.edu,,,,,0,0000-00-00 00:00:00
+50218,893,President,Jonathan Yee,,Jonathan,Yee,,secy.adc@gmail.com,(808) 256-5605,,,,1,0000-00-00 00:00:00
+50219,15,,Eric Ouchi,,Eric,Ouchi,,,,,,,0,0000-00-00 00:00:00
+50220,1001,,Bill Blietz,,Bill,Blietz,,,,,,,0,0000-00-00 00:00:00
+50221,1194,,Lloyd Fischel,,Lloyd,Fischel,,Lloyd@fragrantorchids.com,(808) 572-2269,,,,1,0000-00-00 00:00:00
+50222,1194,,Karen Klemme,,Karen,Klemme,,,,,,,0,0000-00-00 00:00:00
+50223,63,,"Harold Tanouye, Jr.",,Harold,"Tanouye, Jr.",,,,,,,0,0000-00-00 00:00:00
+50224,1195,,Gerrit Takasaki,,Gerrit,Takasaki,,hawaiihybrids@aol.com,(808) 981-5500,,,,1,0000-00-00 00:00:00
+50225,1196,,Devra Reeves,,Devra,Reeves,,tropical@ilhawaii.net,(808) 968-8403,,,,1,0000-00-00 00:00:00
+50226,777,,Barbara Berringer,,Barbara,Berringer,,tropicals@hawaiiangrown.com,(808) 982-9298,,,,1,0000-00-00 00:00:00
+50227,1197,,Sharon Strong,,Sharon,Strong,,pacorchids@aol.com,(808) 775-0008,,,,1,0000-00-00 00:00:00
+50228,1198,,Jonaliza Mark Allen,,Jonaliza,Mark Allen,,,(808) 966-9590,,,,1,0000-00-00 00:00:00
+50229,1199,,Russell Y. Kuwaye,,Russell,Kuwaye,Y.,,(808) 959-2908,(808) 896-5246,,cellular,1,0000-00-00 00:00:00
+50230,1200,,Jennifer Busch,,Jennifer,Busch,,islandhale@hawaii.rr.com,(808) 896-5781,,,,1,0000-00-00 00:00:00
+50231,1201,,Dale and Karen Kimmerle,,Dale and Karen,Kimmerle,,Kimmerle@interpac.net,(808) 965-7042,,,,1,0000-00-00 00:00:00
+50232,1202,,Douglas Beaton,,Douglas,Beaton,,jbranchandnursery@hotmail.com,(808) 936-3168,,,,1,0000-00-00 00:00:00
+50233,1203,,John Smith,,John,Smith,,kolekolefarm@ureach.com,(808) 937-8909,,,,1,0000-00-00 00:00:00
+50234,1204,President,Rick Habein,,Rick,Habein,,rickh@kamuelapride.com,(808) 885-9700,,,,1,0000-00-00 00:00:00
+50235,1205,,William Lemn,,William,Lemn,,lemns@hawaiiantel.net,(808) 822-4854,,,,1,0000-00-00 00:00:00
+50236,1206,President,Brenda Kaneshiro,,Brenda,Kaneshiro,,molokaimeli@iglide.net,(808) 558-8204,,,,1,0000-00-00 00:00:00
+50239,1208,,Chao Tang Chang,,Chao Tang,Chang,,,(808) 934-8079,,,,0,0000-00-00 00:00:00
+50240,1208,,Sharon Chen,,Sharon,Chen,,,(808) 934-8079,,,,1,0000-00-00 00:00:00
+50241,1209,Owners,Sherrye & Mark Nozaki,,Sherrye & Mark,Nozaki,,,(808) 937-8777,,,,1,0000-00-00 00:00:00
+50242,553,Manager,Christina Rodriquez,,Christina,Rodriquez,,christina@maunakeaorchids.com,(808) 935-6566,,,,1,0000-00-00 00:00:00
+50243,1210,Owner,Elaine McRury,,Elaine,McRury,,moanifarms@aol.com,(808) 965-9742,,,,1,0000-00-00 00:00:00
+50244,1211,,David Chang,,David,Chang,,,,,,,0,0000-00-00 00:00:00
+50245,675,,David Chang,,David,Chang,,mtorchid@ilhawaii.net,(808) 968-8029,,,,1,0000-00-00 00:00:00
+50246,1212,,David Rieck,,David,Rieck,,aloharieck@aol.com,(808) 966-4436,,,,1,0000-00-00 00:00:00
+50247,1213,,Service,,,Service,,info@konagoldrum.com,(808) 328-8513,,,,1,0000-00-00 00:00:00
+50248,849,,Neill Sams,,Neill,Sams,,htdd@aloha.net,(808) 822-0486,,,,1,0000-00-00 00:00:00
+50249,1214,President,Dan Judson,,Dan,Judson,,olinda@tiki.net,(808) 572-0839,,,,1,0000-00-00 00:00:00
+50250,1215,Owner,Delan Perry,,Delan,Perry,,,(808) 965-8699,,,,1,0000-00-00 00:00:00
+50251,207,,Gordon Inouye,,Gordon,Inouye,,,,,,,0,0000-00-00 00:00:00
+50252,908,,Yu-Sen Hwang,,Yu-Sen,Hwang,,,,,,,0,0000-00-00 00:00:00
+50253,1216,,Peggy Ratliff,,Peggy,Ratliff,,,(808) 329-6770,,,,1,0000-00-00 00:00:00
+50254,1217,Owner,Leland Sung,,Leland,Sung,,,(808) 885-7236,,,,1,0000-00-00 00:00:00
+50255,1217,,Gail Sung,,Gail,Sung,,,,,,,0,0000-00-00 00:00:00
+50256,1218,,Keith Robbins,,Keith,Robbins,,bubbiesicecream@hawaii.rr.com,(808) 487-7218,,,,1,0000-00-00 00:00:00
+50257,1219,,Scott Wiles,,Scott,Wiles,,info@sharkyscoffee.com,(808) 968-7531,,,,1,0000-00-00 00:00:00
+50258,1220,Manager,Sherla Bertelmann,,Sherla,Bertelmann,,vireya@pacificislandnursery.com,(808) 966-9225,,,,1,0000-00-00 00:00:00
+50260,1222,,Alan Bradbury,,Alan,Bradbury,,info@mauigardenofeden.com,(808) 572-9899,,,,1,0000-00-00 00:00:00
+50261,168,,Patty Okuda,,Patty,Okuda,,pattyokuda@hotmail.com,(808) 244-7643,,,,1,0000-00-00 00:00:00
+50262,1223,Manager,Ian Garvey,,Ian,Garvey,,info@lanikaibathandbody.com,(808) 262-3260,,,,1,0000-00-00 00:00:00
+50263,1224,Owner,Kawamoto,,,Kawamoto,,orchids@kawamotoorchids.com,(808) 732-5808,,,,1,0000-00-00 00:00:00
+50343,1278,Owner,Allan Frank,,Allan,Frank,,afrank7211@aol.com,(800) 900-5662,,,,1,0000-00-00 00:00:00
+50344,1279,Owner,Hans Eckert,,Hans,Eckert,,,(808) 325-0909,,,,1,0000-00-00 00:00:00
+50345,1280,Owner,Gary Strawn,,Gary,Strawn,,info@KonaEarth.com,(808) 324-1725,,,,1,0000-00-00 00:00:00
+50346,1281,Managing Partner,Allen Krissman,,Allen,Krissman,,,(808) 328-7340,,,,1,0000-00-00 00:00:00
+50347,1282,Owner,Maurice Smith,,Maurice,Smith,,,(808) 572-0072,,,,1,0000-00-00 00:00:00
+50348,1283,Owner,Bruce Corker,,Bruce,Corker,,corkclan@msn.com,(808) 322-9562,,,,1,0000-00-00 00:00:00
+50351,1285,Partner,Greg Colden,,Greg,Colden,,konasoap@aol.com,(808) 322-9111,,,,1,0000-00-00 00:00:00
+50352,1286,Owner,Viene Lam,,Viene,Lam,,,(808) 386-2806,,,,1,0000-00-00 00:00:00
+50353,1287,President,Owen O'Callaghan,,Owen,O'Callaghan,,info@happycake.com,(808) 922-1957,,,,1,0000-00-00 00:00:00
+50354,1288,Owner,Greg Colden,,Greg,Colden,,kokoha@aol.com,(808) 322-9111,,,,1,0000-00-00 00:00:00
+50355,1290,Owner,Sharon Toriki,,Sharon,Toriki,,info@kapuakeaproducts.com,(808) 596-7855,,,,1,0000-00-00 00:00:00
+50356,1291,Owner,Mona Aragon,,Mona,Aragon,,mopugs@aol.com,(808) 244-2102,,,,1,0000-00-00 00:00:00
+50357,1292,Contact,Ken Vinzant,,Ken,Vinzant,,olotrop@hotmail.com,(808) 259-7826,,,,1,0000-00-00 00:00:00
+50358,1293,Owner,Jeff Yee,,Jeff,Yee,,info@ohanaseafoods.com,(808) 843-1844,,,,1,0000-00-00 00:00:00
+50359,1294,Owner,Cheryl To,,Cheryl,To,,Pacifikool@hawaiiantel.net,(808) 953-2060,(808) 265-9300,,Cellular,1,0000-00-00 00:00:00
+50360,1295,Partner,Eric Gamundoy,,Eric,Gamundoy,,love@indigenousoap.com,(808) 282-9084,,,,1,0000-00-00 00:00:00
+50361,1295,,Love Chance,,Love,Chance,,,,,,,0,0000-00-00 00:00:00
+50362,1296,Sales & Marketing Director,Anna Webb,,Anna,Webb,,info@buddhascup.com,(808) 322-7612,,,,1,0000-00-00 00:00:00
+50363,1297,Senior VP-Marketing,Jan Smith,,Gerald,Haraguchi,,gotquestions@gotdeep.com,(808) 327-1400,,,,1,6/23/10 9:46
+50364,1043,,Sharon McKeague,,Sharon,McKeague,,sharonm@pharmeast.com,(808) 982-3826,,,,1,0000-00-00 00:00:00
+50365,1296,,Chris Coleman,,Chris,Coleman,,,,,,,0,0000-00-00 00:00:00
+50366,1298,,Roger Rittenhouse,,Roger,Rittenhouse,,mokione@aol.com,(808) 328-0535,,,,1,0000-00-00 00:00:00
+50367,1299,,Duane Harens,,Duane,Harens,,dlhkona@juno.com,(808) 328-8161,,,,1,0000-00-00 00:00:00
+50368,1300,,Paul D. Sterling,,Paul,Sterling,D.,drpaulosfarms@aol.com,(800) 873-6693,,,,1,0000-00-00 00:00:00
+50369,1301,,Neil Gunther,,Neil,Gunther,,,(808) 325-6375,,,,1,0000-00-00 00:00:00
+50370,1302,,Kurt Weigelt,,Kurt,Weigelt,,weigelt@aloha.net,(808) 328-7424,,,,1,0000-00-00 00:00:00
+50371,1303,,Isaac Gillette,,Isaac,Gillette,,isaacbib@hotmail.com,(808) 936-0330,,,,1,0000-00-00 00:00:00
+50372,1304,,Susan Kendall,,Susan,Kendall,,java@bwanabobs.com,(808) 329-8412,,,,1,0000-00-00 00:00:00
+50373,1304,,Steve Crosson,,Steve,Crosson,,,,,,,0,0000-00-00 00:00:00
+50374,1305,,Chuck Moss,,Chuck,Moss,,chuck@cuppakona.com,(808) 329-4035,,,,1,0000-00-00 00:00:00
+50375,1306,President,Rick Funk,,Rick,Funk,,,,,,,0,0000-00-00 00:00:00
+50376,1306,Vice-President,Sandra Scarr,,Sandra,Scarr,,sandrascar@aol.com,(808) 322-9445,(808) 938-3644,,cell,1,0000-00-00 00:00:00
+50377,1307,,Jonathan Sechrist,,Jonathan,Sechrist,,info@makahikifarms.com,(808) 323-2022,,,,1,0000-00-00 00:00:00
+50378,1308,,Jeff Seel,,Jeff,Seel,,info@jasminumfarms.com,(808) 325-0683,,,,1,0000-00-00 00:00:00
+50379,1309,,Melanie Bondera,,Melanie,Bondera,,colemel@efn.org,(808) 328-0296,,,,1,0000-00-00 00:00:00
+50380,1309,,Colehour Bondera,,Colehour,Bondera,,,,,,,0,0000-00-00 00:00:00
+50381,1310,Owner,Carol Weaver,,Carol,Weaver,,pauhanaestate@yahoo.com,(808) 328-8099,,,,1,0000-00-00 00:00:00
+50382,1311,,Taj,,Taj,,,info@lokahifarm.com,(808) 328-8631,,,,1,0000-00-00 00:00:00
+50383,1312,,Jim Hope,,Jim,Hope,,,(808) 328-9231,,,,1,0000-00-00 00:00:00
+50392,1318,Partner,Sharon Kobayashi,,Sharon,Kobayashi,,latitude22@hawaii.rr.com,(808) 722-7060,,,,1,0000-00-00 00:00:00
+50393,1318,Partner,Ruth Arakaki,,Ruth,Arakaki,,rutharakaki@hawaii.rr.com,,,,,0,0000-00-00 00:00:00
+50394,1319,Owner,Chin Ho,,Chin,Ho,,,(808) 987-6555,,,,1,0000-00-00 00:00:00
+50395,1321,Owner,E. Allen Goodson,,E. Allen,Goodson,,allen@seedshawaii.com,(808) 969-1852,,,,1,0000-00-00 00:00:00
+50396,1322,Owner,Clark Hashimoto,,Clark,Hashimoto,,hhashimoto@hawaiiantel.net,(808) 876-0838,,,,1,0000-00-00 00:00:00
+50397,1323,Owner,Howard Hashimoto,,Howard,Hashimoto,,hhashimoto@hawaiiantel.net,(808) 878-1015,,,,1,0000-00-00 00:00:00
+50398,1324,Owner,David Ishii,,David,Ishii,,ishiid004@hawaii.rr.com,(808) 876-1977,(808) 878-6536,Home,,1,0000-00-00 00:00:00
+50399,1324,,Dori Ann Ishii,,Dori Ann,Ishii,,,,,,,0,0000-00-00 00:00:00
+50400,1325,Owner,Warren K. Watanabe,,Warren,Watanabe,K.,warrenmcg@hotmail.com,(808) 878-2688,,,,1,0000-00-00 00:00:00
+50401,1326,President,Neal Okimoto,,Neal,Okimoto,,makana@happyhawaiianplants.com,(808) 982-9700,,,,1,0000-00-00 00:00:00
+50402,1327,Owner,Jeff Takamine,,Jeff,Takamine,,info@bigislanddelights.com,(808) 959-7868,,,,1,0000-00-00 00:00:00
+50403,1328,Chief Operating Officer,Roshetta Mokofisi,,Roshetta,Mokofisi,,kgsservice@aol.com,(808) 239-0673,,,,1,0000-00-00 00:00:00
+50404,1329,Manager,Shay M. Smith,,Shay,Smith,M.,shay@oceanvodka.com,,,,,1,0000-00-00 00:00:00
+50405,1331,Executive Administrator,Susan Keller,,Melissa,McFerrin,,,(808) 828-2120,,,,1,3/7/11 11:47
+50406,1332,Owner,Dan Schat,,Dan,Schat,,HawaiianFlyer2002@yahoo.com,,,,,1,0000-00-00 00:00:00
+50407,1333,Owner,Whendi Grad,, Whendi,Grad,,whendi@bigislandbees.com,(808) 324-0295,,,,1,0000-00-00 00:00:00
+50408,1334,Vice President,Young Tarring,,Young,Tarring,,young@applebananas.com,(808) 959-1820,(808) 936-6617,,Cell phone,1,0000-00-00 00:00:00
+50409,1334,President,Michael Tarring,,Michael,Tarring,,michael@applebananas.com,(808) 966-5050,(808) 936-8664,,Cell phone,0,0000-00-00 00:00:00
+50411,1330,Administrator,Lorie Farrell,,Lorie,Farrell,,,(808) 885-5580,(808) 557-2780,,Cell phone,1,0000-00-00 00:00:00
+50412,1336,Owner,Ada Pulin-Lamme,,Ada,Pulin-Lamme,,malasadas@tex-drivein.com,(808) 775-0598,,,,1,0000-00-00 00:00:00
+50413,1337,,Dr. Park,,Marie Laure,Ankaoua,,marie@nonimaui.com,(808) 575-9100,,,,1,4/24/12 14:55
+50414,1339,Owner,Michael Krones,,Michael,Krones,,hiqueen@hialoha.net,(808) 328-2656,,,,1,0000-00-00 00:00:00
+50417,1341,President,Lois Shimabukuro,,Lois,Shimabukuro,,,(808) 841-7695,,,,1,0000-00-00 00:00:00
+50418,1342,Owner,Clifford Souza,,Clifford,Souza,,cliff@mauikava.com,,,,,1,0000-00-00 00:00:00
+50419,1343,Beekeeper,Howard McGinnis,,Howard,McGinnis,,howard@nalo-meli.com,(808) 258-7296,,,,1,0000-00-00 00:00:00
+50420,1344,Owner,Kaiulani Cowell,,Kaiulani,Cowell,,kaispices@lava.net,(808) 946-9202,,,,1,0000-00-00 00:00:00
+50421,1345,Owner,Joy Tamaribuchi,,Joy,Tamaribuchi,,joytamaribuchi@yahoo.com,(808) 337-2137,,,,1,0000-00-00 00:00:00
+50422,1346,Owner,Nelsson Becerra,,Nelsson,Becerra,,coffee@konaleacafe.com,(808) 951-8200,,,,1,0000-00-00 00:00:00
+50423,1347,Owner,Carol Toyama,,Carol,Toyama,,,(808) 845-2305,,,,1,0000-00-00 00:00:00
+50424,1348,Owner,Lynette Jee,,Lynette,Jee,,,(808) 589-1181,,,,1,0000-00-00 00:00:00
+50425,1349,,Joe Azzaro,,Joe,Azzaro,,j_Azzaro@palamamt.com,(808) 682-8305,,,,1,0000-00-00 00:00:00
+50426,1350,Owner,George Yokoyama,,George,Yokoyama,,rainbow@interpac.net,(808) 961-2681,,,,1,0000-00-00 00:00:00
+50427,1351,Owner,Thomas Jones,,Thomas,Jones,,tomjones@reihawaii.com,(808) 226-4866,,,,1,0000-00-00 00:00:00
+50428,1352,Owner,Guy Toyama,,Guy,Toyama,,info@saversholdings.com,(808) 329-7873,,,,1,0000-00-00 00:00:00
+50429,9,,Robert Kekelic,,Robert,Kekelic,,robertk@higp.net,,,,,0,0000-00-00 00:00:00
+50430,1353,President,Warren Watanabe,,Warren,Watanabe,,warrenmcfb@hotmail.com,(808) 878-2688,,,,1,0000-00-00 00:00:00
+50431,1354,President,,,,,,bifb@hawaiiantel.net,(808) 324-6011,,,,1,0000-00-00 00:00:00
+50432,1183,Sales Manager,Tom Asano,,Tom,Asano,,tom_kulanafoods@hotmail.com,(808) 959-9144,(808) 640-8317,,Cellular,1,0000-00-00 00:00:00
+50433,1356,General Manager,Mattei,,Mattei,,,,(808) 847-1750,(808) 772-1054,,Cellular,1,0000-00-00 00:00:00
+50434,1357,Managing Partner,Rebeca Krones,,Rebeca,Krones,,rebeca@tropicaltradersfoods.com,(510) 601-5632,,,,1,0000-00-00 00:00:00
+50435,1358,Owner,Glenn Martinez,,Glenn,Martinez,,olomanagardens@hawaii.rr.com,(808) 259-0223,,,,1,0000-00-00 00:00:00
+50436,1359,Director,Eva Lee,,Eva,Lee,,info@hawaiiteasociety.org,(808) 968-1333,,,,1,0000-00-00 00:00:00
+50437,1360,Owner,Kimberly Ino,,Kimberly,Ino,,info@maunakeatea.com,(808) 775-1011,,,,1,0000-00-00 00:00:00
+50099,1091,,Denise Fleetham,,Denise,Fleetham,,denise@rainbowridgesoap.com,(808) 573-1675,,,,1,0000-00-00 00:00:00
+50100,1092,,Sam Lareau,,Sam,Lareau,,,(808) 572-7878,(808) 877-4799,,Fax,1,0000-00-00 00:00:00
+50101,309,,Judy Nakamura,,Judy,Nakamura,,jnakamura@mlpmaui.com,(808) 877-3805,,,,0,0000-00-00 00:00:00
+50102,1093,,Ken Tuzzolino,,Ken,Tuzzolino,,,(808) 878-3060,,,,1,0000-00-00 00:00:00
+50103,1094,,Cris South,,Cris,South,,,(808) 573-7524,,,,1,0000-00-00 00:00:00
+50104,1095,,Frank Tarantino,,Frank,Tarantino,,unclecuzzosmaui@aol.com,(808) 879-4343,,,,1,0000-00-00 00:00:00
+50105,1096,,Henry Aarona,,Henry,Aarona,,hkaarona@hawaii.rr.com,(808) 268-3062,,,,1,0000-00-00 00:00:00
+50108,1101,Owner,Peter Fithian,,Peter,Fithian,,,(808) 836-0161,,,,1,0000-00-00 00:00:00
+50109,1100,,George Chang,,George,Chang,,,(808) 595-3616,,,,1,0000-00-00 00:00:00
+50110,1102,,Kennard Hicks,,Kennard,Hicks,,,(808) 696-8097,,,,1,0000-00-00 00:00:00
+50111,1103,President,Stanley Watanabe,,Stanley,Watanabe,,sworchids@hotmail.com,(808) 696-3864,(808) 671-3627,,,1,0000-00-00 00:00:00
+50112,1104,Owner,Mr. Sheldon Takasaki,Mr.,Sheldon,Takasaki,,takasakis001@hawaii.rr.com,(808) 963-6189,,,,1,0000-00-00 00:00:00
+50113,1105,,Manager,,,Manager,,haikumaui.orchids@hawaiiantel.net,(808) 573-1130,,,,1,0000-00-00 00:00:00
+50114,1106,,Ernest Koreyasu,,Ernest,Koreyasu,,,(808) 237-8869,,,,1,0000-00-00 00:00:00
+50116,1108,,Jim Liao,,Jim,Liao,,,(808) 668-1011,,,,1,0000-00-00 00:00:00
+50117,1109,,Stephen Maemoto,,Stephen,Maemoto,,,(808) 696-0173,,,,1,0000-00-00 00:00:00
+50118,1110,,Frank Foster,,Frank,Foster,,,(808) 638-7771,,,,1,0000-00-00 00:00:00
+50119,1099,,Administrator,,,Administrator,,,,,,,1,0000-00-00 00:00:00
+50120,1111,,Lee Peterson,,Karen,Paterson,,huladaddycoffee@gmail.com,(808) 327-9744,,,,1,2/28/11 10:07
+50121,1112,,Carl,,Carl,,,info@pahoasunrise.com,(808) 551-8832,,,,1,0000-00-00 00:00:00
+50123,1114,Owner,Dutchy Inman,,Dutchy,Inman,,hawnherbaltea@aol.com,(808) 982-5270,,,,1,9/9/11 11:21
+50124,1115,,Susan Hamilton,,Susan,Hamilton,,hami@plantithawaii.com,(808) 966-6633,,,,1,0000-00-00 00:00:00
+50125,1116,Owner,Cary Dizon,,Cary,Dizon,,cpd@dfarm.us,(808) 966-7421,,,,1,0000-00-00 00:00:00
+50127,1118,,Roy Shimizu,,Roy,Shimizu,,,(808) 696-3667,,,,1,0000-00-00 00:00:00
+50128,1119,,Michio Shitanishi,,Michio,Shitanishi,,,(808) 395-3198,,,,1,0000-00-00 00:00:00
+50129,1120,,Aaron Uyema,,Aaron,Uyema,,,(808) 259-7965,,,,1,0000-00-00 00:00:00
+50130,1121,,Gordon Wong,,Gordon,Wong,,,(808) 239-8117,,,,1,0000-00-00 00:00:00
+50131,1122,,David Yamada,,David,Yamada,,,(808) 259-8079,,,,1,0000-00-00 00:00:00
+50132,1123,,Jay Ram,,Jay,Ram,,,(808) 960-7692,,,,1,0000-00-00 00:00:00
+50133,1124,,Nina Gutmanis,,Nina,Gutmanis,,endflorahi@aol.com,(808) 968-8350,,,,1,0000-00-00 00:00:00
+50134,1125,,John James,,John,James,,dimitri@hawaiiantel.net,(808) 826-6131,,,,1,0000-00-00 00:00:00
+50135,1126,,Customer Service,,Customer,Service,,,(808) 573-3500,,,,1,0000-00-00 00:00:00
+50136,1127,,C Wilson,,C,Wilson,,wilsonc@hawaii.rr.com,(808) 293-0328,,,,1,0000-00-00 00:00:00
+50137,1128,,Jean Olson,,Jean,Olson,,spcyrngr@aol.com,(808) 938-2648,,,,1,0000-00-00 00:00:00
+50138,1129,,Customer Service,,Customer,Service,,mail@nonialoha.com,(808) 262-0185,,,,1,0000-00-00 00:00:00
+50140,1131,,Patrick Walsh,,Patrick,Walsh,,,(808) 966-7814,,,,1,0000-00-00 00:00:00
+50142,1133,,Customer Service,,Customer,Service,,,(808) 345-8598,,,,1,0000-00-00 00:00:00
+50143,902,,Olivia Cockroft,,Olivia,Cockroft,,,(808) 965-9197,,,,1,0000-00-00 00:00:00
+50144,1134,Owner,Phil Green,,Phil,Green,,phil@kauaiorganicfarms.com,(808) 651-8843,,,,1,0000-00-00 00:00:00
+50145,1135,,Elizabeth Kilpatrick,,Elizabeth,Kilpatrick,,sailom@earthlink.com,(808) 328-1526,,,,1,0000-00-00 00:00:00
+50146,1136,,Peter Shackelford,,Peter,Shackelford,,,(808) 936-3233,,,,1,0000-00-00 00:00:00
+50147,1137,,Mark Johnson,,Mark,Johnson,,,(808) 965-1208,,,,1,0000-00-00 00:00:00
+50148,1138,Manager,Michael Harvey,,Michael,Harvey,,sales@healingnoni.com,(808) 966-6980,(877) 662-4610,,,1,0000-00-00 00:00:00
+50149,1139,Administrator,Judy Schilling,,Judy,Schilling,,info@hena.org,(808) 969-2088,,,,1,0000-00-00 00:00:00
+50150,1140,Chairperson,Graham Wood,,Graham,Wood,,graham@lehuaorchids.com,(808) 968-8898,,,,1,0000-00-00 00:00:00
+50441,1365,Owner,Dennis Alessio,,Dennis,Alessio,,alessio@hawaiiantel.net,(808) 443-4474,(808) 974-1023,,,1,0000-00-00 00:00:00
+50442,1361,Manager,Greg Peterson,,Greg,Peterson,,hawaiiannectar@gingerade.com,(808) 987-8985,(888) 777-6150,,,1,0000-00-00 00:00:00
+50443,1366,President,Kevin Kraft,,Kevin,Kraft,,kevin@tradewinds-global.com,(808) 457-1904,(808) 523-2322,,,1,0000-00-00 00:00:00
+50444,1367,Owner,Dale,,Dale,,,dalej@aloha.net,(808) 329-7341,(808) 322-7108,,,1,0000-00-00 00:00:00
+50445,1368,Owner,,,Dennis,Mitchell,,fishguru@thefishshack.com,(808) 873-9999,,,,1,12/29/11 16:21
+50446,1369,Owner,Rick Spencer,,Rick,Spencer,,limu@lava.net,(808) 293-1230,,,,1,0000-00-00 00:00:00
+50459,1190,CPO,NULL,Mrs.,Test,Entry,ING,junk@hawaii.gov,,,,,0,6/18/08 17:03
+50483,1378,,NULL,,,Owner,,magnessma@hawaiiantel.net,808-328-9873,,,,1,7/24/08 13:36
+50484,1379,,NULL,,,Owner,,konamoon@clearwire.net,808-479-8550,,,,1,7/24/08 13:45
+50485,1380,,NULL,,Roy,Honda,Y.,Royhonda@hawaiiantel.net,808-328-9188,,,,1,7/24/08 13:51
+50486,1381,,NULL,,,Owner,,mintybits@gmail.com,808-938-3583,,,,1,7/24/08 13:58
+50487,1382,,NULL,,,Owner,,,,,,,1,7/24/08 14:03
+50488,1383,,NULL,,,Owner,,nuts@konahawkfarms.com,,,,,1,7/24/08 14:19
+50489,1384,,NULL,,,Owner,,sales@konakingcoffee.net,808-323-3626,,,,1,7/25/08 11:07
+50490,1385,,NULL,,,,,lamontj001@hawaii.rr.com,,,,,1,7/25/08 11:13
+50491,1387,,NULL,,,Owner,,,808-430-4647,,,,1,7/25/08 11:37
+50492,1388,,NULL,,,Owner,,konacoffee4@hawaiiantel.net,,,,,1,7/25/08 11:46
+50493,1389,,NULL,,,Owner,,jhonaunao@aol.com,808-328-9745,,,,1,7/25/08 11:54
+50494,1391,,NULL,,Bobbie,Becker,,mauicoffee@hawaiiantel.net,808-572-1370,,,,1,8/6/08 10:47
+50495,1392,,NULL,,Jerry,Driscoll,,jerry@nssoapfactory.com,808-637-8400,,,,1,8/7/08 7:43
+50496,1393,,NULL,,Ari,Patz,,ari@styrophobia.com,808-234-7336,808-391-7134,,,1,8/7/08 7:56
+50497,1394,,NULL,,Louis,Carl,,lcarl@hawaiianbrew.net,808-927-1432,,,,1,8/7/08 8:03
+50498,1395,,NULL,,Angelo,Cellini,,celliniA002@hawaii.rr.com,808-968-6122,808-756-1671,,,1,10/19/09 13:26
+50517,0,,NULL,,,,,,,,,,0,11/19/12 16:11
+50518,0,,NULL,,,,,,,,,,0,11/19/12 16:11
+50519,0,,NULL,,,,,,,,,,0,11/19/12 16:13
+50520,0,,NULL,,,,,,,,,,0,11/19/12 16:13
+50521,1434,,NULL,Ms.,Jacqueline,Suiter,,jackie@konacoffeepurveyors.com,808-845-1700,,,,1,5/15/14 11:41
+50522,1434,Owner,NULL,Mr.,Raymond,Suiter,,,,,,,0,5/15/14 11:41

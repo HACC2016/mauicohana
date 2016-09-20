@@ -1,0 +1,14 @@
+development: &defaults
+  reconnect: true
+  adapter: postgresql
+  username: root
+  password:
+  database: hacc_development
+  pool: 20
+
+test:
+  <<: *defaults
+  database: hacc_test
+
+production:
+  <<: *defaults
