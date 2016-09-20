@@ -12,7 +12,7 @@
 git clone https://github.com/HACC2016/mauicohana.git
 cd mauicohana/frontend
 npm install
-nam run dev
+npm run dev
 ```
 
 ##### Browser URL #####
